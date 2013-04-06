@@ -4,12 +4,17 @@ import java.util.Random;
 
 public class Scheduler 
 {
+	int numClass = 600;
+	int numStudent = 20000;
+	int numRoom = 300;
+	int numTime = 20;
+	
 	ArrayList<Student> students;
 	ArrayList<Class> classes;
 	ArrayList<Room> rooms;
-	int[][] overlapGraph = new int[10][10];
-	boolean[][] proposals = new boolean[10][25];
-	Class[][] schedule = new Class[5][5];
+	int[][] overlapGraph = new int[numClass][numClass];
+	boolean[][] proposals = new boolean[numClass][numRoom*numRoom];
+	Class[][] schedule = new Class[numRoom][numRoom];
 	LinkedList<Class> unassigned = new LinkedList<Class>();
 	
 	
@@ -22,8 +27,8 @@ public class Scheduler
 
 	public void init()
 	{
-		for(int i=0; i < 10; i++){
-			for(int k=0; k < 10; k++){
+		for(int i=0; i < numClass; i++){
+			for(int k=0; k < numClass; k++){
 				overlapGraph[i][k] = 0;
 			}
 		}
@@ -56,36 +61,37 @@ public class Scheduler
 			unassigned.remove(c);
 			Room r = getRoom(c);
 			
-			System.out.println("Proposal:");
-			System.out.println(c);
-			System.out.println(r);
-			proposals[c.id][r.id + (5*r.time)] = true;
+			//System.out.println("Proposal:");
+			//System.out.println(c);
+			//System.out.println(r);
+			proposals[c.id][r.id + (numRoom*r.time)] = true;
 			
 			//System.out.println(c);
 			//System.out.println(r);
 			
 			if(schedule[r.id][r.time] == null){
-				System.out.println("put it here");
+				//System.out.println("put it here");
 				schedule[r.id][r.time] = c;
 			}
 			else{
 				Class c2 = schedule[r.id][r.time];
-				System.out.println("Compare to class" + c2.id);
+				//System.out.println("Compare to class" + c2.id);
 				
 				if(eval(c, r) > eval(c2, r)){
-					System.out.println("Swap");
+					//System.out.println("Swap");
 					unassigned.addLast(c2);
 					schedule[r.id][r.time] = c;
 				}
 				else{
 					unassigned.addLast(c);
-					System.out.println("Denied");
+					//System.out.println("Denied");
 				}
 			}
 			
-			printSchedule();
+			//printSchedule();
 		}
-
+		
+		printSchedule();
 	}
 	
 	public Room getRoom(Class c)
@@ -95,7 +101,7 @@ public class Scheduler
 		
 		for(int i=0; i < rooms.size(); i++){
 			Room r = rooms.get(i);
-			if(proposals[c.id][r.id + (5*r.time)])
+			if(proposals[c.id][r.id + (numRoom*r.time)])
 				continue;
 			
 			int score = quickEval(c, r);
@@ -117,10 +123,12 @@ public class Scheduler
 	{
 		int score = 0;
 		
-		if(r.capacity < c.students.size())
-			score -= 100;
+		score -= r.time;
 		
-		score += (c.students.size() - r.capacity);
+		if(r.capacity < c.students.size())
+			score -= 10;
+		
+		score -= Math.abs(c.students.size() - r.capacity);
 		
 		return score;
 	}
@@ -129,27 +137,28 @@ public class Scheduler
 	{
 		int score = 0;
 		
+		score -= r.time;
+		if(r.capacity < c.students.size())
+			score -= 10;
 		score += (c.students.size() - r.capacity);
 		
-		for(int i=0; i < 5; i++){
+		for(int i=0; i < numRoom; i++){
 			if(r.id == i)
 				continue;
 			if(schedule[i][r.time] != null){
 				Class c2 = schedule[i][r.time];
-				
-				if(c.id != c2.id)
-					score -= overlapGraph[c.id][c2.id];
+				score -= overlapGraph[c.id][c2.id];
 			}
 		}
 		
-		System.out.println("Eval " + score);
+		//System.out.println("Eval " + score);
 		return score;
 	}
 	
 	private void printSchedule()
 	{
-		for(int i=0; i < 5; i++){
-			for(int j=0; j < 5; j++){
+		for(int i=0; i < numTime; i++){
+			for(int j=0; j < numRoom; j++){
 				Class dude = schedule[j][i];
 				if(dude != null)
 					System.out.print(" " + dude.id);
@@ -162,14 +171,14 @@ public class Scheduler
 	
 	public void getStudents()
 	{
-		for(int i=0; i < 100; i++){
+		for(int i=0; i < numStudent; i++){
 			students.add(new Student("student " + i, i));
 		}
 	}
 	
 	public void getClasses()
 	{
-		for(int i=0; i < 10; i++){
+		for(int i=0; i < numClass; i++){
 			Class c = new Class(i, 1);
 			classes.add(c);
 			unassigned.addLast(c);
@@ -178,8 +187,8 @@ public class Scheduler
 	
 	public void getRooms()
 	{
-		for(int i=0; i < 5; i++){
-			for(int t=0; t < 5; t++){
+		for(int i=0; i < numRoom; i++){
+			for(int t=0; t < numTime; t++){
 				rooms.add(new Room(i, t, (i+1) * 10));
 			}
 		}		
@@ -187,9 +196,9 @@ public class Scheduler
 	
 	public void getRegistrations()
 	{
-		Random r = new Random(183718363);
+		Random r = new Random(183363);
 		for(int i=0; i < students.size(); i++){
-			for(int k=0; k < 4; k++){
+			for(int k=0; k < 5; k++){
 				if(r.nextInt() % 2 == 0)
 					continue;
 				
@@ -202,13 +211,14 @@ public class Scheduler
 		}
 		
 		
-		for(int i=0; i < 10; i++){
-			for(int k=0; k < 10; k++){
+		for(int i=0; i < numClass; i++){
+			for(int k=0; k < numClass; k++){
 				Class c = classes.get(k);
 				for(int j=0; j < c.students.size(); j++){
 					if(classes.get(i).students.contains(c.students.get(j))){
 						overlapGraph[i][k] ++;
-						overlapGraph[k][i] ++;
+						if(i != k)
+							overlapGraph[k][i] ++;
 					}
 				}
 			}			
