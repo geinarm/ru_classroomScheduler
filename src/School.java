@@ -80,12 +80,13 @@ public class School {
 				String j = d[1].replace(").", "");
 				String i = d[2].replace("\"", "");
 				i = i.replace(").", "");
-				for (int x = 0; x < 8; x++) {
-					Room r = new Room(Integer.parseInt(h), x,
-							Integer.parseInt(j), i);
+				for (int time = 0; time < 8; time++) {
+					for(int day = 0; day < 5; day++){
+					Room r = new Room(Integer.parseInt(h), time,
+							Integer.parseInt(j), i, day);
 					r.setRoominputindex(roominputid);
 					roominputid++;
-					room.add(r);
+					room.add(r);}
 				}
 			}
 			if (line.startsWith("teacher") == true) {

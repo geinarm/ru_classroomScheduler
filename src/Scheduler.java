@@ -74,12 +74,12 @@ public class Scheduler {
 				// System.out.println("Compare to class" + c2.id);
 
 				if (eval(c, r) > eval(c2, r)) {
-					 System.out.println("Swap");
+					System.out.println("Swap");
 					unassigned.addLast(c2);
 					schedule[r.getRoominputindex()][r.time] = c;
 				} else {
 					unassigned.addLast(c);
-				 System.out.println("Denied");
+					System.out.println("Denied");
 				}
 			}
 		}
@@ -148,13 +148,18 @@ public class Scheduler {
 	}
 
 	private void printSchedule() {
+		String s[] = {"8:30","9:20","10:20","11:10","12:20","13:10","14:00","14:55"};
+		String d[] = {"Monday", "Tuesday", "Wednesday","Thursday","Friday"};
 		for (int i = 0; i < numTime; i++) {
 			for (int j = 0; j < S.rooms.size(); j++) {
 				Class dude = schedule[j][i];
-				if (dude != null)
-					System.out.print(" " + dude.id);
-				else
-					System.out.print(" _");
+				if (dude != null) {
+					System.out.print(S.rooms.get(j).name + ":");
+					System.out.print(" " + dude.id + " ");
+					System.out.print("Time: " + s[S.rooms.get(j).time] + " ");
+					System.out.print("Day: " +d[S.rooms.get(j).day] + " ");
+					System.out.print(" | ");
+				}
 			}
 			System.out.print("\n");
 		}
