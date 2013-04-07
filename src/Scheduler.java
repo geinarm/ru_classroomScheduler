@@ -85,7 +85,7 @@ public class Scheduler {
 		}
 
 		System.out.println("Stuff left: " + unassigned.size());
-		//printSchedule();
+		printSchedule();
 	}
 
 	public Room getRoom(Class c) {
@@ -105,6 +105,7 @@ public class Scheduler {
 		}
 
 		if (index == -1) {
+			System.out.println("No more rooms");
 			printSchedule();
 			System.exit(0);
 		}
