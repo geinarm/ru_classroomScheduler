@@ -10,6 +10,18 @@ public class Room {
 		return roominputindex;
 	}
 
+	
+	
+	public Room(int id, int time, int capacity, String name) {
+		super();
+		this.id = id;
+		this.time = time;
+		this.capacity = capacity;
+		this.name = name;
+	}
+
+
+
 	public void setRoominputindex(int roominputindex) {
 		this.roominputindex = roominputindex;
 	}

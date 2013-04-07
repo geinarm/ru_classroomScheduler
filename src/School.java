@@ -12,9 +12,8 @@ public class School {
 	int roominputid = 0;
 
 	public School importSchool() throws IOException {
-		BufferedReader reader = new BufferedReader(
-				new FileReader(
-						"myschool_data.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader(
+				"myschool_data.txt"));
 		String line;
 		ArrayList<Student> student = new ArrayList<Student>();
 		ArrayList<Class> classes = new ArrayList<Class>();
@@ -49,12 +48,14 @@ public class School {
 					String x = d[2].replace("\"", "");
 					String e = d[3];
 					String f = d[4].replace(").", "");
-					b = b + x;
+					if (Integer.parseInt(f) == 0) {
+					} else{
+						b = b + x;
 					Class c = new Class(b, Integer.parseInt(a),
 							Integer.parseInt(e), Integer.parseInt(f));
 					c.setInputId(inputclassnumber);
 					inputclassnumber++;
-					classes.add(c);
+					classes.add(c);}
 				} else {
 					String h = d[0].replace("course(", "");
 					String j = d[1].replace(").", "");
@@ -62,13 +63,16 @@ public class School {
 					String k = d[3];
 					j = j.replace("\"", "");
 					k = k.replace(").", "");
-					Class c = new Class(j, Integer.parseInt(h),
-							Integer.parseInt(i), Integer.parseInt(k));
-					c.setInputId(inputclassnumber);
-					inputclassnumber++;
-					classes.add(c);
+					if (Integer.parseInt(k) == 0) {
+					} else {
+						Class c = new Class(j, Integer.parseInt(h),
+								Integer.parseInt(i), Integer.parseInt(k));
+						c.setInputId(inputclassnumber);
+						inputclassnumber++;
+						classes.add(c);
+					}
 				}
-				
+
 			}
 			if (line.startsWith("room") == true) {
 				String[] d = line.split(",");
@@ -76,10 +80,13 @@ public class School {
 				String j = d[1].replace(").", "");
 				String i = d[2].replace("\"", "");
 				i = i.replace(").", "");
-				Room r = new Room(Integer.parseInt(h), Integer.parseInt(j), i);
-				r.setRoominputindex(roominputid);
-				roominputid++;
-				room.add(r);
+				for (int x = 0; x < 8; x++) {
+					Room r = new Room(Integer.parseInt(h), x,
+							Integer.parseInt(j), i);
+					r.setRoominputindex(roominputid);
+					roominputid++;
+					room.add(r);
+				}
 			}
 			if (line.startsWith("teacher") == true) {
 				String[] d = line.split(",");
