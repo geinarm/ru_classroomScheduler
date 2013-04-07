@@ -28,7 +28,10 @@ public class School {
 				String j = d[1].replace(").", "");
 				j = j.replace("\"", "");
 				Student s = new Student(j, Integer.parseInt(h));
-				student.add(s);
+				if (!student.contains(s))
+					student.add(s);
+				else
+					System.out.println("Skipped student");
 			}
 			if (line.startsWith("attends") == true) {
 				String[] d = line.split(",");
@@ -49,13 +52,15 @@ public class School {
 					String e = d[3];
 					String f = d[4].replace(").", "");
 					if (Integer.parseInt(f) == 0) {
+					
 					} else{
 						b = b + x;
-					Class c = new Class(b, Integer.parseInt(a),
+						Class c = new Class(b, Integer.parseInt(a),
 							Integer.parseInt(e), Integer.parseInt(f));
-					c.setInputId(inputclassnumber);
-					inputclassnumber++;
-					classes.add(c);}
+						c.setInputId(inputclassnumber);
+						inputclassnumber++;
+						classes.add(c);
+					}
 				} else {
 					String h = d[0].replace("course(", "");
 					String j = d[1].replace(").", "");
@@ -117,9 +122,13 @@ public class School {
 			}
 		}
 		for (int i = 0; i < attendent.size(); i++) {
+			Attends attend = attendent.get(i);
 			for (int j = 0; j < S.classes.size(); j++) {
-				if (attendent.get(i).courseId == S.classes.get(j).getId())
-					S.classes.get(j).students.add(student.get(i).getId());
+				Class klass = S.classes.get(j);
+				if (attend.courseId == klass.getId()) {
+					klass.students.add(attend.studentId);
+					break;
+				}
 			}
 		}
 		return S;

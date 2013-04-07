@@ -22,4 +22,13 @@ public class Student {
 		this.name = name;
 		this.id = id;
 	}
+	
+	@Override public boolean equals(Object s) {
+		if (this == s) return true;
+		if (!(s instanceof Student)) return false;
+		
+		Student st = (Student) s;
+		boolean ret = (st.id == id);
+		return ret;
+	}
 }
