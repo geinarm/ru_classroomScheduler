@@ -155,7 +155,7 @@ public class Scheduler {
 				Class dude = schedule[j][i];
 				if (dude != null) {
 					System.out.print(S.rooms.get(j).name + ":");
-					System.out.print(" " + dude.id + " ");
+					System.out.print(" " + S.getClassById(dude.id).getId() + " ");
 					System.out.print("Time: " + s[S.rooms.get(j).time] + " ");
 					System.out.print("Day: " +d[S.rooms.get(j).day] + " ");
 					System.out.print(" | ");

@@ -9,6 +9,7 @@ public class Class {
 	ArrayList<Integer> students = new ArrayList<Integer>();
 	ArrayList<Integer> teachers = new ArrayList<Integer>();
 	int inputId;
+	
 
 	public int getInputId() {
 		return inputId;

@@ -52,11 +52,11 @@ public class School {
 					String e = d[3];
 					String f = d[4].replace(").", "");
 					if (Integer.parseInt(f) == 0) {
-					
-					} else{
+
+					} else {
 						b = b + x;
 						Class c = new Class(b, Integer.parseInt(a),
-							Integer.parseInt(e), Integer.parseInt(f));
+								Integer.parseInt(e), Integer.parseInt(f));
 						c.setInputId(inputclassnumber);
 						inputclassnumber++;
 						classes.add(c);
@@ -86,12 +86,13 @@ public class School {
 				String i = d[2].replace("\"", "");
 				i = i.replace(").", "");
 				for (int time = 0; time < 8; time++) {
-					for(int day = 0; day < 5; day++){
-					Room r = new Room(Integer.parseInt(h), time,
-							Integer.parseInt(j), i, day);
-					r.setRoominputindex(roominputid);
-					roominputid++;
-					room.add(r);}
+					for (int day = 0; day < 5; day++) {
+						Room r = new Room(Integer.parseInt(h), time,
+								Integer.parseInt(j), i, day);
+						r.setRoominputindex(roominputid);
+						roominputid++;
+						room.add(r);
+					}
 				}
 			}
 			if (line.startsWith("teacher") == true) {
@@ -140,6 +141,14 @@ public class School {
 		this.classes = classes;
 		this.rooms = rooms;
 		this.teachers = teachers;
+	}
+
+	public Class getClassById(int id) {
+		for (Class s : classes) {
+			if (s.id == id)
+				return s;
+		}
+		return null;
 	}
 
 	School() {
