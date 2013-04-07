@@ -5,7 +5,7 @@ public class Scheduler {
 	/*
 	 * int numClass = 600; int numStudent = 20000; int numRoom = 300;
 	 */
-	int numTime = 20;
+	int numTime = 8;
 	School S = new School();
 
 	int[][] overlapGraph;
@@ -22,7 +22,7 @@ public class Scheduler {
 		overlapGraph = new int[S.classes.size()][S.classes.size()];
 		proposals = new boolean[S.classes.size()][S.rooms.size()
 				* S.rooms.size()];
-		schedule = new Class[S.rooms.size()][S.rooms.size()];
+		schedule = new Class[S.rooms.size()][numTime];
 	}
 
 	public void init() {
