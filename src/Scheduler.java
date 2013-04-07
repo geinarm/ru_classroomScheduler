@@ -61,7 +61,7 @@ public class Scheduler {
 			// System.out.println("Proposal:");
 			// System.out.println(c);
 			// System.out.println(r);
-			proposals[c.getInputId()][r.id + (S.rooms.size() * r.time)] = true;
+			proposals[c.getInputId()][r.roominputindex] = true;
 
 			// System.out.println(c);
 			// System.out.println(r);
@@ -84,7 +84,8 @@ public class Scheduler {
 			}
 		}
 
-		printSchedule();
+		System.out.println("Stuff left: " + unassigned.size());
+		//printSchedule();
 	}
 
 	public Room getRoom(Class c) {
@@ -93,8 +94,7 @@ public class Scheduler {
 
 		for (int i = 0; i < S.rooms.size(); i++) {
 			Room r = S.rooms.get(i);
-			if (proposals[c.getInputId()][r.getRoominputindex()
-					+ (S.rooms.size() * r.time)])
+			if (proposals[c.getInputId()][r.getRoominputindex()])
 				continue;
 
 			int score = quickEval(c, r);
