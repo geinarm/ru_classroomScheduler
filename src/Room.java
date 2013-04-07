@@ -3,6 +3,16 @@ public class Room {
 	int time;
 	int capacity;
 	String name;
+	int roominputindex;
+	
+
+	public int getRoominputindex() {
+		return roominputindex;
+	}
+
+	public void setRoominputindex(int roominputindex) {
+		this.roominputindex = roominputindex;
+	}
 
 	public String getName() {
 		return name;

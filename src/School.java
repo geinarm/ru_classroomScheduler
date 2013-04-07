@@ -12,7 +12,7 @@ public class School {
 	public School importSchool() throws IOException {
 		BufferedReader reader = new BufferedReader(
 				new FileReader(
-						"C:\\Users\\Thasnowbear\\Documents\\GitHub\\ru_classroomScheduler\\myschool_data.txt"));
+						"myschool_data.txt"));
 		String line;
 		ArrayList<Student> student = new ArrayList<Student>();
 		ArrayList<Class> classes = new ArrayList<Class>();

@@ -7,7 +7,16 @@ public class Class {
 	int numberaweek; // Dummy value always 4;
 	int studentCount;
 	ArrayList<Integer> students = new ArrayList<Integer>();
-	ArrayList<Integer> teachers = new ArrayList<Integer>();;
+	ArrayList<Integer> teachers = new ArrayList<Integer>();
+	int inputId;
+
+	public int getInputId() {
+		return inputId;
+	}
+
+	public void setInputId(int inputId) {
+		this.inputId = inputId;
+	}
 
 	public Class(String name, int id, int numberaweek, int studentCount) {
 		this.name = name;

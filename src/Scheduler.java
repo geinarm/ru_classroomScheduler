@@ -4,24 +4,32 @@ import java.util.LinkedList;
 import java.util.Random;
 
 public class Scheduler {
-	int numClass = 600;
-	int numStudent = 20000;
-	int numRoom = 300;
+	/*
+	 * int numClass = 600; int numStudent = 20000; int numRoom = 300;
+	 */
 	int numTime = 20;
 	School S = new School();
 
-	int[][] overlapGraph = new int[numClass][numClass];
-	boolean[][] proposals = new boolean[numClass][numRoom * numRoom];
-	Class[][] schedule = new Class[numRoom][numRoom];
+	int[][] overlapGraph;
+	boolean[][] proposals;
+	Class[][] schedule;
 	LinkedList<Class> unassigned = new LinkedList<Class>();
+
+	// int[][] overlapGraph = new int[numClass][numClass];
+	// boolean[][] proposals = new boolean[numClass][numRoom * numRoom];
+	// Class[][] schedule = new Class[numRoom][numRoom];
 
 	public Scheduler() throws IOException {
 		S = S.importSchool();
+		overlapGraph = new int[S.classes.size()][S.classes.size()];
+		proposals = new boolean[S.classes.size()][S.rooms.size()
+				* S.rooms.size()];
+		schedule = new Class[S.rooms.size()][S.rooms.size()];
 	}
 
 	public void init() {
-		for (int i = 0; i < numClass; i++) {
-			for (int k = 0; k < numClass; k++) {
+		for (int i = 0; i < S.classes.size(); i++) {
+			for (int k = 0; k < S.classes.size(); k++) {
 				overlapGraph[i][k] = 0;
 			}
 		}
@@ -31,15 +39,13 @@ public class Scheduler {
 		 * 
 		 * getRegistrations();
 		 */
-		for (int i = 0; i < S.classes.size(); i++) {
-			Class c = S.classes.get(i);
-			// System.out.println("class" + c.id+ ":");
-			for (int k = 0; k < c.students.size(); k++) {
-				Student s = S.students.get(k);
-				System.out.println(s.name);
-			}
-		}
-
+		/*
+		 * for (int i = 0; i < S.classes.size(); i++) { Class c =
+		 * S.classes.get(i); // System.out.println("class" + c.id+ ":"); for
+		 * (int k = 0; k < c.students.size(); k++) { Student s =
+		 * S.students.get(k); System.out.println(s.name); } }
+		 */
+		getClasses();
 		printOverlapGraph();
 
 	}
@@ -55,29 +61,27 @@ public class Scheduler {
 			// System.out.println("Proposal:");
 			// System.out.println(c);
 			// System.out.println(r);
-			proposals[c.id][r.id + (numRoom * r.time)] = true;
+			proposals[c.getInputId()][r.id + (S.rooms.size() * r.time)] = true;
 
 			// System.out.println(c);
 			// System.out.println(r);
 
-			if (schedule[r.id][r.time] == null) {
+			if (schedule[r.getRoominputindex()][r.time] == null) {
 				// System.out.println("put it here");
-				schedule[r.id][r.time] = c;
+				schedule[r.getRoominputindex()][r.time] = c;
 			} else {
-				Class c2 = schedule[r.id][r.time];
+				Class c2 = schedule[r.getRoominputindex()][r.time];
 				// System.out.println("Compare to class" + c2.id);
 
 				if (eval(c, r) > eval(c2, r)) {
-					// System.out.println("Swap");
+		//			System.out.println("Swap");
 					unassigned.addLast(c2);
-					schedule[r.id][r.time] = c;
+					schedule[r.getRoominputindex()][r.time] = c;
 				} else {
 					unassigned.addLast(c);
-					// System.out.println("Denied");
+		//			System.out.println("Denied");
 				}
 			}
-
-			// printSchedule();
 		}
 
 		printSchedule();
@@ -89,7 +93,7 @@ public class Scheduler {
 
 		for (int i = 0; i < S.rooms.size(); i++) {
 			Room r = S.rooms.get(i);
-			if (proposals[c.id][r.id + (numRoom * r.time)])
+			if (proposals[c.getInputId()][r.getRoominputindex() + (S.rooms.size() * r.time)])
 				continue;
 
 			int score = quickEval(c, r);
@@ -128,12 +132,12 @@ public class Scheduler {
 			score -= 10;
 		score += (c.students.size() - r.capacity);
 
-		for (int i = 0; i < numRoom; i++) {
+		for (int i = 0; i < S.rooms.size(); i++) {
 			if (r.id == i)
 				continue;
 			if (schedule[i][r.time] != null) {
 				Class c2 = schedule[i][r.time];
-				score -= overlapGraph[c.id][c2.id];
+				score -= overlapGraph[c.inputId][c2.inputId];
 			}
 		}
 
@@ -143,7 +147,7 @@ public class Scheduler {
 
 	private void printSchedule() {
 		for (int i = 0; i < numTime; i++) {
-			for (int j = 0; j < numRoom; j++) {
+			for (int j = 0; j < S.rooms.size(); j++) {
 				Class dude = schedule[j][i];
 				if (dude != null)
 					System.out.print(" " + dude.id);
@@ -158,12 +162,16 @@ public class Scheduler {
 	/*
 	 * public void getStudents() { for(int i=0; i < numStudent; i++){
 	 * students.add(new Student("student " + i, i)); } }
-	 * 
-	 * public void getClasses() { for(int i=0; i < numClass; i++){ Class c = new
-	 * Class(i, 1); classes.add(c); unassigned.addLast(c); } }
-	 * 
-	 * public void getRooms() { for(int i=0; i < numRoom; i++){ for(int t=0; t <
-	 * numTime; t++){ rooms.add(new Room(i, t, (i+1) * 10)); } } }
+	 */
+	public void getClasses() {
+		for (int i = 0; i < S.classes.size(); i++) {
+			unassigned.addLast(S.classes.get(i));
+		}
+	}
+
+	/*
+	 *  * public void getRooms() { for(int i=0; i < numRoom; i++){ for(int t=0; t
+	 * < numTime; t++){ rooms.add(new Room(i, t, (i+1) * 10)); } } }
 	 * 
 	 * public void getRegistrations() { Random r = new Random(183363); for(int
 	 * i=0; i < students.size(); i++){ for(int k=0; k < 5; k++){ if(r.nextInt()
