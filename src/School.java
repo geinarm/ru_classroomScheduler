@@ -8,6 +8,8 @@ public class School {
 	ArrayList<Class> classes;
 	ArrayList<Room> rooms;
 	ArrayList<Teacher> teachers;
+	int inputclassnumber = 0;
+	int roominputid = 0;
 
 	public School importSchool() throws IOException {
 		BufferedReader reader = new BufferedReader(
@@ -50,6 +52,8 @@ public class School {
 					b = b + x;
 					Class c = new Class(b, Integer.parseInt(a),
 							Integer.parseInt(e), Integer.parseInt(f));
+					c.setInputId(inputclassnumber);
+					inputclassnumber++;
 					classes.add(c);
 				} else {
 					String h = d[0].replace("course(", "");
@@ -60,8 +64,11 @@ public class School {
 					k = k.replace(").", "");
 					Class c = new Class(j, Integer.parseInt(h),
 							Integer.parseInt(i), Integer.parseInt(k));
+					c.setInputId(inputclassnumber);
+					inputclassnumber++;
 					classes.add(c);
 				}
+				
 			}
 			if (line.startsWith("room") == true) {
 				String[] d = line.split(",");
@@ -70,6 +77,8 @@ public class School {
 				String i = d[2].replace("\"", "");
 				i = i.replace(").", "");
 				Room r = new Room(Integer.parseInt(h), Integer.parseInt(j), i);
+				r.setRoominputindex(roominputid);
+				roominputid++;
 				room.add(r);
 			}
 			if (line.startsWith("teacher") == true) {

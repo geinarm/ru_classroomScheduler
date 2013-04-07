@@ -44,6 +44,7 @@ public class Scheduler {
 		 * S.students.get(k); System.out.println(s.name); } }
 		 */
 		getClasses();
+		getRegistrations();
 		printOverlapGraph();
 
 	}
@@ -52,6 +53,7 @@ public class Scheduler {
 		System.out.println("Solve this shit");
 
 		while (!unassigned.isEmpty()) {
+			System.out.println(unassigned.size());
 			Class c = unassigned.getFirst();
 			unassigned.remove(c);
 			Room r = getRoom(c);
@@ -72,12 +74,12 @@ public class Scheduler {
 				// System.out.println("Compare to class" + c2.id);
 
 				if (eval(c, r) > eval(c2, r)) {
-		//			System.out.println("Swap");
+					 System.out.println("Swap");
 					unassigned.addLast(c2);
 					schedule[r.getRoominputindex()][r.time] = c;
 				} else {
 					unassigned.addLast(c);
-		//			System.out.println("Denied");
+				 System.out.println("Denied");
 				}
 			}
 		}
@@ -91,7 +93,8 @@ public class Scheduler {
 
 		for (int i = 0; i < S.rooms.size(); i++) {
 			Room r = S.rooms.get(i);
-			if (proposals[c.getInputId()][r.getRoominputindex() + (S.rooms.size() * r.time)])
+			if (proposals[c.getInputId()][r.getRoominputindex()
+					+ (S.rooms.size() * r.time)])
 				continue;
 
 			int score = quickEval(c, r);
@@ -168,26 +171,26 @@ public class Scheduler {
 	}
 
 	/*
-	 *  * public void getRooms() { for(int i=0; i < numRoom; i++){ for(int t=0; t
+	 * * public void getRooms() { for(int i=0; i < numRoom; i++){ for(int t=0; t
 	 * < numTime; t++){ rooms.add(new Room(i, t, (i+1) * 10)); } } }
-	 * 
-	 * public void getRegistrations() { Random r = new Random(183363); for(int
-	 * i=0; i < students.size(); i++){ for(int k=0; k < 5; k++){ if(r.nextInt()
-	 * % 2 == 0) continue;
-	 * 
-	 * int classIndex = Math.abs(r.nextInt() % classes.size()); Class c =
-	 * classes.get(classIndex);
-	 * 
-	 * if(!c.students.contains(i)) c.students.add(i); } }
-	 * 
-	 * 
-	 * for(int i=0; i < numClass; i++){ for(int k=0; k < numClass; k++){ Class c
-	 * = classes.get(k); for(int j=0; j < c.students.size(); j++){
-	 * if(classes.get(i).students.contains(c.students.get(j))){
-	 * overlapGraph[i][k] ++; if(i != k) overlapGraph[k][i] ++; } } } }
-	 * 
-	 * }
 	 */
+
+	public void getRegistrations() {
+		for (int i = 0; i < S.classes.size(); i++) {
+			for (int k = 0; k < S.classes.size(); k++) {
+				Class c = S.classes.get(k);
+				for (int j = 0; j < c.students.size(); j++) {
+					if (S.classes.get(i).students.contains(c.students.get(j))) {
+						overlapGraph[i][k]++;
+						if (i != k)
+							overlapGraph[k][i]++;
+					}
+				}
+			}
+		}
+
+	}
+
 	void printOverlapGraph() {
 		System.out.print("  ");
 		for (int i = 0; i < S.classes.size(); i++) {
