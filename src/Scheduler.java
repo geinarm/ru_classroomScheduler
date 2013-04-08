@@ -6,6 +6,7 @@ public class Scheduler {
 	 * int numClass = 600; int numStudent = 20000; int numRoom = 300;
 	 */
 	int numTime = 8;
+	int collisions = 0;
 	School S = new School();
 
 	int[][] overlapGraph;
@@ -74,18 +75,42 @@ public class Scheduler {
 				// System.out.println("Compare to class" + c2.id);
 
 				if (eval(c, r) > eval(c2, r)) {
-					System.out.println("Swap");
+			//		System.out.println("Swap");
 					unassigned.addLast(c2);
 					schedule[r.getRoominputindex()][r.time] = c;
 				} else {
 					unassigned.addLast(c);
-					System.out.println("Denied");
+			//		System.out.println("Denied");
 				}
 			}
 		}
 
 		System.out.println("Stuff left: " + unassigned.size());
 		printSchedule();
+	/*	for (int i = 0; i < numTime; i++) {
+			for (int j = 0; j < S.rooms.size(); j++) {
+				Class dude = schedule[j][i];
+				if (dude != null) {
+					for (int k = 0; k < S.rooms.size(); k++) {
+						Class dude2 = schedule[k][i];
+						if (dude2 != null) {
+							if (dude.id != dude2.id)
+								if (S.rooms.get(j).day == S.rooms.get(k).day)
+									if(S.rooms.get(j).time == S.rooms.get(k).time)
+									for (int l = 0; l < dude.students.size(); l++) {
+										for (int o = 0; o < dude2.students.size(); o++) {
+											int x = dude.students.get(l);
+											int z = dude2.students.get(o);
+											if (x == z)
+												collisions++;
+										}
+									}
+						}
+					}
+				}
+			}
+		}*/
+		System.out.println("Collisions: " + collisions);
 	}
 
 	public Room getRoom(Class c) {
@@ -148,16 +173,18 @@ public class Scheduler {
 	}
 
 	private void printSchedule() {
-		String s[] = {"8:30","9:20","10:20","11:10","12:20","13:10","14:00","14:55"};
-		String d[] = {"Monday", "Tuesday", "Wednesday","Thursday","Friday"};
+		String s[] = { "8:30", "9:20", "10:20", "11:10", "12:20", "13:10",
+				"14:00", "14:55" };
+		String d[] = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
 		for (int i = 0; i < numTime; i++) {
 			for (int j = 0; j < S.rooms.size(); j++) {
 				Class dude = schedule[j][i];
 				if (dude != null) {
 					System.out.print(S.rooms.get(j).name + ":");
-					System.out.print(" " + S.getClassById(dude.id).getId() + " ");
+					System.out.print(" " + S.getClassById(dude.id).getId()
+							+ " ");
 					System.out.print("Time: " + s[S.rooms.get(j).time] + " ");
-					System.out.print("Day: " +d[S.rooms.get(j).day] + " ");
+					System.out.print("Day: " + d[S.rooms.get(j).day] + " ");
 					System.out.print(" | ");
 				}
 			}

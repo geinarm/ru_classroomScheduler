@@ -30,8 +30,8 @@ public class School {
 				Student s = new Student(j, Integer.parseInt(h));
 				if (!student.contains(s))
 					student.add(s);
-				else
-					System.out.println("Skipped student");
+		//		else
+		//			System.out.println("Skipped student");
 			}
 			if (line.startsWith("attends") == true) {
 				String[] d = line.split(",");
