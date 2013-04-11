@@ -1,4 +1,5 @@
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class Scheduler {
@@ -11,19 +12,14 @@ public class Scheduler {
 
 	int[][] overlapGraph;
 	boolean[][] proposals;
-	Class[][] schedule;
+	Class[][][] schedule;
+	ArrayList<Timeslot> timeslots = new ArrayList<Timeslot>();
 	LinkedList<Class> unassigned = new LinkedList<Class>();
-
-	// int[][] overlapGraph = new int[numClass][numClass];
-	// boolean[][] proposals = new boolean[numClass][numRoom * numRoom];
-	// Class[][] schedule = new Class[numRoom][numRoom];
 
 	public Scheduler() throws IOException {
 		S = S.importSchool();
 		overlapGraph = new int[S.classes.size()][S.classes.size()];
-		proposals = new boolean[S.classes.size()][S.rooms.size()
-				* S.rooms.size()];
-		schedule = new Class[S.rooms.size()][numTime];
+		schedule = new Class[S.rooms.size()][numTime][5];
 	}
 
 	public void init() {
@@ -32,18 +28,21 @@ public class Scheduler {
 				overlapGraph[i][k] = 0;
 			}
 		}
-		// Redundant because of import school //
-		/*
-		 * getStudents(); getClasses(); getRooms();
-		 * 
-		 * getRegistrations();
-		 */
-		/*
-		 * for (int i = 0; i < S.classes.size(); i++) { Class c =
-		 * S.classes.get(i); // System.out.println("class" + c.id+ ":"); for
-		 * (int k = 0; k < c.students.size(); k++) { Student s =
-		 * S.students.get(k); System.out.println(s.name); } }
-		 */
+		
+		//Create a timeslot for all times of day for every day for every room
+		for(int r=0; r < S.rooms.size(); r++)
+		{
+			for(int t=0; t < numTime; t++)
+			{
+				for(int d=0; d < 5; d++)
+				{
+					timeslots.add(new Timeslot(d, t, S.rooms.get(r)));
+				}
+			}
+		}
+		
+		proposals = new boolean[S.classes.size()][timeslots.size()];
+
 		getClasses();
 		getRegistrations();
 		printOverlapGraph();
@@ -52,32 +51,25 @@ public class Scheduler {
 
 	public void solve() {
 		System.out.println("Solve this shit");
+		long timestamp = System.currentTimeMillis();
 
 		while (!unassigned.isEmpty()) {
-			System.out.println(unassigned.size());
+			//System.out.println(unassigned.size());
 			Class c = unassigned.getFirst();
 			unassigned.remove(c);
-			Room r = getRoom(c);
+			Timeslot t = getRoom(c);
 
-			// System.out.println("Proposal:");
-			// System.out.println(c);
-			// System.out.println(r);
-			proposals[c.getInputId()][r.roominputindex] = true;
-
-			// System.out.println(c);
-			// System.out.println(r);
-
-			if (schedule[r.getRoominputindex()][r.time] == null) {
+			if (schedule[t.room.getRoominputindex()][t.time][t.day] == null) {
 				// System.out.println("put it here");
-				schedule[r.getRoominputindex()][r.time] = c;
+				schedule[t.room.getRoominputindex()][t.time][t.day] = c;
 			} else {
-				Class c2 = schedule[r.getRoominputindex()][r.time];
+				Class c2 = schedule[t.room.getRoominputindex()][t.time][t.day];
 				// System.out.println("Compare to class" + c2.id);
 
-				if (eval(c, r) > eval(c2, r)) {
-			//		System.out.println("Swap");
+				if (eval(c, t) > eval(c2, t)) {
+					//System.out.println("Swap");
 					unassigned.addLast(c2);
-					schedule[r.getRoominputindex()][r.time] = c;
+					schedule[t.room.getRoominputindex()][t.time][t.day] = c;
 				} else {
 					unassigned.addLast(c);
 			//		System.out.println("Denied");
@@ -85,44 +77,23 @@ public class Scheduler {
 			}
 		}
 
-		System.out.println("Stuff left: " + unassigned.size());
+		//System.out.println("Stuff left: " + unassigned.size());
 		printSchedule();
-	/*	for (int i = 0; i < numTime; i++) {
-			for (int j = 0; j < S.rooms.size(); j++) {
-				Class dude = schedule[j][i];
-				if (dude != null) {
-					for (int k = 0; k < S.rooms.size(); k++) {
-						Class dude2 = schedule[k][i];
-						if (dude2 != null) {
-							if (dude.id != dude2.id)
-								if (S.rooms.get(j).day == S.rooms.get(k).day)
-									if(S.rooms.get(j).time == S.rooms.get(k).time)
-									for (int l = 0; l < dude.students.size(); l++) {
-										for (int o = 0; o < dude2.students.size(); o++) {
-											int x = dude.students.get(l);
-											int z = dude2.students.get(o);
-											if (x == z)
-												collisions++;
-										}
-									}
-						}
-					}
-				}
-			}
-		}*/
-		System.out.println("Collisions: " + collisions);
+		System.out.println("Final evaluation: " + finalEvaluation());
+		System.out.println("Solved in " + (System.currentTimeMillis()-timestamp)/1000.0 + " Seconds");
 	}
 
-	public Room getRoom(Class c) {
+	public Timeslot getRoom(Class c) {
 		int best = -10000;
 		int index = -1;
 
-		for (int i = 0; i < S.rooms.size(); i++) {
-			Room r = S.rooms.get(i);
-			if (proposals[c.getInputId()][r.getRoominputindex()])
+		for (int i = 0; i < timeslots.size(); i++) {
+			Timeslot t = timeslots.get(i);
+			
+			if (proposals[c.getInputId()][i])
 				continue;
 
-			int score = quickEval(c, r);
+			int score = eval(c, t);
 			if (score > best) {
 				best = score;
 				index = i;
@@ -135,61 +106,77 @@ public class Scheduler {
 			System.exit(0);
 		}
 
-		return S.rooms.get(index);
+		proposals[c.getInputId()][index] = true;
+		return timeslots.get(index);
 	}
 
-	public int quickEval(Class c, Room r) {
+	public int quickEval(Class c, Timeslot t) {
 		int score = 0;
 
-		score -= r.time;
-
-		if (r.capacity < c.students.size())
-			score -= 10;
-
-		score -= Math.abs(c.students.size() - r.capacity);
+		score -= Math.abs(c.students.size() - t.room.capacity);
 
 		return score;
 	}
 
-	public int eval(Class c, Room r) {
+	public int eval(Class c, Timeslot t) {
 		int score = 0;
 
-		score -= r.time;
-		if (r.capacity < c.students.size())
-			score -= 10;
-		score += (c.students.size() - r.capacity);
+		if (t.room.capacity < c.students.size())
+			score -= 100;
 
+		score -= Math.abs(c.students.size() - t.room.capacity);
+
+		//Check teacher conflicts
 		for (int i = 0; i < S.rooms.size(); i++) {
-			if (r.id == i)
+			if (t.room.roominputindex == i)
 				continue;
-			if (schedule[i][r.time] != null) {
-				Class c2 = schedule[i][r.time];
+			if (schedule[i][t.time][t.day] != null) {
+				Class c2 = schedule[i][t.time][t.day];
+				for(int teacherId : c.teachers){
+					if(c2.teachers.contains(teacherId))
+						return -10000;
+				}
+			}
+		}
+		
+		//Check student conflicts
+		for (int i = 0; i < S.rooms.size(); i++) {
+			if (t.room.roominputindex == i)
+				continue;
+			if (schedule[i][t.time][t.day] != null) {
+				Class c2 = schedule[i][t.time][t.day];
 				score -= overlapGraph[c.inputId][c2.inputId];
 			}
 		}
-
-		// System.out.println("Eval " + score);
+		
 		return score;
 	}
 
 	private void printSchedule() {
-		String s[] = { "8:30", "9:20", "10:20", "11:10", "12:20", "13:10",
+		String times[] = { "08:30", "09:20", "10:20", "11:10", "12:20", "13:10",
 				"14:00", "14:55" };
-		String d[] = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
-		for (int i = 0; i < numTime; i++) {
-			for (int j = 0; j < S.rooms.size(); j++) {
-				Class dude = schedule[j][i];
-				if (dude != null) {
-					System.out.print(S.rooms.get(j).name + ":");
-					System.out.print(" " + S.getClassById(dude.id).getId()
-							+ " ");
-					System.out.print("Time: " + s[S.rooms.get(j).time] + " ");
-					System.out.print("Day: " + d[S.rooms.get(j).day] + " ");
-					System.out.print(" | ");
+		String days[] = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
+		
+		for(int d=0; d < 5; d++){
+			System.out.println("\n" + days[d] + ":");
+			System.out.println("---------------------------------");
+			
+			for(int r=0; r < S.rooms.size(); r++){
+				Room room = S.rooms.get(r);
+				System.out.println(room.name + ":");
+				
+				for(int t=0; t < numTime; t++){
+					Class c = schedule[r][t][d];
+					System.out.print(times[t] + " : ");
+					if(c != null)
+						System.out.print(c.name + "\n");
+					else
+						System.out.print("N/A\n");
+					
 				}
 			}
-			System.out.print("\n");
 		}
+		
 	}
 
 	// Data already imported//
@@ -222,6 +209,29 @@ public class Scheduler {
 			}
 		}
 
+	}
+	
+	private int finalEvaluation()
+	{
+		int collisions = 0;
+		
+		for(int d=0; d < 5; d++){
+			for(int t=0; t < numTime; t++){
+				for(int r=0; r < S.rooms.size(); r++){
+					if(schedule[r][t][d] != null){
+						Class c1 = schedule[r][t][d];
+						for(int c=0; c < S.rooms.size(); c++){
+							if(schedule[c][t][d] != null && c != r){
+								Class c2 = schedule[c][t][d];
+								collisions += overlapGraph[c1.inputId][c2.inputId];
+							}
+						}					
+					}
+				}
+			}
+		}
+		
+		return collisions;
 	}
 
 	void printOverlapGraph() {

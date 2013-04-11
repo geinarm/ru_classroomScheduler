@@ -85,7 +85,15 @@ public class School {
 				String j = d[1].replace(").", "");
 				String i = d[2].replace("\"", "");
 				i = i.replace(").", "");
-				for (int time = 0; time < 8; time++) {
+				
+				//Create a new room
+				Room r = new Room(Integer.parseInt(h), 0, Integer.parseInt(j), i, 0);
+				r.setRoominputindex(roominputid);
+				roominputid++;
+				room.add(r);
+				
+				/*One room is enough
+				 * for (int time = 0; time < 8; time++) {
 					for (int day = 0; day < 5; day++) {
 						Room r = new Room(Integer.parseInt(h), time,
 								Integer.parseInt(j), i, day);
@@ -93,7 +101,7 @@ public class School {
 						roominputid++;
 						room.add(r);
 					}
-				}
+				}*/
 			}
 			if (line.startsWith("teacher") == true) {
 				String[] d = line.split(",");
