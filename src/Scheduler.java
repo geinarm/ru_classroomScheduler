@@ -140,25 +140,19 @@ public class Scheduler {
 			score -= 1000;
 		if (t.room.capacity < c.students.size())
 			score -= 100;
+		
+		if(c.wantroomtype == t.room.type)
+			score += 100;
+		else
+			score -= 100;
+		
 		if(Math.abs(c.students.size() - t.room.capacity) > 40)
 		score -= Math.abs(c.students.size() - t.room.capacity);
 		else
 			score += Math.abs(c.students.size() - t.room.capacity);
 
-		//Check teacher conflicts
-		/*for (int i = 0; i < S.rooms.size(); i++) {
-			if (t.room.roominputindex == i)
-				continue;
-			if (schedule[i][t.time][t.day] != null) {
-				Class c2 = schedule[i][t.time][t.day];
-				for(int teacherId : c.teachers){
-					if(c2.teachers.contains(teacherId))
-						return -10000;
-				}
-			}
-		}*/
 		
-		//Check student conflicts
+		//Check conflicts
 		for (int i = 0; i < S.rooms.size(); i++) {
 			if (t.room.roominputindex == i)
 				continue;
@@ -235,11 +229,22 @@ public class Scheduler {
 		for (int i = 0; i < S.classes.size(); i++) {
 			for (int k = 0; k < S.classes.size(); k++) {
 				Class c = S.classes.get(k);
+				
+				//Check students
 				for (int j = 0; j < c.students.size(); j++) {
 					if (S.classes.get(i).students.contains(c.students.get(j))) {
 						overlapGraph[i][k]++;
 						if (i != k)
 							overlapGraph[k][i]++;
+					}
+				}
+				
+				//Check teachers
+				for (int j = 0; j < c.teachers.size(); j++) {
+					if (S.classes.get(i).teachers.contains(c.teachers.get(j))) {
+						overlapGraph[i][k] += 10000;
+						if (i != k)
+							overlapGraph[k][i] += 10000;
 					}
 				}
 			}
