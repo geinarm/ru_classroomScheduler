@@ -44,19 +44,20 @@ public class School {
 			}
 			if (line.startsWith("course") == true) {
 				String[] d = line.split(",");
-				if (d.length >= 5) { // Case of ',' in name of course
+				if (d.length >= 6) { // Case of ',' in name of course
 					String a = d[0].replace("course(", "");
 					;
 					String b = d[1].replace("\"", "");
 					String x = d[2].replace("\"", "");
 					String e = d[3];
-					String f = d[4].replace(").", "");
+					String f = d[4];
+					String g = d[5].replace(").", "");
 					if (Integer.parseInt(f) == 0) {
 
 					} else {
 						b = b + x;
 						Class c = new Class(b, Integer.parseInt(a),
-								Integer.parseInt(e), Integer.parseInt(f));
+								Integer.parseInt(e), Integer.parseInt(f),g.charAt(0));
 						c.setInputId(inputclassnumber);
 						inputclassnumber++;
 						classes.add(c);
@@ -66,12 +67,12 @@ public class School {
 					String j = d[1].replace(").", "");
 					String i = d[2];
 					String k = d[3];
+					String p = d[4].replace(").", "");
 					j = j.replace("\"", "");
-					k = k.replace(").", "");
 					if (Integer.parseInt(k) == 0) {
 					} else {
 						Class c = new Class(j, Integer.parseInt(h),
-								Integer.parseInt(i), Integer.parseInt(k));
+								Integer.parseInt(i), Integer.parseInt(k), p.charAt(0));
 						c.setInputId(inputclassnumber);
 						inputclassnumber++;
 						classes.add(c);
@@ -83,11 +84,12 @@ public class School {
 				String[] d = line.split(",");
 				String h = d[0].replace("room(", "");
 				String j = d[1].replace(").", "");
-				String i = d[2].replace("\"", "");
+				String i = d[2];
+				String x = d[3].replace("\"", "");
 				i = i.replace(").", "");
 				
 				//Create a new room
-				Room r = new Room(Integer.parseInt(h), 0, Integer.parseInt(j), i, 0);
+				Room r = new Room(Integer.parseInt(h), 0, Integer.parseInt(j), i, 0,x.charAt(0));
 				r.setRoominputindex(roominputid);
 				roominputid++;
 				room.add(r);
@@ -162,4 +164,5 @@ public class School {
 
 	School() {
 	}
+	
 }

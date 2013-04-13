@@ -16510,586 +16510,587 @@ attends(9914,24056).
 attends(9914,24057).
 attends(9914,24683).
 attends(9914,24684).
-course(22012,"Auðgunar- og efnahagsbrot (L-840-WHCC)",4,47).
-course(22019,"Hagnýtur samningaréttur (L-828-PCLA)",4,70).
-course(22022,"Málstofa um hugverkaréttindi í alþjóðlegum viðskiptum og samninga þeim tengdum (L-717-STEC)",4,44).
-course(22023,"Ofbeldis- og fíkniefnabrot (L-865-VCDO)",4,49).
-course(22024,"Vátryggingaréttur (L-831-INLA)",4,53).
-course(22025,"ML- ritgerð (L-899-ML15)",4,64).
-course(22440,"Umhverfismat áætlana og framkvæmda (T-858-UMHV)",4,20).
-course(23096,"Advanced Project Management - Fengel (C-FAG-FEPM)",4,0).
-course(23263,"Sókn og vörn í sakamálum (L-708-HLOM)",4,54).
-course(23264,"Málstofa í auðlindarétti - Frá hugmynd til framkvæmdar (L-829-RSAL)",4,26).
-course(23270,"Evrópuréttur. State Aid and Competition (L-832-EVSC)",4,19).
-course(23271,"Evrópskur félagaréttur (L-756-EUCL)",4,36).
-course(23272,"Málstofa I í stjórnsýslurétti (L-728-READ)",4,33).
-course(23273,"The Philip C. Jessup Int. Law Moot Court Competition II (L-845-PJMC)",4,5).
-course(23275,"Starfsnám (L-800-INTE)",4,13).
-course(23340,"Réttindi barna: Velferðarstefna og lög (L-703-RBVL)",4,28).
-course(23341,"Úrlausn ágreiningsmála (m.a. fyrir dómstólum og stjórnvöldum) (L-713-URAG)",4,62).
-course(23349,"Alþjóðlegur skattaréttur I (L-716-SKAT)",4,62).
-course(23383,"Samþætt verkefni (T-870-INTE)",4,6).
-course(23385,"Mechatronics II (T-535-MECH)",4,13).
-course(23413,"Aðgerðagreining (T-403-ADGE)",4,113).
-course(23414,"Verkefnastjórnun og stefnumarkandi áætlunargerð (T-803-VERK)",4,44).
-course(23415,"Framleiðslustjórnun í framkvæmdum (T-816-FRAM)",4,15).
-course(23416,"Noktun líkana við stjórnun (T-808-NOLI)",4,18).
-course(23417,"Hagnýtt verkefni í aðgerðarrannsóknum (T-806-HAGN)",4,10).
-course(23420,"Vöruþróun og frumkvöðlafræði (T-814-PROD)",4,27).
-course(23421,"Rannsóknartengt verkefni í framkvæmdastjórnun (T-819-RANN)",4,1).
-course(23425,"Aðferðafræði rannsókna II (T-802-RESM)",4,33).
-course(23426,"Meistaraverkefni (T-899-MEIS)",4,39).
-course(23449,"Samspil: arkitektúr og verkfræði (T-821-FORM)",4,4).
-course(23452,"Rannsóknartengt verkefni í samgöngum og skipulagi (T-859-RANN)",4,4).
-course(23453,"Umferðarlíkön (T-858-UMLI)",4,6).
-course(23575,"Verðbréfamiðlun III (C-VBM III )",4,72).
-course(23596,"Íþróttasálfræði (E-511-SEPS)",4,73).
-course(23786,"Jarðskjálftahönnun (T-822-JARH)",4,4).
-course(23787,"Greining burðarvirkja með FEM (T-824-FEMM)",4,16).
-course(23788,"Rannsóknatengt verkefni í mannvirkjahönnun (T-829-RANN)",4,4).
-course(23789,"Stálvirki III (T-837-STAL)",4,1).
-course(23790,"Advanced Concrete Technology I (T-841-CONC)",4,5).
-course(23791,"Concrete Technology for the Industry (T-846-INDU)",4,5).
-course(23814,"Öryggi og álagsforsendur (T-826-SAFE)",4,4).
-course(23862,"Sjálfbær orkukerfi (R-M5)",4,24).
-course(23864,"Interdisciplinary Project Course (R-M6)",4,10).
-course(23865,"Arðsemismat og fjármögnun (R-B2)",4,30).
-course(23867,"Geothermal Subsurface Exploration (R-E2)",4,11).
-course(23868,"Sérhæft efni í verkfræði (R-E3)",4,10).
-course(23869,"Varmaflutningsfræði (T-863-HEAT)",4,20).
-course(23910,"Verkfræðilegar bestunaraðferðir (T-423-ENOP)",4,3).
-course(23934,"Rannsóknartengt verkefni í heilbrigðisverkfræði (T-860-RANN)",4,5).
-course(23937,"Meðferðartækni (T-865-THER)",4,2).
-course(23939,"Málstofa í heilbrigðisvísindum (T-860-MALS)",4,7).
-course(23943,"Meistaraverkefni (T-900-MEIS)",4,4).
-course(23957,"Leiðtogaþjálfun (C-FAG-LTÞ)",4,0).
-course(23959,"Umferðartækni II (T-854-UMFE)",4,4).
-course(24039,"Upplýsingar og upplýsingatækni í verkefnum (T-754-UPVE)",4,37).
-course(24040,"Raunhæft verkefni: Undirbúningur, framkvæmd og lúkning (T-755-RAUN)",4,36).
-course(24041,"Verkefnaleiðtoginn II: Siðfræði verkefnastjórnunar (T-756-VEFS)",4,37).
-course(24042,"Samningar í verkefnum: Samningar, deilur og áföll (T-757-SDIV)",4,38).
-course(24056,"Lokaverkefni (T-877-FINA)",4,36).
-course(24057,"Háþróuð verkefnastjórnun (T-876-HAVE)",4,36).
-course(24069,"Almennir bókarar (C-ALM-BOK )",4,4).
-course(24107,"Málstofa í evrópskum samningarétti (L-734-MSES)",4,26).
-course(24120,"Tryggingaskóli, hluti III (C-TRY-3HLU)",4,17).
-course(24122,"Íslenska (F ÍSL 1005)",4,40).
-course(24123,"Danska (F DAN 1005)",4,32).
-course(24124,"Enska (F ENS 1005)",4,32).
-course(24125,"Stærðfræði (F STÆ 1005)",4,45).
-course(24126,"Stærðfræði (F STÆ 1105)",4,46).
-course(24127,"Tölvufræði (F TÖL 1005)",4,35).
-course(24128,"Bókhald (F BÓK 1005)",4,54).
-course(24129,"Danska (F DAN 2005)",4,42).
-course(24130,"Þýska (F ÞÝS 1005)",4,46).
-course(24131,"Stærðfræði (F STÆ 2105)",4,55).
-course(24132,"Eðlisfræði (F EÐL 1015)",4,51).
-course(24133,"Excel og tölfræði (F EXC 1005)",4,61).
-course(24134,"Enska (F ENS 3005)",4,12).
-course(24135,"Þýska (F ÞÝS 2005)",4,6).
-course(24136,"Stærðfræði (F STÆ 3105)",4,28).
-course(24137,"Eðlisfræði (F EÐL 2015)",4,20).
-course(24138,"Íslenska (F ÍSL 2005)",4,72).
-course(24139,"Danska (F DAN 2005)",4,42).
-course(24141,"Þýska (F ÞÝS 1005)",4,46).
-course(24142,"Stærðfræði (F STÆ 2005)",4,69).
-course(24143,"Stærðfræði (F STÆ 2105)",4,55).
-course(24144,"Eðlisfræði (F EÐL 1015)",4,51).
-course(24146,"Íslenska (F ÍSL 3005)",4,69).
-course(24147,"Danska (F DAN 3005)",4,72).
-course(24149,"Þýska (F ÞÝS 2005)",4,6).
-course(24150,"Stærðfræði (F STÆ 3005)",4,91).
-course(24152,"Efnafræði (F EFN 2005)",4,38).
-course(24153,"Eðlisfræði (F EÐL 2015)",4,20).
-course(24154,"Íslenska (F ÍSL 4005)",4,55).
-course(24155,"Enska (F ENS 4005)",4,56).
-course(24156,"Stærðfræði (F STÆ 4005)",4,81).
-course(24157,"Stærðfræði (F STÆ 4105)",4,63).
-course(24158,"Stærðfræði (F STÆ 5005)",4,64).
-course(24159,"Eðlisfræði (F EÐL 3015)",4,59).
-course(24160,"Tölvutækni (F TÖT 1005)",4,59).
-course(24161,"Hugmyndasaga (F HUG 1005)",4,60).
-course(24162,"Íslenska (F ÍSL 4005)",4,55).
-course(24163,"Enska (F ENS 4005)",4,56).
-course(24164,"Stærðfræði (F STÆ 4005)",4,81).
-course(24165,"Tölvutækni (F TÖT 1005)",4,59).
-course(24167,"Aðferðafræði (F AÐF 1005)",4,20).
-course(24188,"Áætlanagerð í verkefnum (C-STK-AÆTL)",4,1).
-course(24189,"Forysta og samskipti - Leiðtogafræði (C-STK-LEIÐ)",4,0).
-course(24190,"Aðferðir við ákvarðanatöku (C-STK-ADFA)",4,0).
-course(24206,"Thesis Proposal Defense (T-910-PROP)",4,2).
-course(24207,"Thesis Progress Report (T-930-PROG)",4,2).
-course(24208,"Thesis Defense (T-950-DEFE)",4,2).
-course(24215,"Stærðfræði I (T-101-STA1)",4,75).
-course(24217,"Rekstur og stjórnun, verkfræðilegar aðferðir (T-106-REVE)",4,86).
-course(24218,"Töluleg greining (T-406-TOLU)",4,130).
-course(24219,"Tölfræði II (T-402-TOLF)",4,52).
-course(24220,"Verkefnastjórnun (T-305-PRMA)",4,109).
-course(24221,"Afleiður (T-503-AFLE)",4,17).
-course(24222,"Áhættustýring (T-602-RISK)",4,14).
-course(24224,"Stærðfræði II (T-201-STA2)",4,181).
-course(24225,"Íþróttir: Sund I (E-304-SSWI)",4,55).
-course(24227,"Lífeðlisfræði (E-201-PHYS)",4,56).
-course(24228,"Sérkennsla, raddbeiting og framkoma (E-401-SERF)",4,52).
-course(24229,"Stöðu og burðarþolsfræði (T-106-BURD)",4,132).
-course(24230,"Líkams- og heilsurækt (E-204-PACT)",4,52).
-course(24231,"Útivist (E-203-OUTD)",4,59).
-course(24233,"Eðlisfræði I (T-102-EDL1)",4,85).
-course(24234,"Fimleikar/leikfimi og dans (E-403-FLDA)",4,49).
-course(24235,"Hreyfingafræði (E-303-KINE)",4,43).
-course(24236,"Körfubolti / Blak (E-416-BAVO)",4,49).
-course(24237,"Eðlisfræði II (T-202-EDL2)",4,160).
-course(24238,"Verknám I: Grunnskólar (E-406-PRII)",4,43).
-course(24239,"Þjálffræði (E-302-THET)",4,43).
-course(24240,"Varmafræði (T-507-VARM)",4,50).
-course(24241,"Lokaverkefni (E-699-THES)",4,54).
-course(24242,"Rafeindatækni (T-509-RAFT)",4,71).
-course(24243,"Merkjafræði (T-306-MERK)",4,88).
-course(24244,"Vélhlutafræði (T-401-VELH)",4,38).
-course(24245,"Lífeðlisfræði I (T-206-LIFE)",4,46).
-course(24246,"Læknisfræðileg myndgerð (T-609-LAEK)",4,16).
-course(24247,"Mælitækni og lífsmörk (T-510-MALI)",4,20).
-course(24248,"Hermun (T-502-HERM)",4,42).
-course(24249,"Stjórnun í íþróttum (E-519-STIT)",4,24).
-course(24250,"Tilraunastofa í varma- og straumfræði (T-606-LABB)",4,17).
-course(24252,"Heilsuþjálfun almennings (E-618-HRHE)",4,10).
-course(24253,"Afreksþjálfun (E-607-ELAT)",4,36).
-course(24254,"Íþróttir: Valdar greinar II (E-305-SSEL)",4,34).
-course(24256,"Reiknitækni í rekstri fyrirtækja (C-FAG-RTFT)",4,5).
-course(24257,"Efnisfræði (T-407-EFNI)",4,42).
-course(24259,"Hönnun X (T-420-HONX)",4,22).
-course(24260,"Burðarþolsfræði - öryggi og álag (BT BUÞ4002)",4,9).
-course(24261,"Burðarþolsfræði - FEM (BT BUÞ4102)",4,10).
-course(24262,"Efnisfræði - timbur og málmar (BT EFN1013)",4,9).
-course(24263,"Rennslisfræði (BT REN1003)",4,13).
-course(24264,"Steinsteypuvirki I (BT SST1013)",4,8).
-course(24266,"Hagnýt eðlisfræði í byggingum (BT HEB1003)",4,8).
-course(24267,"Landmælingar og landupplýsingakerfi (BT LAM1013)",4,10).
-course(24268,"Hagnýtt verkefni í mannvirkjahönnun (BT HVB3003)",4,9).
-course(24269,"Jarðtækni og grundun (BT JTÆ2013)",4,8).
-course(24270,"Aðferðafræði rannsókna (E-702-REME)",4,14).
-course(24271,"Aðferðafræði og tölfræði (AT AÐF1013)",4,45).
-course(24272,"Hugmyndafræði og skipulag þjálfunar (E-716-PTTR)",4,15).
-course(24273,"Tré- og stálvirki II (BT BYG2013)",4,5).
-course(24274,"Steinsteypuvirki II (BT SST2013)",4,5).
-course(24275,"Hagnýt tölfræði (E-707-APST)",4,10).
-course(24276,"Vega - og gatnagerð II (BT VEG2003)",4,3).
-course(24277,"Framkvæmdafræði (BT FRK1013)",4,8).
-course(24278,"Ráðstefnur og verkefni (E-743-COPO)",4,0).
-course(24279,"Loftræsitækni (BT LOF1003)",4,12).
-course(24280,"Sjálfstætt verkefni (E-718-IDEP)",4,1).
-course(24281,"Vatns- og fráveitur (BT LAG3003)",4,1).
-course(24282,"Stærðfræði II (AT STÆ2003)",4,48).
-course(24283,"Burðarþolsfræði II (BT BUÞ2013)",4,25).
-course(24284,"Meistaraverkefni (E-899-THES)",4,6).
-course(24285,"Hönnun, ferli og framkvæmd (BT HVB1003)",4,12).
-course(24286,"Lokaverkefni (BT LOK1012)",4,2).
-course(24288,"Efnisfræði og vinnsla I (VT EFV1003)",4,26).
-course(24292,"Lokaverkefni - 2. hluti (IT LOK2003)",4,1).
-course(24293,"Rafmagnsfræði (RT RAF1003)",4,18).
-course(24294,"Mælitækni (RT MAL1003)",4,10).
-course(24295,"Hagnýtt verkefni I (RT HVR1003)",4,9).
-course(24296,"Rafsegulfræði (RT EXH1003)",4,17).
-course(24297,"Fjarskiptakerfi (RT FSK1003)",4,18).
-course(24298,"Hagnýtt verkefni II (RT HVR2003)",4,18).
-course(24299,"Iðntölvur og vélmenni (RT IDN1003)",4,28).
-course(24300,"Hönnun rafkerfa og lýsingartækni (RT HON1013)",4,8).
-course(24304,"Lokaverkefni (RT LOK1012)",4,2).
-course(24305,"Vélhlutafræði I (VT VHF1003)",4,28).
-course(24306,"Hagnýtt verkefni  I (VT HVV1003)",4,17).
-course(24307,"Hagnýt varmafræði (VT VAR2013)",4,17).
-course(24308,"Straum- og varmaflutningsfræði (VT STV1003)",4,35).
-course(24309,"Burðarþolsfræði - Tölvustudd hönnun (VT BUÞ3003)",4,17).
-course(24310,"Hönnun (VT HUN1013)",4,23).
-course(24311,"Kælikerfi og varmadælur (VT KÆL1013)",4,4).
-course(24312,"Hagnýtt verkefni  III (VT HVV3003)",4,19).
-course(24313,"Jarðhiti (VT JAH1003)",4,17).
-course(24315,"Sveiflufræði (VT SVF1003)",4,19).
-course(24316,"Lokaverkefni (VT LOK1012)",4,0).
-course(24317,"Vinnustofa í vöruþróun (T-420-PROX)",4,13).
-course(24318,"Starfsnám (T-600-STAR)",4,34).
-course(24319,"Rafmagnsvélar (RT RVE1003)",4,16).
-course(24320,"Raforkukerfi II (RT RAK2003)",4,11).
-course(24321,"Hagnýtt verkefni  III (RT HVR3003)",4,11).
-course(24322,"Hönnun fjölbýlishúss - samþætt verkefni (BF FBH1009)",4,9).
-course(24323,"Breytingar og endurbætur - samþætt verkefni (BF BEH1009)",4,13).
-course(24325,"Viðgerðir og viðhald húsa (BF VIÐ1001)",4,18).
-course(24326,"Fasteignastjórnun (BF FAS1001)",4,15).
-course(24327,"Aðferðafræði, skýrslugerð og kynningar (BF AÐF1001)",4,27).
-course(24328,"Starfsnám (BF STA1008)",4,3).
-course(24329,"Ritgerð um sérhæft efni (BF RIT1005)",4,6).
-course(24330,"Lokaverkefni (BF LOK1010)",4,8).
-course(24331,"Fjármálastjórn (AI FJS1003)",4,10).
-course(24332,"Framkvæmdafræði og verkstjórn (AI FRK1003)",4,37).
-course(24333,"Rekstrargreining (AI RGR1003)",4,12).
-course(24334,"Nýsköpun og stofnun fyrirtækja (AI STF1003)",4,24).
-course(24335,"Stjórnun, rekstur og öryggi (AI STJ1003)",4,82).
-course(24338,"Efnis- og byggingaeðlisfræði (BI EBE1003)",4,28).
-course(24339,"Jarðtækni (BI JTÆ1003)",4,30).
-course(24340,"Lokaverkefni (BI LOK1006)",4,14).
-course(24341,"Lokaverkefni (RI LOK1006)",4,17).
-course(24344,"Iðntölvustýringar og mælitækni (RI PLC2003)",4,14).
-course(24345,"Rafeindatækni (RI REI1003)",4,32).
-course(24346,"Raforkukerfisfræði og rafvélar (RI RFR1003)",4,31).
-course(24347,"Raflagnahönnun (RI RLH1003)",4,15).
-course(24348,"Raungreinagrunnur I (SG EÐL1000)",4,39).
-course(24349,"Tungumálagrunnur II (SG TUN2000)",4,20).
-course(24350,"Lokaverkefni (VI LOK1006)",4,5).
-course(24351,"Tölvustudd hönnun (VI TEI2013)",4,24).
-course(24352,"Varma- og rennslisfræði (VI VAR1003)",4,14).
-course(24353,"Vélhlutafræði (VI VHF1003)",4,14).
-course(24354,"Burðarþol byggingarvirkja (BI BUÞ2013)",4,34).
-course(24356,"Verkefnastjórnun, áætlanagerð og fjármál í verkefnum (BF VER3003)",4,13).
-course(24358,"Svefn (T-424-SLEE)",4,30).
-course(24362,"Próf - Grunnatriði í fjármálum (C-PROF-VBM)",4,17).
-course(24363,"Próf - Þjóðhagfræði (C-FAG-PROF)",4,20).
-course(24364,"Próf - Greining ársreikninga (C-FAG-GRPR)",4,17).
-course(24365,"Próf - Lög og reglur um fjármagnsmarkað (C-FAG-PRLÖ)",4,9).
-course(24366,"Próf - Markaðsviðskipti (C-FAG-PRMA)",4,9).
-course(24367,"Próf - Helstu tegundir verðbréfa (C-FAG-PRHE)",4,9).
-course(24368,"Próf - Fjárfestingarferli (C-FAG-PRFJ)",4,8).
-course(24372,"Byggingarfræði - byggingartækni (BI BFR1013)",4,30).
-course(24381,"Rekstrarhagfræði I (V-201-RHAG)",4,147).
-course(24382,"Rekstrargreining (V-202-REGR)",4,138).
-course(24383,"Hagnýt tölfræði I (V-303-TOL1)",4,136).
-course(24385,"Stjórnun (V-203-STJ1)",4,132).
-course(24386,"Nýsköpun og stofnun fyrirtækja (X-204-STOF)",4,400).
-course(24387,"Fjármálamarkaðir (V-304-FMAR)",4,116).
-course(24388,"Rekstrarhagfræði II (V-625-REII)",4,95).
-course(24389,"Stefnumótun (V-404-STEF)",4,80).
-course(24390,"Rekstrarstjórnun (V-311-OPMA)",4,106).
-course(24391,"Viðskiptalögfræði (V-401-LOG)",4,95).
-course(24392,"BSc-ritgerð (V-699-RITG)",4,54).
-course(24393,"Viðskiptasiðfræði (V-514-VISI)",4,76).
-course(24394,"Hagnýt tölfræði I (V-303-TOL1)",4,136).
-course(24395,"Þjóðhagfræði (V-103-THAG)",4,37).
-course(24396,"Stjórnun (V-203-STJ1)",4,132).
-course(24397,"Fjármálamarkaðir (V-304-FMAR)",4,116).
-course(24398,"Neytendahegðun og markaðssamskipti (V-523-MACO)",4,41).
-course(24399,"Rekstrarhagfræði II (V-625-REII)",4,95).
-course(24400,"Rekstrarstjórnun (V-311-OPMA)",4,106).
-course(24404,"PMD - Árangur í Rekstri (C-NBR-ARRE)",4,19).
-course(24405,"PMD - Árangur á Markaði (C-NBR-ARMA)",4,19).
-course(24406,"PMD - Samningar og Verkefnastjórnun (C-NBR-SAVE)",4,19).
-course(24407,"Gagnaskipan (T-201-GSKI)",4,344).
-course(24408,"Vefforritun (T-213-VEFF)",4,301).
-course(24409,"Greining og hönnun hugbúnaðar (T-216-GHOH)",4,264).
-course(24410,"Verklegt námskeið (T-205-VERK)",4,226).
-course(24411,"Stýrikerfi (T-215-STY1)",4,178).
-course(24412,"Lokaverkefni (T-404-LOKA)",4,39).
-course(24413,"Línuleg algebra (T-211-LINA)",4,277).
-course(24414,"Þriggja vikna námskeið (T-100-XXX)",4,161).
-course(24415,"Algebra og fléttufræði (T-218-ALCO)",4,32).
-course(24418,"Rekstrarbókhald fyrirtækja I (V-766-ACC1)",4,34).
-course(24419,"Forritunarmál (T-501-FMAL)",4,164).
-course(24420,"Gerð reikningsskila og staðlar um reikningsskil II (V-765-FIR2)",4,22).
-course(24421,"Hugbúnaðarfræði II (T-631-SOE2)",4,74).
-course(24426,"Samstæðureikningsskil fyrirtækja (V-767-SARE)",4,20).
-course(24427,"Strjál stærðfræði II (T-419-STR2)",4,256).
-course(24428,"Alþjóðafjármál (V-757-INTF)",4,28).
-course(24429,"Fjármál fyrirtækja II (V-763-COR2)",4,20).
-course(24431,"Sjálfstætt verkefni 1 (T-749-INDS)",4,9).
-course(24432,"Meistaravörn (T-891-MSTD)",4,2).
-course(24433,"MS ritgerð (T-899-MSTH)",4,9).
-course(24435,"Afleiður – fjármál og reikningshald (V-871-AFLE)",4,8).
-course(24436,"Meistaraverkefnavörn (T-991-TPDE)",4,2).
-course(24437,"PhD Thesis Proposal (T-992-PHDP)",4,0).
-course(24438,"Doktorsvörn (T-993-PHDD)",4,1).
-course(24439,"Doktorsritgerð í tölvunarfræði (T-999-PHDT)",4,9).
-course(24440,"Skattskil II (V-869-TAX2)",4,8).
-course(24441,"Endurskoðun III - endurskoðunarfræði (V-801-ENDU)",4,11).
-course(24443,"Advanced Business Informatics (V-715-ABIN)",4,7).
-course(24444,"Business Process Management (V-716-BPMA)",4,3).
-course(24445,"Corporate Performance Management (V-717-CPMA)",4,4).
-course(24446,"Rekstrarbókhald IV (V-783-REK4)",4,4).
-course(24447,"Rekstrarbókhald V (V-784-REK5)",4,3).
-course(24449,"Fjármálatölfræði (V-752-QFOU)",4,10).
-course(24450,"Skuldabréfagreining (V-758-FINC)",4,23).
-course(24452,"Fjárfestingar (V-777-INVE)",4,23).
-course(24455,"Afleiður (V-756-DERI)",4,13).
-course(24456,"Félaga- og fjármunaréttur (V-802-BULA)",4,7).
-course(24464,"Félagaréttur (L-202-FELA)",4,106).
-course(24466,"Fjármunaréttur II - Kröfuréttur II (L-205-FJA2)",4,102).
-course(24467,"Stjórnsýsluréttur (L-401-STJR)",4,110).
-course(24468,"Fjármunaréttur IV - Eignaréttur (L-406-FJA4)",4,73).
-course(24469,"Refsiréttur (L-402-REFS)",4,76).
-course(24470,"Samkeppnisréttur (L-303-SAKE)",4,75).
-course(24471,"Fjármunaréttur V - Raunhæft málflutningsverkefni (L-407-FJA5)",4,63).
-course(24472,"Aðferðafræði II: Lagakenningar (L-609-ALRE)",4,45).
-course(24473,"Sakamálaréttarfar (L-605-SARE)",4,57).
-course(24474,"BA ritgerð (L-611-BACR)",4,22).
-course(24481,"Skiptinám (X-699-EXCH)",4,33).
-course(24484,"Vefforritun II (T-427-WEPO)",4,92).
-course(24485,"Ný tækni (T-611-NYTI)",4,80).
-course(24486,"Uppl.- og samskiptatækni í skólakerfinu (T-418-UPSS)",4,42).
-course(24487,"Gervigreind (T-622-ARTI)",4,72).
-course(24489,"Hönnun og greining reiknirita (T-604-HGRE)",4,21).
-course(24491,"Högun leikjavéla (T-637-GEDE)",4,50).
-course(24492,"Samskipti manns og tölvu (T-636-SMAT)",4,44).
-course(24494,"Advanced Software Engineering (T-730-ASEN)",4,3).
-course(24500,"Nýmiðlun (C-EIN-NYML)",4,3).
-course(24501,"Samskipta- og kynningarhæfni (C-SAM-KYNN)",4,3).
-course(24502,"Almannatengsl (C-EIN-ALMT)",4,0).
-course(24503,"Rekstrar- og fjármálanám (C-REK-FJA1)",4,11).
-course(24504,"Sprotar (C-SPROTAR)",4,3).
-course(24505,"HRM and Leadership in International Context (V-825-HRML)",4,26).
-course(24506,"Research Methodology (V-769-REME)",4,27).
-course(24508,"Motivation, Performance Management and Reward Systems (V-710-MPMR)",4,11).
-course(24509,"Strategic Management and Organizational Theory (V-707-SMOT)",4,17).
-course(24511,"International Negotiation (V-820-INNE)",4,22).
-course(24512,"Global Supply Chain/OM (V-821-GSCN)",4,19).
-course(24514,"Research Proposal (V-897-RERP)",4,11).
-course(24515,"Starfsnám (V-872-STAR)",4,4).
-course(24516,"Meistaraprófsritgerð (V-899-THES)",4,16).
-course(24517,"Organizational HR Metrics and Applied Research Methods (V-704-OMAR)",4,12).
-course(24518,"Afköst gagnasafnskerfa (T-508-GAG2)",4,65).
-course(24519,"Mentor verkefnið: Vinátta í kerfinu (E-108-MENT)",4,0).
-course(24520,"Sálfræði einstaklingsmunar (E-116-SAEI)",4,58).
-course(24521,"Þroskasálfræði (E-214-DEPS)",4,57).
-course(24522,"Hugræn sálfræði og skynjunarsálfræði (E-215-HSKY)",4,55).
-course(24523,"Tilraunir í sálfræði (E-313-SATI)",4,45).
-course(24525,"Einstaklingurinn og samfélagið (E-316-EISA)",4,56).
-course(24526,"Vettvangsnám (E-316-VETT)",4,16).
-course(24528,"Áhrifaþættir þroska (E-412-CDYA)",4,31).
-course(24530,"Lífeðlilsfræðileg sálfræði (E-314-LISA)",4,77).
-course(24531,"BSc rannsóknarverkefni II (E-604-BSC2)",4,35).
-course(24532,"Rannsóknaraðferðir og tölfræði III (E-411-RATO)",4,46).
-course(24533,"Heilsusálfræði (E-503-HEIL)",4,37).
-course(24535,"Eignastýring (V-601-EIGN)",4,18).
-course(24536,"Verðlagning verðbréfa (V-402-VEVE)",4,20).
-course(24537,"Sölustjórnun (V-633-SOST)",4,36).
-course(24538,"Hagnýt vinnusálfræði (V-607-VSFR)",4,51).
-course(24540,"Alþjóðafjármál (V-603-ALFM)",4,25).
-course(24541,"Skattaskipulagning (V-660-SKAT)",4,12).
-course(24544,"Hagnýt stærðfræði II (V-624-STII)",4,6).
-course(24545,"Verkefnastjórnun (V-627-VERK)",4,37).
-course(24546,"Samningatækni (V-628-SAMN)",4,62).
-course(24548,"Ábyrgð og árangur (V-642-RESR)",4,18).
-course(24549,"Business strategies for Sustainable Development (V-653-STSU)",4,6).
-course(24550,"Starfsnám (V-667-STNA)",4,20).
-course(24551,"Endurskipulagning fyrirtækja (V-668-CORE)",4,19).
-course(24552,"Vörustjórnun (V-414-VORU)",4,33).
-course(24555,"English Vocabulary Building and Effective Writing Skills (V-604-ENGL)",4,35).
-course(24556,"Viðskiptaspænska I (V-106-SPAN)",4,18).
-course(24557,"Viðskiptaspænska II (V-207-SPII)",4,8).
-course(24558,"Viðskiptaspænska IV (V-413-SPIV)",4,0).
-course(24559,"Viðskiptaspænska VI (V-634-SPA6)",4,0).
-course(24560,"Gerð markaðsáætlunar (V-649-STMP)",4,19).
-course(24561,"The Global Economy (V-826-GLEC)",4,15).
-course(24562,"Skiptinám (V-900-EXCH)",4,0).
-course(24563,"Business and Markets in Europe and Asia (V-822-BMEA)",4,17).
-course(24564,"Entrepreneurship and New Venture Creation (V-822-ENVC)",4,23).
-course(24578,"Rauntímalíkön (T-219-REMO)",4,20).
-course(24581,"Efnafræði (F EFN 1005)",4,69).
-course(24582,"Modeling and Verification (T-707-MOVE)",4,11).
-course(24583,"Tölvuöryggi (T-417-TOOR)",4,2).
-course(24584,"Hagnýt málnotkun (F MAL 1005)",4,17).
-course(24585,"Reikningshald (F REI 1003)",4,18).
-course(24586,"Hugmyndasaga (F HUG 1002)",4,17).
-course(24587,"Verkefnalausnir (T-110-VERK)",4,53).
-course(24588,"Viðburðastjórnun (C-FAG-VSTJ)",4,10).
-course(24590,"Semantics: Theory and Applications (T-724-SETA)",4,3).
-course(24591,"Valið efni í vélrænu gagnanámi (T-780-ATML)",4,8).
-course(24592,"Fractional Reserve Banking Systems (I-708-FRBS)",4,4).
-course(24594,"App Development - Iphone (T-430-IPON)",4,53).
-course(24595,"App Development - Android (T-431-ANDR)",4,50).
-course(24596,"App Development - HTML (T-432-HTML)",4,53).
-course(24597,"Rannsóknarvinna grunnnáms (T-622-UROP)",4,8).
-course(24599,"Hlutbundin forritun í C++ (T-528-HLUT)",4,17).
-course(24600,"Öflun og framsetning gagna (T-416-VIFG)",4,17).
-course(24602,"Investments (T-814-INVE)",4,14).
-course(24603,"Strategic OB/HRM (V-768-STOH)",4,2).
-course(24605,"Félagaform og skattskil (C-FAG-FESK)",4,4).
-course(24607,"Skattskil rekstraraðila (C-FJA-SSRE)",4,4).
-course(24608,"Skattskil einstaklinga á eigin kennitölu (C-FAG-SKKT)",4,1).
-course(24609,"Grunnatriði verkefnastjórnunar (C-FAG-VERK)",4,4).
-course(24610,"Tímastjórnun í lífi og starfi (C-FAG-TÍLS)",4,1).
-course(24611,"Töluleg greining fyrir hugbúnaðarverkfræðinema (T-415-STAN)",4,4).
-course(24613,"Verkefnalausnir (T-110-VERK)",4,53).
-course(24614,"Hagnýt netkerfi (T-431-HANE)",4,15).
-course(24615,"Árangursrík forritun og lausn verkefna (T-414-AFLV)",4,5).
-course(24618,"Viðskiptagreind (I-707-VGBI)",4,22).
-course(24621,"Próffræði og mælingar í sálfræði (E-411-PRMA)",4,54).
-course(24622,"Íslenska fyrir útlendinga (I-103-ICEL)",4,27).
-course(24624,"Íslenska II fyrir útlendinga (I-203-ICEL)",4,14).
-course(24625,"Merking vinnusvæða (C-FAG-Mer1)",4,0).
-course(24626,"Íslenskur hlutabréfamarkaður: Undirbúningur fyrir skráningu í Kauphöllina (S-STJ-IHM)",4,1).
-course(24628,"Talent Management (S-STJ_TAM)",4,2).
-course(24629,"Árangursrík verkefna- og valddreifing (S-STJ-ÁVV)",4,3).
-course(24630,"Jafningjastjórnun (S-STJ-JST)",4,2).
-course(24631,"Different Cultures (S-STJ-DFC)",4,0).
-course(24632,"Operation Management (V-731-OPMA)",4,34).
-course(24637,"Strategic Decision Making (V-844-SDM3)",4,33).
-course(24638,"Business Statistics (V-732-BUST)",4,33).
-course(24639,"Corporate Finance (V-733-COFI)",4,33).
-course(24640,"Marketing Management (V-711-MAR3)",4,32).
-course(24641,"Performance Management (V-854-PEMA)",4,22).
-course(24642,"Personal Development (V-810-PEDE)",4,33).
-course(24643,"Personal Development (V-610-PEDE)",4,31).
-course(24644,"Portfolio Management (V-811-PORT)",4,28).
-course(24645,"International Management (V-819-INMA)",4,9).
-course(24646,"Strategy / Final Project (V-823-STFP)",4,33).
-course(24647,"Coaching Clinic (S-CCUI    )",4,0).
-course(24650,"Hið vanfundna gullna jafnvægi (S-STJ-HVG)",4,0).
-course(24651,"Straumlínustjórnun: Þróun viðskiptaferla - stöðugar framfarir (C-FAG-LEAN)",4,18).
-course(24652,"Árangur í sátt við samfélagið (S-STJ-AIS)",4,0).
-course(24653,"Breytingastjórnun (S-BREY)",4,0).
-course(24654,"PhD studies (T-999-PHDS)",4,16).
-course(24657,"Agile aðferðir í verkefnastjórnun – með áherslu á Scrum (T-849-AGVE)",4,23).
-course(24659,"Náðu árangri undir álagi (S-STJ-NAU)",4,0).
-course(24660,"Árangursrík samskipti (S-STJ-ARS)",4,1).
-course(24661,"Hlutverk millistjórnandans í blíðu og stríðu (S-STJ-HMS)",4,0).
-course(24662,"Móttaka nýliða (S-STJ-MTN)",4,0).
-course(24663,"Samningatækni - grunnur (C-FAG-SAM1)",4,7).
-course(24664,"Samningatækni - framhald (C-FAG-SAM2)",4,0).
-course(24665,"Tölvustudd teikning (AI TEI1001)",4,45).
-course(24666,"Tölvustudd hönnun (BI HON1001)",4,18).
-course(24667,"Tölvustudd hönnun (RI HON1001)",4,6).
-course(24668,"Tölvustudd hönnun (VI HON1001)",4,24).
-course(24669,"Árangursrík samskipti (S-STJ-ARS)",4,1).
-course(24675,"HR-Starfsnám (T-426-RUIS)",4,15).
-course(24676,"Viðskiptaáætlanakeppni - Íslandsbanki og FKA í samstarfi við Opna háskólann í HR (S_VISB)",4,19).
-course(24677,"Linked in og við sem vörumerki (C-FAG-LINK)",4,0).
-course(24678,"Framkoma og tjáning (C-FAG_FRTJ)",4,1).
-course(24679,"Framvinduskýrsla (V-902-PRRE)",4,7).
-course(24680,"Fjármál fyrir stjórnendur (S-STJ-FFS)",4,0).
-course(24681,"Rannsóknarverkefni (L-751-PROJ)",4,4).
-course(24683,"Verkefnastjórnun í opinberri stjórnsýslu (T-810-VOST)",4,22).
-course(24684,"Lean og 6 Sigma (T-811-LEAN)",4,32).
-course(24687,"5 valkostir til velgengni (C-FAG-5CHO)",4,3).
-course(24688,"Kynningarfundur (C-FAG-KYNN)",4,11).
-course(24689,"Kynningarfundur Flutningafræði (C-FAG-KFLU)",4,4).
-course(24690,"Áætlanagerð í verkefnum (C-NBR-AÆTL)",4,35).
-course(24691,"Fjármál einstaklinga (C-VFMR-FEI)",4,43).
-course(24692,"SQL gagnagrunnar (C-FAG-SQLG)",4,3).
-course(24693,"Líkanagerð fyrir rekstraráætlanir, arðsemismat og verðmat (C-FAG-LRAV)",4,0).
-course(24694,"R tölfræðiúrvinnsla (C-FAG-RTÚV)",4,0).
-course(24695,"Hagnýt heilsuþjálfun og heilsuefling (E-830-EFHP)",4,7).
-course(24706,"Lífsviðhorf - Lífsstíll - Lífsgæði (C-STK-LLL)",4,1).
-course(24717,"Samhæfð markaðssamskipti (C-NBR-SAMH)",4,12).
-course(24718,"Nýmiðlun (C-NBR-NYMI)",4,10).
-course(24720,"Valið efni í heilbriðisverkfræði (T-861-SPEC)",4,3).
-course(24723,"Hugmyndasaga (F HUG 1005)",4,60).
-course(24725,"Linked in og við sem vörumerki (C-FAG-LINK)",4,0).
-course(24726,"Legal English (C-FAG-LEG )",4,0).
-course(24727,"Innri endurskoðun (C-FAG-INNE)",4,0).
-course(24728,"Stærðfræði (F STÆ 3105)",4,28).
-course(24729,"Stærðfræði (F STÆ 3105)",4,28).
-course(24730,"Aðferðafræði (L-700-ADFE)",4,11).
-course(24731,"Enska (F ENS 2005)",4,32).
-course(24732,"Enska (F ENS 2005)",4,32).
-course(24733,"Enska (F ENS 3005)",4,12).
-course(24734,"Enska (F ENS 3005)",4,12).
-course(24736,"Excel og tölfræði (F EXC 1005)",4,61).
-course(24737,"Excel og tölfræði (F EXC 1005)",4,61).
-course(24738,"Orkuréttur (C-FAG-ORKU)",4,0).
-course(24739,"Flutningastjórnun (C-STK-FLUT)",4,0).
-course(24741,"Doktorsprófsritgerð (L-999-THES)",4,2).
-course(24742,"Excel 1 (C-FAG-EXC1)",4,0).
-course(24743,"Excel 2 (C-FAG-EXC2)",4,0).
-course(24744,"Eignastýring (C-FAG-EIGN)",4,0).
-course(24745,"Skuldabréfagreining (C-FAG-SKBG)",4,0).
-course(24746,"Endurskipulagning fyrirtækja (C-FAG-ESFT)",4,0).
-course(24747,"Sjálfstætt verkefni (T-629-INDE)",4,5).
-course(24748,"Excel í starfi - Flýtilyklar og formúlur (C-FAG-FLYT)",4,0).
-course(24749," (C-FAG-AUGL)",4,0).
-course(24750," (C-FAG-AUGL)",4,0).
-course(24751,"Hagnýt viðskiptakerfi (ERP) (I-406-HERP)",4,19).
-course(24754,"Rekstrarstjórnun (C-STK-REKS)",4,0).
-course(24755,"Hugbúnaðarþróun fyrir Android snjallsíma og spjaldtölvur (C-FAG-HUGB)",4,1).
-course(24756,"Að breyta gögnum í verðmætar upplýsingar (C-STK-BRGU)",4,0).
-course(24759,"Rekstrarbókhald fyrirtækja I (C-FAG-ACC1)",4,0).
-course(24760,"Samstæðureikningsskil fyrirtækja (C-FAG-SARE)",4,0).
-course(24761,"Gerð reikningsskila og staðlar um reikningsskil II (C-FAG-FIR2)",4,0).
-course(24762,"Alþjóðafjármál (C-FAG-INTF)",4,0).
-course(24763,"Afleiður - fjármál og reikningshald (C-FAG-AFLE)",4,0).
-course(24764,"Corporate Performance Management (C-FAGöCPMA)",4,0).
-course(24765,"Business Process Management (C-FAG-BPMA)",4,0).
-course(24766,"Félaga- og fjármunaréttur (C-FAG-BULA)",4,0).
-course(24767,"Vísindaferð kvennanefndar verkfræðingafélagsins (C-FAG-VÍSK)",4,6).
-course(24768,"Kynningarfundur: Þróun viðskiptaferla - stöðugar framfarir (C-FAG-KF3)",4,4).
-course(24769,"PhD studies (T-999-PHDS)",4,16).
-course(24770,"Leshópar í lögfræði (L-106-LESH)",4,27).
-course(24771,"HR-Starfsnám (T-426-RUIS)",4,15).
-course(24772,"Sjálfstætt verkefni (V-873-INDE)",4,2).
-course(24773,"Skipulagsfærni (C-NBR-SLF)",4,35).
-course(24774,"Samskiptafærni (C-NBR-SSF)",4,35).
-course(24775,"Meistararitgerð í Fjármálum (V-899-TH30)",4,3).
-course(24776,"Hvatning og endurgjöf 12. febrúar kl. 9-13 (S-STJ-HOE1)",4,0).
-course(24777,"Hvatning og endurgjöf 14. febrúar kl. 13-17 (S-STJ-HOE2)",4,1).
-course(24778,"Atferlisfjármál (S-STJ-AFF)",4,0).
-course(24779,"Strategic Decision Making (S-STJ-SDM)",4,19).
-course(24780,"Fjölbreytni í stjórnun (S-STJ-FIS)",4,34).
-course(24782,"Lesnámskeið (T-884-TUT4)",4,1).
-course(24783,"Cross-cultural negotiations (C-FAG-CNEG)",4,1).
-course(24787,"Samkeppnisréttur (S-STJ-SKR)",4,0).
-course(24788,"Excel í starfi bókarans (C-FAG-EXBO)",4,1).
-room(185,124,"V101").
-room(186,66,"V102").
-room(187,48,"V107").
-room(188,48,"V108").
-room(190,20,"V103").
-room(191,36,"V104").
-room(192,48,"V105").
-room(193,24,"V106").
-room(194,19,"V110").
-room(195,27,"V109").
-room(196,25,"V118 Vélsmiðja").
-room(197,25,"V117 Orkutæknistofa").
-room(200,25,"V113 Efnafræðistofa").
-room(201,16,"V112").
-room(202,16,"V111").
-room(203,16,"V209 Eðlisfræðistofa").
-room(204,16,"V207a Rafeinda- og stýritæknistofa").
-room(205,15,"V216").
-room(206,18,"V220").
-room(207,138,"M101").
-room(208,32,"M102").
-room(209,39,"M106").
-room(210,20,"M107").
-room(211,34,"M108").
-room(212,32,"M109").
-room(213,80,"M105").
-room(214,60,"M104").
-room(215,66,"M103").
-room(216,18,"M112").
-room(217,18,"M113").
-room(218,40,"M116").
-room(219,40,"M118").
-room(220,24,"M123").
-room(221,70,"M124").
-room(222,80,"M110").
-room(223,36,"M117").
-room(224,38,"M111").
-room(225,28,"M114").
-room(226,28,"M115").
-room(227,40,"M119").
-room(228,40,"M120").
-room(229,40,"M121").
-room(230,60,"M122").
-room(231,18,"M210").
-room(232,60,"M208").
-room(233,80,"M209").
-room(237,33,"M325").
-room(238,33,"M326").
-room(239,30,"M327").
-room(24,32,"O-401 - Viðskiptasmiðjan").
-room(248,8,"V302").
-room(249,16,"V207b Rafeinda- og stýritæknistofa").
-room(250,16,"V207c Rafeinda- og stýritæknistofa").
-room(251,8,"V301").
-room(252,120,"M201").
-room(253,23,"U201").
-room(254,30,"M215").
-room(255,30,"M216").
-room(256,30,"M217").
-room(257,12,"Kennslustofa - bókasafn").
-room(258,150,"LHÍ").
-room(261,120,"V201").
-room(262,36,"V307").
-room(263,1,"Upptökuherbergi").
-room(36,100,"Verður birt seinna").
-room(54,100,"220 Stjórnendabaun Opni háskólinn").
+course(22012,"Auðgunar- og efnahagsbrot (L-840-WHCC)",4,47,L).
+course(22019,"Hagnýtur samningaréttur (L-828-PCLA)",4,70,L).
+course(22022,"Málstofa um hugverkaréttindi í alþjóðlegum viðskiptum og samninga þeim tengdum (L-717-STEC)",4,44,L).
+course(22023,"Ofbeldis- og fíkniefnabrot (L-865-VCDO)",4,49,L).
+course(22024,"Vátryggingaréttur (L-831-INLA)",4,53,L).
+course(22025,"ML- ritgerð (L-899-ML15)",4,64,M).
+course(22440,"Umhverfismat áætlana og framkvæmda (T-858-UMHV)",4,20,L).
+course(23096,"Advanced Project Management - Fengel (C-FAG-FEPM)",4,0,L).
+course(23263,"Sókn og vörn í sakamálum (L-708-HLOM)",4,54,L).
+course(23264,"Málstofa í auðlindarétti - Frá hugmynd til framkvæmdar (L-829-RSAL)",4,26,L).
+course(23270,"Evrópuréttur. State Aid and Competition (L-832-EVSC)",4,19,L).
+course(23271,"Evrópskur félagaréttur (L-756-EUCL)",4,36,L).
+course(23272,"Málstofa I í stjórnsýslurétti (L-728-READ)",4,33,L).
+course(23273,"The Philip C. Jessup Int. Law Moot Court Competition II (L-845-PJMC)",4,5,L).
+course(23275,"Starfsnám (L-800-INTE)",4,13,L).
+course(23340,"Réttindi barna: Velferðarstefna og lög (L-703-RBVL)",4,28,L).
+course(23341,"Úrlausn ágreiningsmála (m.a. fyrir dómstólum og stjórnvöldum) (L-713-URAG)",4,62,L).
+course(23349,"Alþjóðlegur skattaréttur I (L-716-SKAT)",4,62,L).
+course(23383,"Samþætt verkefni (T-870-INTE)",4,6,L).
+course(23385,"Mechatronics II (T-535-MECH)",4,13,E).
+course(23413,"Aðgerðagreining (T-403-ADGE)",4,113,L).
+course(23414,"Verkefnastjórnun og stefnumarkandi áætlunargerð (T-803-VERK)",4,44,L).
+course(23415,"Framleiðslustjórnun í framkvæmdum (T-816-FRAM)",4,15,L).
+course(23416,"Noktun líkana við stjórnun (T-808-NOLI)",4,18,L).
+course(23417,"Hagnýtt verkefni í aðgerðarrannsóknum (T-806-HAGN)",4,10,L).
+course(23420,"Vöruþróun og frumkvöðlafræði (T-814-PROD)",4,27,L).
+course(23421,"Rannsóknartengt verkefni í framkvæmdastjórnun (T-819-RANN)",4,1,L).
+course(23425,"Aðferðafræði rannsókna II (T-802-RESM)",4,33,L).
+course(23426,"Meistaraverkefni (T-899-MEIS)",4,39,L).
+course(23449,"Samspil: arkitektúr og verkfræði (T-821-FORM)",4,4,L).
+course(23452,"Rannsóknartengt verkefni í samgöngum og skipulagi (T-859-RANN)",4,4,L).
+course(23453,"Umferðarlíkön (T-858-UMLI)",4,6,L).
+course(23575,"Verðbréfamiðlun III (C-VBM III )",4,72,L).
+course(23596,"Íþróttasálfræði (E-511-SEPS)",4,73,L).
+course(23786,"Jarðskjálftahönnun (T-822-JARH)",4,4,L).
+course(23787,"Greining burðarvirkja með FEM (T-824-FEMM)",4,16,L).
+course(23788,"Rannsóknatengt verkefni í mannvirkjahönnun (T-829-RANN)",4,4,L).
+course(23789,"Stálvirki III (T-837-STAL)",4,1,A).
+course(23790,"Advanced Concrete Technology I (T-841-CONC)",4,5,L).
+course(23791,"Concrete Technology for the Industry (T-846-INDU)",4,5,L).
+course(23814,"Öryggi og álagsforsendur (T-826-SAFE)",4,4,L).
+course(23862,"Sjálfbær orkukerfi (R-M5)",4,24,L).
+course(23864,"Interdisciplinary Project Course (R-M6)",4,10,L).
+course(23865,"Arðsemismat og fjármögnun (R-B2)",4,30,L).
+course(23867,"Geothermal Subsurface Exploration (R-E2)",4,11,L).
+course(23868,"Sérhæft efni í verkfræði (R-E3)",4,10,L).
+course(23869,"Varmaflutningsfræði (T-863-HEAT)",4,20,L).
+course(23910,"Verkfræðilegar bestunaraðferðir (T-423-ENOP)",4,3,L).
+course(23934,"Rannsóknartengt verkefni í heilbrigðisverkfræði (T-860-RANN)",4,5,L).
+course(23937,"Meðferðartækni (T-865-THER)",4,2,L).
+course(23939,"Málstofa í heilbrigðisvísindum (T-860-MALS)",4,7,L).
+course(23943,"Meistaraverkefni (T-900-MEIS)",4,4,M).
+course(23957,"Leiðtogaþjálfun (C-FAG-LTÞ)",4,0,L).
+course(23959,"Umferðartækni II (T-854-UMFE)",4,4,L).
+course(24039,"Upplýsingar og upplýsingatækni í verkefnum (T-754-UPVE)",4,37,L).
+course(24040,"Raunhæft verkefni: Undirbúningur, framkvæmd og lúkning (T-755-RAUN)",4,36,L).
+course(24041,"Verkefnaleiðtoginn II: Siðfræði verkefnastjórnunar (T-756-VEFS)",4,37,L).
+course(24042,"Samningar í verkefnum: Samningar, deilur og áföll (T-757-SDIV)",4,38,L).
+course(24056,"Lokaverkefni (T-877-FINA)",4,36,L).
+course(24057,"Háþróuð verkefnastjórnun (T-876-HAVE)",4,36,L).
+course(24069,"Almennir bókarar (C-ALM-BOK )",4,4,L).
+course(24107,"Málstofa í evrópskum samningarétti (L-734-MSES)",4,26,L).
+course(24120,"Tryggingaskóli, hluti III (C-TRY-3HLU)",4,17,L).
+course(24122,"Íslenska (F ÍSL 1005)",4,40,L).
+course(24123,"Danska (F DAN 1005)",4,32,L).
+course(24124,"Enska (F ENS 1005)",4,32,L).
+course(24125,"Stærðfræði (F STÆ 1005)",4,45,L).
+course(24126,"Stærðfræði (F STÆ 1105)",4,46,L).
+course(24127,"Tölvufræði (F TÖL 1005)",4,35,L).
+course(24128,"Bókhald (F BÓK 1005)",4,54,L).
+course(24129,"Danska (F DAN 2005)",4,42,L).
+course(24130,"Þýska (F ÞÝS 1005)",4,46,L).
+course(24131,"Stærðfræði (F STÆ 2105)",4,55,L).
+course(24132,"Eðlisfræði (F EÐL 1015)",4,51,L).
+course(24133,"Excel og tölfræði (F EXC 1005)",4,61,L).
+course(24134,"Enska (F ENS 3005)",4,12,L).
+course(24135,"Þýska (F ÞÝS 2005)",4,6,L).
+course(24136,"Stærðfræði (F STÆ 3105)",4,28,L).
+course(24137,"Eðlisfræði (F EÐL 2015)",4,20,L).
+course(24138,"Íslenska (F ÍSL 2005)",4,72,L).
+course(24139,"Danska (F DAN 2005)",4,42,L).
+course(24141,"Þýska (F ÞÝS 1005)",4,46,L).
+course(24142,"Stærðfræði (F STÆ 2005)",4,69,L).
+course(24143,"Stærðfræði (F STÆ 2105)",4,55,L).
+course(24144,"Eðlisfræði (F EÐL 1015)",4,51,L).
+course(24146,"Íslenska (F ÍSL 3005)",4,69,L).
+course(24147,"Danska (F DAN 3005)",4,72,L).
+course(24149,"Þýska (F ÞÝS 2005)",4,6,L).
+course(24150,"Stærðfræði (F STÆ 3005)",4,91,L).
+course(24152,"Efnafræði (F EFN 2005)",4,38,L).
+course(24153,"Eðlisfræði (F EÐL 2015)",4,20,L).
+course(24154,"Íslenska (F ÍSL 4005)",4,55,L).
+course(24155,"Enska (F ENS 4005)",4,56,L).
+course(24156,"Stærðfræði (F STÆ 4005)",4,81,L).
+course(24157,"Stærðfræði (F STÆ 4105)",4,63,L).
+course(24158,"Stærðfræði (F STÆ 5005)",4,64,L).
+course(24159,"Eðlisfræði (F EÐL 3015)",4,59,L).
+course(24160,"Tölvutækni (F TÖT 1005)",4,59,L).
+course(24161,"Hugmyndasaga (F HUG 1005)",4,60,L).
+course(24162,"Íslenska (F ÍSL 4005)",4,55,L).
+course(24163,"Enska (F ENS 4005)",4,56,L).
+course(24164,"Stærðfræði (F STÆ 4005)",4,81,L).
+course(24165,"Tölvutækni (F TÖT 1005)",4,59,L).
+course(24167,"Aðferðafræði (F AÐF 1005)",4,20,L).
+course(24188,"Áætlanagerð í verkefnum (C-STK-AÆTL)",4,1,L).
+course(24189,"Forysta og samskipti - Leiðtogafræði (C-STK-LEIÐ)",4,0,L).
+course(24190,"Aðferðir við ákvarðanatöku (C-STK-ADFA)",4,0,L).
+course(24206,"Thesis Proposal Defense (T-910-PROP)",2,2,L).
+course(24207,"Thesis Progress Report (T-930-PROG)",2,2,L).
+course(24208,"Thesis Defense (T-950-DEFE)",2,2,L).
+course(24215,"Stærðfræði I (T-101-STA1)",4,75,L).
+course(24217,"Rekstur og stjórnun, verkfræðilegar aðferðir (T-106-REVE)",4,86,L).
+course(24218,"Töluleg greining (T-406-TOLU)",4,130,L).
+course(24219,"Tölfræði II (T-402-TOLF)",4,52,L).
+course(24220,"Verkefnastjórnun (T-305-PRMA)",4,109,L).
+course(24221,"Afleiður (T-503-AFLE)",4,17,L).
+course(24222,"Áhættustýring (T-602-RISK)",4,14,L).
+course(24224,"Stærðfræði II (T-201-STA2)",4,181,L).
+course(24225,"Íþróttir: Sund I (E-304-SSWI)",4,55,Y).
+course(24227,"Lífeðlisfræði (E-201-PHYS)",4,56,L).
+course(24228,"Sérkennsla, raddbeiting og framkoma (E-401-SERF)",4,52,L).
+course(24229,"Stöðu og burðarþolsfræði (T-106-BURD)",4,132,L).
+course(24230,"Líkams- og heilsurækt (E-204-PACT)",4,52,Y).
+course(24231,"Útivist (E-203-OUTD)",4,59,X).
+course(24233,"Eðlisfræði I (T-102-EDL1)",4,85,L).
+course(24234,"Fimleikar/leikfimi og dans (E-403-FLDA)",4,49,Y).
+course(24235,"Hreyfingafræði (E-303-KINE)",4,43,L).
+course(24236,"Körfubolti / Blak (E-416-BAVO)",4,49,Y).
+course(24237,"Eðlisfræði II (T-202-EDL2)",4,160,L).
+course(24238,"Verknám I: Grunnskólar (E-406-PRII)",4,43,L).
+course(24239,"Þjálffræði (E-302-THET)",4,43,L).
+course(24240,"Varmafræði (T-507-VARM)",4,50,L).
+course(24241,"Lokaverkefni (E-699-THES)",4,54,L).
+course(24242,"Rafeindatækni (T-509-RAFT)",4,71,L).
+course(24243,"Merkjafræði (T-306-MERK)",4,88,L).
+course(24244,"Vélhlutafræði (T-401-VELH)",4,38,L).
+course(24245,"Lífeðlisfræði I (T-206-LIFE)",4,46,L).
+course(24246,"Læknisfræðileg myndgerð (T-609-LAEK)",4,16,L).
+course(24247,"Mælitækni og lífsmörk (T-510-MALI)",4,20,L).
+course(24248,"Hermun (T-502-HERM)",4,42,L).
+course(24249,"Stjórnun í íþróttum (E-519-STIT)",4,24,L).
+course(24250,"Tilraunastofa í varma- og straumfræði (T-606-LABB)",4,17,L).
+course(24252,"Heilsuþjálfun almennings (E-618-HRHE)",4,10,L).
+course(24253,"Afreksþjálfun (E-607-ELAT)",4,36,L).
+course(24254,"Íþróttir: Valdar greinar II (E-305-SSEL)",4,34,Y).
+course(24256,"Reiknitækni í rekstri fyrirtækja (C-FAG-RTFT)",4,5,L).
+course(24257,"Efnisfræði (T-407-EFNI)",4,42,C).
+course(24259,"Hönnun X (T-420-HONX)",4,22,L).
+course(24260,"Burðarþolsfræði - öryggi og álag (BT BUÞ4002)",4,9,L).
+course(24261,"Burðarþolsfræði - FEM (BT BUÞ4102)",4,10,L).
+course(24262,"Efnisfræði - timbur og málmar (BT EFN1013)",4,9,C).
+course(24263,"Rennslisfræði (BT REN1003)",4,13,L).
+course(24264,"Steinsteypuvirki I (BT SST1013)",4,8,G).
+course(24266,"Hagnýt eðlisfræði í byggingum (BT HEB1003)",4,8,G).
+course(24267,"Landmælingar og landupplýsingakerfi (BT LAM1013)",4,10,G).
+course(24268,"Hagnýtt verkefni í mannvirkjahönnun (BT HVB3003)",4,9,L).
+course(24269,"Jarðtækni og grundun (BT JTÆ2013)",4,8,G).
+course(24270,"Aðferðafræði rannsókna (E-702-REME)",4,14,L).
+course(24271,"Aðferðafræði og tölfræði (AT AÐF1013)",4,45,L).
+course(24272,"Hugmyndafræði og skipulag þjálfunar (E-716-PTTR)",4,15,L).
+course(24273,"Tré- og stálvirki II (BT BYG2013)",4,5,L).
+course(24274,"Steinsteypuvirki II (BT SST2013)",4,5,G).
+course(24275,"Hagnýt tölfræði (E-707-APST)",4,10,L).
+course(24276,"Vega - og gatnagerð II (BT VEG2003)",4,3,L).
+course(24277,"Framkvæmdafræði (BT FRK1013)",4,8,L).
+course(24278,"Ráðstefnur og verkefni (E-743-COPO)",4,0,L).
+course(24279,"Loftræsitækni (BT LOF1003)",4,12,L).
+course(24280,"Sjálfstætt verkefni (E-718-IDEP)",4,1,L).
+course(24281,"Vatns- og fráveitur (BT LAG3003)",4,1,L).
+course(24282,"Stærðfræði II (AT STÆ2003)",4,48,L).
+course(24283,"Burðarþolsfræði II (BT BUÞ2013)",4,25,L).
+course(24284,"Meistaraverkefni (E-899-THES)",4,6,M).
+course(24285,"Hönnun, ferli og framkvæmd (BT HVB1003)",4,12,L).
+course(24286,"Lokaverkefni (BT LOK1012)",4,2,L).
+course(24288,"Efnisfræði og vinnsla I (VT EFV1003)",4,26,C).
+course(24292,"Lokaverkefni - 2. hluti (IT LOK2003)",4,1,L).
+course(24293,"Rafmagnsfræði (RT RAF1003)",4,18,E).
+course(24294,"Mælitækni (RT MAL1003)",4,10,G).
+course(24295,"Hagnýtt verkefni I (RT HVR1003)",4,9,L).
+course(24296,"Rafsegulfræði (RT EXH1003)",4,17,E).
+course(24297,"Fjarskiptakerfi (RT FSK1003)",4,18,L).
+course(24298,"Hagnýtt verkefni II (RT HVR2003)",4,18,L).
+course(24299,"Iðntölvur og vélmenni (RT IDN1003)",4,28,L).
+course(24300,"Hönnun rafkerfa og lýsingartækni (RT HON1013)",4,8,L).
+course(24304,"Lokaverkefni (RT LOK1012)",4,2,L).
+course(24305,"Vélhlutafræði I (VT VHF1003)",4,28,L).
+course(24306,"Hagnýtt verkefni  I (VT HVV1003)",4,17,L).
+course(24307,"Hagnýt varmafræði (VT VAR2013)",4,17,L).
+course(24308,"Straum- og varmaflutningsfræði (VT STV1003)",4,35,L).
+course(24309,"Burðarþolsfræði - Tölvustudd hönnun (VT BUÞ3003)",4,17,L).
+course(24310,"Hönnun (VT HUN1013)",4,23,L).
+course(24311,"Kælikerfi og varmadælur (VT KÆL1013)",4,4,L).
+course(24312,"Hagnýtt verkefni  III (VT HVV3003)",4,19,L).
+course(24313,"Jarðhiti (VT JAH1003)",4,17,G).
+course(24315,"Sveiflufræði (VT SVF1003)",4,19,L).
+course(24316,"Lokaverkefni (VT LOK1012)",4,0,L).
+course(24317,"Vinnustofa í vöruþróun (T-420-PROX)",4,13,L).
+course(24318,"Starfsnám (T-600-STAR)",4,34,L).
+course(24319,"Rafmagnsvélar (RT RVE1003)",4,16,L).
+course(24320,"Raforkukerfi II (RT RAK2003)",4,11,E).
+course(24321,"Hagnýtt verkefni  III (RT HVR3003)",4,11,L).
+course(24322,"Hönnun fjölbýlishúss - samþætt verkefni (BF FBH1009)",4,9,L).
+course(24323,"Breytingar og endurbætur - samþætt verkefni (BF BEH1009)",4,13,L).
+course(24325,"Viðgerðir og viðhald húsa (BF VIÐ1001)",4,18,G).
+course(24326,"Fasteignastjórnun (BF FAS1001)",4,15,L).
+course(24327,"Aðferðafræði, skýrslugerð og kynningar (BF AÐF1001)",4,27,L).
+course(24328,"Starfsnám (BF STA1008)",4,3,L).
+course(24329,"Ritgerð um sérhæft efni (BF RIT1005)",4,6,L).
+course(24330,"Lokaverkefni (BF LOK1010)",4,8,L).
+course(24331,"Fjármálastjórn (AI FJS1003)",4,10,L).
+course(24332,"Framkvæmdafræði og verkstjórn (AI FRK1003)",4,37,L).
+course(24333,"Rekstrargreining (AI RGR1003)",4,12,L).
+course(24334,"Nýsköpun og stofnun fyrirtækja (AI STF1003)",4,24,L).
+course(24335,"Stjórnun, rekstur og öryggi (AI STJ1003)",4,82,L).
+course(24338,"Efnis- og byggingaeðlisfræði (BI EBE1003)",4,28,L).
+course(24339,"Jarðtækni (BI JTÆ1003)",4,30,L).
+course(24340,"Lokaverkefni (BI LOK1006)",4,14,L).
+course(24341,"Lokaverkefni (RI LOK1006)",4,17,L).
+course(24344,"Iðntölvustýringar og mælitækni (RI PLC2003)",4,14,F).
+course(24345,"Rafeindatækni (RI REI1003)",4,32,L).
+course(24346,"Raforkukerfisfræði og rafvélar (RI RFR1003)",4,31,L).
+course(24347,"Raflagnahönnun (RI RLH1003)",4,15,L).
+course(24348,"Raungreinagrunnur I (SG EÐL1000)",4,39,L).
+course(24349,"Tungumálagrunnur II (SG TUN2000)",4,20,L).
+course(24350,"Lokaverkefni (VI LOK1006)",4,5,L).
+course(24351,"Tölvustudd hönnun (VI TEI2013)",4,24,L).
+course(24352,"Varma- og rennslisfræði (VI VAR1003)",4,14,L).
+course(24353,"Vélhlutafræði (VI VHF1003)",4,14,L).
+course(24354,"Burðarþol byggingarvirkja (BI BUÞ2013)",4,34,L).
+course(24356,"Verkefnastjórnun, áætlanagerð og fjármál í verkefnum (BF VER3003)",4,13,L).
+course(24358,"Svefn (T-424-SLEE)",4,30,L).
+course(24362,"Próf - Grunnatriði í fjármálum (C-PROF-VBM)",4,17,L).
+course(24363,"Próf - Þjóðhagfræði (C-FAG-PROF)",4,20,L).
+course(24364,"Próf - Greining ársreikninga (C-FAG-GRPR)",4,17,L).
+course(24365,"Próf - Lög og reglur um fjármagnsmarkað (C-FAG-PRLÖ)",4,9,L).
+course(24366,"Próf - Markaðsviðskipti (C-FAG-PRMA)",4,9,L).
+course(24367,"Próf - Helstu tegundir verðbréfa (C-FAG-PRHE)",4,9,L).
+course(24368,"Próf - Fjárfestingarferli (C-FAG-PRFJ)",4,8,L).
+course(24372,"Byggingarfræði - byggingartækni (BI BFR1013)",4,30,L).
+course(24381,"Rekstrarhagfræði I (V-201-RHAG)",4,147,L).
+course(24382,"Rekstrargreining (V-202-REGR)",4,138,L).
+course(24383,"Hagnýt tölfræði I (V-303-TOL1)",4,136,L).
+course(24385,"Stjórnun (V-203-STJ1)",4,132,L).
+course(24386,"Nýsköpun og stofnun fyrirtækja (X-204-STOF)",4,400,L).
+course(24387,"Fjármálamarkaðir (V-304-FMAR)",4,116,L).
+course(24388,"Rekstrarhagfræði II (V-625-REII)",4,95,L).
+course(24389,"Stefnumótun (V-404-STEF)",4,80,L).
+course(24390,"Rekstrarstjórnun (V-311-OPMA)",4,106,L).
+course(24391,"Viðskiptalögfræði (V-401-LOG)",4,95,L).
+course(24392,"BSc-ritgerð (V-699-RITG)",4,54,L).
+course(24393,"Viðskiptasiðfræði (V-514-VISI)",4,76,L).
+course(24394,"Hagnýt tölfræði I (V-303-TOL1)",4,136,L).
+course(24395,"Þjóðhagfræði (V-103-THAG)",4,37,L).
+course(24396,"Stjórnun (V-203-STJ1)",4,132,L).
+course(24397,"Fjármálamarkaðir (V-304-FMAR)",4,116,L).
+course(24398,"Neytendahegðun og markaðssamskipti (V-523-MACO)",4,41,L).
+course(24399,"Rekstrarhagfræði II (V-625-REII)",4,95,L).
+course(24400,"Rekstrarstjórnun (V-311-OPMA)",4,106,L).
+course(24404,"PMD - Árangur í Rekstri (C-NBR-ARRE)",4,19,L).
+course(24405,"PMD - Árangur á Markaði (C-NBR-ARMA)",4,19,L).
+course(24406,"PMD - Samningar og Verkefnastjórnun (C-NBR-SAVE)",4,19,L).
+course(24407,"Gagnaskipan (T-201-GSKI)",4,344,L).
+course(24408,"Vefforritun (T-213-VEFF)",4,301,L).
+course(24409,"Greining og hönnun hugbúnaðar (T-216-GHOH)",4,264,L).
+course(24410,"Verklegt námskeið (T-205-VERK)",4,226,L).
+course(24411,"Stýrikerfi (T-215-STY1)",4,178,L).
+course(24412,"Lokaverkefni (T-404-LOKA)",4,39,L).
+course(24413,"Línuleg algebra (T-211-LINA)",4,277,L).
+course(24414,"Þriggja vikna námskeið (T-100-XXX)",4,161,L).
+course(24415,"Algebra og fléttufræði (T-218-ALCO)",4,32,L).
+course(24418,"Rekstrarbókhald fyrirtækja I (V-766-ACC1)",4,34,L).
+course(24419,"Forritunarmál (T-501-FMAL)",4,164,L).
+course(24420,"Gerð reikningsskila og staðlar um reikningsskil II (V-765-FIR2)",4,22,L).
+course(24421,"Hugbúnaðarfræði II (T-631-SOE2)",4,74,L).
+course(24426,"Samstæðureikningsskil fyrirtækja (V-767-SARE)",4,20,L).
+course(24427,"Strjál stærðfræði II (T-419-STR2)",4,256,L).
+course(24428,"Alþjóðafjármál (V-757-INTF)",4,28,L).
+course(24429,"Fjármál fyrirtækja II (V-763-COR2)",4,20,L).
+course(24431,"Sjálfstætt verkefni 1 (T-749-INDS)",4,9,L).
+course(24432,"Meistaravörn (T-891-MSTD)",4,2,M).
+course(24433,"MS ritgerð (T-899-MSTH)",4,9,M).
+course(24435,"Afleiður – fjármál og reikningshald (V-871-AFLE)",4,8,L).
+course(24436,"Meistaraverkefnavörn (T-991-TPDE)",4,2,L).
+course(24437,"PhD Thesis Proposal (T-992-PHDP)",4,0,L).
+course(24438,"Doktorsvörn (T-993-PHDD)",4,1,L).
+course(24439,"Doktorsritgerð í tölvunarfræði (T-999-PHDT)",4,9,L).
+course(24440,"Skattskil II (V-869-TAX2)",4,8,L).
+course(24441,"Endurskoðun III - endurskoðunarfræði (V-801-ENDU)",4,11,L).
+course(24443,"Advanced Business Informatics (V-715-ABIN)",4,7,L).
+course(24444,"Business Process Management (V-716-BPMA)",4,3,L).
+course(24445,"Corporate Performance Management (V-717-CPMA)",4,4,L).
+course(24446,"Rekstrarbókhald IV (V-783-REK4)",4,4,L).
+course(24447,"Rekstrarbókhald V (V-784-REK5)",4,3,L).
+course(24449,"Fjármálatölfræði (V-752-QFOU)",4,10,L).
+course(24450,"Skuldabréfagreining (V-758-FINC)",4,23,L).
+course(24452,"Fjárfestingar (V-777-INVE)",4,23,L).
+course(24455,"Afleiður (V-756-DERI)",4,13,L).
+course(24456,"Félaga- og fjármunaréttur (V-802-BULA)",4,7,L).
+course(24464,"Félagaréttur (L-202-FELA)",4,106,L).
+course(24466,"Fjármunaréttur II - Kröfuréttur II (L-205-FJA2)",4,102,L).
+course(24467,"Stjórnsýsluréttur (L-401-STJR)",4,110,L).
+course(24468,"Fjármunaréttur IV - Eignaréttur (L-406-FJA4)",4,73,L).
+course(24469,"Refsiréttur (L-402-REFS)",4,76,L).
+course(24470,"Samkeppnisréttur (L-303-SAKE)",4,75,L).
+course(24471,"Fjármunaréttur V - Raunhæft málflutningsverkefni (L-407-FJA5)",4,63,L).
+course(24472,"Aðferðafræði II: Lagakenningar (L-609-ALRE)",4,45,L).
+course(24473,"Sakamálaréttarfar (L-605-SARE)",4,57,L).
+course(24474,"BA ritgerð (L-611-BACR)",4,22,L).
+course(24481,"Skiptinám (X-699-EXCH)",4,33,L).
+course(24484,"Vefforritun II (T-427-WEPO)",4,92,L).
+course(24485,"Ný tækni (T-611-NYTI)",4,80,L).
+course(24486,"Uppl.- og samskiptatækni í skólakerfinu (T-418-UPSS)",4,42,L).
+course(24487,"Gervigreind (T-622-ARTI)",4,72,L).
+course(24489,"Hönnun og greining reiknirita (T-604-HGRE)",4,21,L).
+course(24491,"Högun leikjavéla (T-637-GEDE)",4,50,L).
+course(24492,"Samskipti manns og tölvu (T-636-SMAT)",4,44,L).
+course(24494,"Advanced Software Engineering (T-730-ASEN)",4,3,L).
+course(24500,"Nýmiðlun (C-EIN-NYML)",4,3,L).
+course(24501,"Samskipta- og kynningarhæfni (C-SAM-KYNN)",4,3,L).
+course(24502,"Almannatengsl (C-EIN-ALMT)",4,0,L).
+course(24503,"Rekstrar- og fjármálanám (C-REK-FJA1)",4,11,L).
+course(24504,"Sprotar (C-SPROTAR)",4,3,F).
+course(24505,"HRM and Leadership in International Context (V-825-HRML)",4,26,L).
+course(24506,"Research Methodology (V-769-REME)",4,27,L).
+course(24508,"Motivation, Performance Management and Reward Systems (V-710-MPMR)",4,11,L).
+course(24509,"Strategic Management and Organizational Theory (V-707-SMOT)",4,17,L).
+course(24511,"International Negotiation (V-820-INNE)",4,22,L).
+course(24512,"Global Supply Chain/OM (V-821-GSCN)",4,19,L).
+course(24514,"Research Proposal (V-897-RERP)",4,11,L).
+course(24515,"Starfsnám (V-872-STAR)",4,4,L).
+course(24516,"Meistaraprófsritgerð (V-899-THES)",4,16,M).
+course(24517,"Organizational HR Metrics and Applied Research Methods (V-704-OMAR)",4,12,L).
+course(24518,"Afköst gagnasafnskerfa (T-508-GAG2)",4,65,L).
+course(24519,"Mentor verkefnið: Vinátta í kerfinu (E-108-MENT)",4,0,L).
+course(24520,"Sálfræði einstaklingsmunar (E-116-SAEI)",4,58,L).
+course(24521,"Þroskasálfræði (E-214-DEPS)",4,57,L).
+course(24522,"Hugræn sálfræði og skynjunarsálfræði (E-215-HSKY)",4,55,L).
+course(24523,"Tilraunir í sálfræði (E-313-SATI)",4,45,L).
+course(24525,"Einstaklingurinn og samfélagið (E-316-EISA)",4,56,L).
+course(24526,"Vettvangsnám (E-316-VETT)",4,16,L).
+course(24528,"Áhrifaþættir þroska (E-412-CDYA)",4,31,L).
+course(24530,"Lífeðlilsfræðileg sálfræði (E-314-LISA)",4,77,L).
+course(24531,"BSc rannsóknarverkefni II (E-604-BSC2)",4,35,L).
+course(24532,"Rannsóknaraðferðir og tölfræði III (E-411-RATO)",4,46,L).
+course(24533,"Heilsusálfræði (E-503-HEIL)",4,37,L).
+course(24535,"Eignastýring (V-601-EIGN)",4,18,L).
+course(24536,"Verðlagning verðbréfa (V-402-VEVE)",4,20,L).
+course(24537,"Sölustjórnun (V-633-SOST)",4,36,L).
+course(24538,"Hagnýt vinnusálfræði (V-607-VSFR)",4,51,L).
+course(24540,"Alþjóðafjármál (V-603-ALFM)",4,25,L).
+course(24541,"Skattaskipulagning (V-660-SKAT)",4,12,L).
+course(24544,"Hagnýt stærðfræði II (V-624-STII)",4,6,L).
+course(24545,"Verkefnastjórnun (V-627-VERK)",4,37,L).
+course(24546,"Samningatækni (V-628-SAMN)",4,62,L).
+course(24548,"Ábyrgð og árangur (V-642-RESR)",4,18,L).
+course(24549,"Business strategies for Sustainable Development (V-653-STSU)",4,6,L).
+course(24550,"Starfsnám (V-667-STNA)",4,20,L).
+course(24551,"Endurskipulagning fyrirtækja (V-668-CORE)",4,19,L).
+course(24552,"Vörustjórnun (V-414-VORU)",4,33,L).
+course(24555,"English Vocabulary Building and Effective Writing Skills (V-604-ENGL)",4,35,L).
+course(24556,"Viðskiptaspænska I (V-106-SPAN)",4,18,L).
+course(24557,"Viðskiptaspænska II (V-207-SPII)",4,8,L).
+course(24558,"Viðskiptaspænska IV (V-413-SPIV)",4,0,L).
+course(24559,"Viðskiptaspænska VI (V-634-SPA6)",4,0,L).
+course(24560,"Gerð markaðsáætlunar (V-649-STMP)",4,19,L).
+course(24561,"The Global Economy (V-826-GLEC)",4,15,L).
+course(24562,"Skiptinám (V-900-EXCH)",4,0,L).
+course(24563,"Business and Markets in Europe and Asia (V-822-BMEA)",4,17,L).
+course(24564,"Entrepreneurship and New Venture Creation (V-822-ENVC)",4,23,L).
+course(24578,"Rauntímalíkön (T-219-REMO)",4,20,L).
+course(24581,"Efnafræði (F EFN 1005)",4,69,C).
+course(24582,"Modeling and Verification (T-707-MOVE)",4,11,L).
+course(24583,"Tölvuöryggi (T-417-TOOR)",4,2,F).
+course(24584,"Hagnýt málnotkun (F MAL 1005)",4,17,L).
+course(24585,"Reikningshald (F REI 1003)",4,18,L).
+course(24586,"Hugmyndasaga (F HUG 1002)",4,17,L).
+course(24587,"Verkefnalausnir (T-110-VERK)",4,53,L).
+course(24588,"Viðburðastjórnun (C-FAG-VSTJ)",4,10,L).
+course(24590,"Semantics: Theory and Applications (T-724-SETA)",4,3,L).
+course(24591,"Valið efni í vélrænu gagnanámi (T-780-ATML)",4,8,L).
+course(24592,"Fractional Reserve Banking Systems (I-708-FRBS)",4,4,L).
+course(24594,"App Development - Iphone (T-430-IPON)",4,53,L).
+course(24595,"App Development - Android (T-431-ANDR)",4,50,L).
+course(24596,"App Development - HTML (T-432-HTML)",4,53,L).
+course(24597,"Rannsóknarvinna grunnnáms (T-622-UROP)",4,8,L).
+course(24599,"Hlutbundin forritun í C++ (T-528-HLUT)",4,17,L).
+course(24600,"Öflun og framsetning gagna (T-416-VIFG)",4,17,L).
+course(24602,"Investments (T-814-INVE)",4,14,L).
+course(24603,"Strategic OB/HRM (V-768-STOH)",4,2,L).
+course(24605,"Félagaform og skattskil (C-FAG-FESK)",4,4,L).
+course(24607,"Skattskil rekstraraðila (C-FJA-SSRE)",4,4,L).
+course(24608,"Skattskil einstaklinga á eigin kennitölu (C-FAG-SKKT)",4,1,L).
+course(24609,"Grunnatriði verkefnastjórnunar (C-FAG-VERK)",4,4,L).
+course(24610,"Tímastjórnun í lífi og starfi (C-FAG-TÍLS)",4,1,L).
+course(24611,"Töluleg greining fyrir hugbúnaðarverkfræðinema (T-415-STAN)",4,4,L).
+course(24613,"Verkefnalausnir (T-110-VERK)",4,53,L).
+course(24614,"Hagnýt netkerfi (T-431-HANE)",4,15,L).
+course(24615,"Árangursrík forritun og lausn verkefna (T-414-AFLV)",4,5,L).
+course(24618,"Viðskiptagreind (I-707-VGBI)",4,22,L).
+course(24621,"Próffræði og mælingar í sálfræði (E-411-PRMA)",4,54,L).
+course(24622,"Íslenska fyrir útlendinga (I-103-ICEL)",4,27,L).
+course(24624,"Íslenska II fyrir útlendinga (I-203-ICEL)",4,14,L).
+course(24625,"Merking vinnusvæða (C-FAG-Mer1)",4,0,L).
+course(24626,"Íslenskur hlutabréfamarkaður: Undirbúningur fyrir skráningu í Kauphöllina (S-STJ-IHM)",4,1,L).
+course(24628,"Talent Management (S-STJ_TAM)",4,2,L).
+course(24629,"Árangursrík verkefna- og valddreifing (S-STJ-ÁVV)",4,3,L).
+course(24630,"Jafningjastjórnun (S-STJ-JST)",4,2,L).
+course(24631,"Different Cultures (S-STJ-DFC)",4,0,L).
+course(24632,"Operation Management (V-731-OPMA)",4,34,L).
+course(24637,"Strategic Decision Making (V-844-SDM3)",4,33,L).
+course(24638,"Business Statistics (V-732-BUST)",4,33,L).
+course(24639,"Corporate Finance (V-733-COFI)",4,33,L).
+course(24640,"Marketing Management (V-711-MAR3)",4,32,L).
+course(24641,"Performance Management (V-854-PEMA)",4,22,L).
+course(24642,"Personal Development (V-810-PEDE)",4,33,L).
+course(24643,"Personal Development (V-610-PEDE)",4,31,L).
+course(24644,"Portfolio Management (V-811-PORT)",4,28,L).
+course(24645,"International Management (V-819-INMA)",4,9,L).
+course(24646,"Strategy / Final Project (V-823-STFP)",4,33,L).
+course(24647,"Coaching Clinic (S-CCUI    )",4,0,L).
+course(24650,"Hið vanfundna gullna jafnvægi (S-STJ-HVG)",4,0,L).
+course(24651,"Straumlínustjórnun: Þróun viðskiptaferla - stöðugar framfarir (C-FAG-LEAN)",4,18,L).
+course(24652,"Árangur í sátt við samfélagið (S-STJ-AIS)",4,0,L).
+course(24653,"Breytingastjórnun (S-BREY)",4,0,L).
+course(24654,"PhD studies (T-999-PHDS)",4,16,M).
+course(24657,"Agile aðferðir í verkefnastjórnun – með áherslu á Scrum (T-849-AGVE)",4,23,L).
+course(24659,"Náðu árangri undir álagi (S-STJ-NAU)",4,0,L).
+course(24660,"Árangursrík samskipti (S-STJ-ARS)",4,1,L).
+course(24661,"Hlutverk millistjórnandans í blíðu og stríðu (S-STJ-HMS)",4,0,L).
+course(24662,"Móttaka nýliða (S-STJ-MTN)",4,0,L).
+course(24663,"Samningatækni - grunnur (C-FAG-SAM1)",4,7,L).
+course(24664,"Samningatækni - framhald (C-FAG-SAM2)",4,0,L).
+course(24665,"Tölvustudd teikning (AI TEI1001)",4,45,L).
+course(24666,"Tölvustudd hönnun (BI HON1001)",4,18,F).
+course(24667,"Tölvustudd hönnun (RI HON1001)",4,6,F).
+course(24668,"Tölvustudd hönnun (VI HON1001)",4,24,F).
+course(24669,"Árangursrík samskipti (S-STJ-ARS)",4,1,F).
+course(24675,"HR-Starfsnám (T-426-RUIS)",4,15,L).
+course(24676,"Viðskiptaáætlanakeppni - Íslandsbanki og FKA í samstarfi við Opna háskólann í HR (S_VISB)",4,19,L).
+course(24677,"Linked in og við sem vörumerki (C-FAG-LINK)",4,0,L).
+course(24678,"Framkoma og tjáning (C-FAG_FRTJ)",4,1,L).
+course(24679,"Framvinduskýrsla (V-902-PRRE)",4,7,L).
+course(24680,"Fjármál fyrir stjórnendur (S-STJ-FFS)",4,0,L).
+course(24681,"Rannsóknarverkefni (L-751-PROJ)",4,4,L).
+course(24683,"Verkefnastjórnun í opinberri stjórnsýslu (T-810-VOST)",4,22,L).
+course(24684,"Lean og 6 Sigma (T-811-LEAN)",4,32,L).
+course(24687,"5 valkostir til velgengni (C-FAG-5CHO)",4,3,L).
+course(24688,"Kynningarfundur (C-FAG-KYNN)",4,11,L).
+course(24689,"Kynningarfundur Flutningafræði (C-FAG-KFLU)",4,4,L).
+course(24690,"Áætlanagerð í verkefnum (C-NBR-AÆTL)",4,35,L).
+course(24691,"Fjármál einstaklinga (C-VFMR-FEI)",4,43,L).
+course(24692,"SQL gagnagrunnar (C-FAG-SQLG)",4,3,L).
+course(24693,"Líkanagerð fyrir rekstraráætlanir, arðsemismat og verðmat (C-FAG-LRAV)",4,0,L).
+course(24694,"R tölfræðiúrvinnsla (C-FAG-RTÚV)",4,0,L).
+course(24695,"Hagnýt heilsuþjálfun og heilsuefling (E-830-EFHP)",4,7,L).
+course(24706,"Lífsviðhorf - Lífsstíll - Lífsgæði (C-STK-LLL)",4,1,L).
+course(24717,"Samhæfð markaðssamskipti (C-NBR-SAMH)",4,12,L).
+course(24718,"Nýmiðlun (C-NBR-NYMI)",4,10,L).
+course(24720,"Valið efni í heilbriðisverkfræði (T-861-SPEC)",4,3,L).
+course(24723,"Hugmyndasaga (F HUG 1005)",4,60,L).
+course(24725,"Linked in og við sem vörumerki (C-FAG-LINK)",4,0,L).
+course(24726,"Legal English (C-FAG-LEG )",4,0,L).
+course(24727,"Innri endurskoðun (C-FAG-INNE)",4,0,L).
+course(24728,"Stærðfræði (F STÆ 3105)",4,28,L).
+course(24729,"Stærðfræði (F STÆ 3105)",4,28,L).
+course(24730,"Aðferðafræði (L-700-ADFE)",4,11,L).
+course(24731,"Enska (F ENS 2005)",4,32,L).
+course(24732,"Enska (F ENS 2005)",4,32,L).
+course(24733,"Enska (F ENS 3005)",4,12,L).
+course(24734,"Enska (F ENS 3005)",4,12,L).
+course(24736,"Excel og tölfræði (F EXC 1005)",4,61,L).
+course(24737,"Excel og tölfræði (F EXC 1005)",4,61,L).
+course(24738,"Orkuréttur (C-FAG-ORKU)",4,0,L).
+course(24739,"Flutningastjórnun (C-STK-FLUT)",4,0,L).
+course(24741,"Doktorsprófsritgerð (L-999-THES)",4,2,M).
+course(24742,"Excel 1 (C-FAG-EXC1)",4,0,L).
+course(24743,"Excel 2 (C-FAG-EXC2)",4,0,L).
+course(24744,"Eignastýring (C-FAG-EIGN)",4,0,L).
+course(24745,"Skuldabréfagreining (C-FAG-SKBG)",4,0,L).
+course(24746,"Endurskipulagning fyrirtækja (C-FAG-ESFT)",4,0,L).
+course(24747,"Sjálfstætt verkefni (T-629-INDE)",4,5,L).
+course(24748,"Excel í starfi - Flýtilyklar og formúlur (C-FAG-FLYT)",4,0,L).
+course(24749," (C-FAG-AUGL)",4,0,L).
+course(24750," (C-FAG-AUGL)",4,0,L).
+course(24751,"Hagnýt viðskiptakerfi (ERP) (I-406-HERP)",4,19,L).
+course(24754,"Rekstrarstjórnun (C-STK-REKS)",4,0,L).
+course(24755,"Hugbúnaðarþróun fyrir Android snjallsíma og spjaldtölvur (C-FAG-HUGB)",4,1,L).
+course(24756,"Að breyta gögnum í verðmætar upplýsingar (C-STK-BRGU)",4,0,L).
+course(24759,"Rekstrarbókhald fyrirtækja I (C-FAG-ACC1)",4,0,L).
+course(24760,"Samstæðureikningsskil fyrirtækja (C-FAG-SARE)",4,0,L).
+course(24761,"Gerð reikningsskila og staðlar um reikningsskil II (C-FAG-FIR2)",4,0,L).
+course(24762,"Alþjóðafjármál (C-FAG-INTF)",4,0,L).
+course(24763,"Afleiður - fjármál og reikningshald (C-FAG-AFLE)",4,0,L).
+course(24764,"Corporate Performance Management (C-FAGöCPMA)",4,0,L).
+course(24765,"Business Process Management (C-FAG-BPMA)",4,0,L).
+course(24766,"Félaga- og fjármunaréttur (C-FAG-BULA)",4,0,L).
+course(24767,"Vísindaferð kvennanefndar verkfræðingafélagsins (C-FAG-VÍSK)",4,6,L).
+course(24768,"Kynningarfundur: Þróun viðskiptaferla - stöðugar framfarir (C-FAG-KF3)",4,4,L).
+course(24769,"PhD studies (T-999-PHDS)",4,16,M).
+course(24770,"Leshópar í lögfræði (L-106-LESH)",4,27,L).
+course(24771,"HR-Starfsnám (T-426-RUIS)",4,15,L).
+course(24772,"Sjálfstætt verkefni (V-873-INDE)",4,2,L).
+course(24773,"Skipulagsfærni (C-NBR-SLF)",4,35,L).
+course(24774,"Samskiptafærni (C-NBR-SSF)",4,35,L).
+course(24775,"Meistararitgerð í Fjármálum (V-899-TH30)",4,3,M).
+course(24776,"Hvatning og endurgjöf 12. febrúar kl. 9-13 (S-STJ-HOE1)",4,0,L).
+course(24777,"Hvatning og endurgjöf 14. febrúar kl. 13-17 (S-STJ-HOE2)",4,1,L).
+course(24778,"Atferlisfjármál (S-STJ-AFF)",4,0,L).
+course(24779,"Strategic Decision Making (S-STJ-SDM)",4,19,L).
+course(24780,"Fjölbreytni í stjórnun (S-STJ-FIS)",4,34,L).
+course(24782,"Lesnámskeið (T-884-TUT4)",4,1,L).
+course(24783,"Cross-cultural negotiations (C-FAG-CNEG)",4,1,L).
+course(24787,"Samkeppnisréttur (S-STJ-SKR)",4,0,L).
+course(24788,"Excel í starfi bókarans (C-FAG-EXBO)",4,1,L).
+room(185,124,"V101",L).
+room(186,66,"V102",L).
+room(187,48,"V107",L).
+room(188,48,"V108",L).
+room(190,20,"V103",L).
+room(191,36,"V104",L).
+room(192,48,"V105",L).
+room(193,24,"V106",L).
+room(194,19,"V110",L).
+room(195,27,"V109",L).
+room(196,25,"V118 Vélsmiðja",A).
+room(197,25,"V117 Orkutæknistofa",B).
+room(200,25,"V113 Efnafræðistofa",C).
+room(201,16,"V112",L).
+room(202,16,"V111",L).
+room(203,16,"V209 Eðlisfræðistofa",D).
+room(204,16,"V207a Rafeinda- og stýritæknistofa",E).
+room(116,20,"V116 Civil Engineering",G).
+room(205,15,"V216",X).
+room(206,18,"V220",X).
+room(207,138,"M101",L).
+room(208,32,"M102",L).
+room(209,39,"M106",F).
+room(210,20,"M107",F).
+room(211,34,"M108",L).
+room(212,32,"M109",L).
+room(213,80,"M105",L).
+room(214,60,"M104",L).
+room(215,66,"M103",L).
+room(216,18,"M112",L).
+room(217,18,"M113",L).
+room(218,40,"M116",L).
+room(219,40,"M118",L).
+room(220,24,"M123",L).
+room(221,70,"M124",L).
+room(222,80,"M110",S).
+room(223,36,"M117",L).
+room(224,38,"M111",L).
+room(225,28,"M114",L).
+room(226,28,"M115",L).
+room(227,40,"M119",L).
+room(228,40,"M120",L).
+room(229,40,"M121",L).
+room(230,60,"M122",L).
+room(231,18,"M210",L).
+room(232,60,"M208",L).
+room(233,80,"M209",L).
+room(237,33,"M325",M).
+room(238,33,"M326",M).
+room(239,30,"M327",M).
+room(24,32,"O-401 - Viðskiptasmiðjan",Y).
+room(248,8,"V302",X).
+room(249,16,"V207b Rafeinda- og stýritæknistofa",E).
+room(250,16,"V207c Rafeinda- og stýritæknistofa",E).
+room(251,8,"V301",X).
+room(252,120,"M201",L).
+room(253,23,"U201",F).
+room(254,30,"M215",X).
+room(255,30,"M216",X).
+room(256,30,"M217",X).
+room(257,12,"u102 Kennslustofa - bókasafn",L).
+room(258,150,"LHÍ",Y).
+room(261,120,"V201",L).
+room(262,36,"V307",L).
+room(263,1,"Upptökuherbergi",Y).
+room(36,100,"Verður birt seinna",X).
+room(54,100,"220 Stjórnendabaun Opni háskólinn",X).
 student(10057,"Júlíus Jónasson").
 student(10069,"Ingvi Þór Elliðason").
 student(10070,"Hrafnhildur Stefánsdóttir").

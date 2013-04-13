@@ -9,6 +9,8 @@ public class Class {
 	ArrayList<Integer> students = new ArrayList<Integer>();
 	ArrayList<Integer> teachers = new ArrayList<Integer>();
 	int inputId;
+	int day;
+	char wantroomtype;
 	
 
 	public int getInputId() {
@@ -19,11 +21,12 @@ public class Class {
 		this.inputId = inputId;
 	}
 
-	public Class(String name, int id, int numberaweek, int studentCount) {
+	public Class(String name, int id, int numberaweek, int studentCount, char wantroomtype) {
 		this.name = name;
 		this.id = id;
 		this.numberaweek = numberaweek;
 		this.studentCount = studentCount;
+		this.wantroomtype = wantroomtype;
 	}
 
 	public String getName() {

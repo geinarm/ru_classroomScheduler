@@ -5,6 +5,7 @@ public class Room {
 	String name;
 	int roominputindex;
 	int day;
+	char type;
 	
 
 	public int getRoominputindex() {
@@ -13,13 +14,14 @@ public class Room {
 
 	
 	
-	public Room(int id, int time, int capacity, String name, int day) {
+	public Room(int id, int time, int capacity, String name, int day, char type) {
 		super();
 		this.id = id;
 		this.time = time;
 		this.capacity = capacity;
 		this.name = name;
 		this.day = day;
+		this.type = type;
 	}
 
 

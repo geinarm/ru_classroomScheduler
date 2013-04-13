@@ -21,6 +21,7 @@ public class Scheduler {
 
 	public Scheduler() throws IOException {
 		S = S.importSchool();
+		
 		overlapGraph = new int[S.classes.size()][S.classes.size()];
 		schedule = new Class[S.rooms.size()][numTime][5];
 	}
@@ -61,10 +62,15 @@ public class Scheduler {
 			Class c = unassigned.getFirst();
 			unassigned.remove(c);
 			Timeslot t = getRoom(c);
-
+			
 			if (schedule[t.room.getRoominputindex()][t.time][t.day] == null) {
+				if(c.numberaweek == 4);
+					c.day = t.day;
 				// System.out.println("put it here");
 				schedule[t.room.getRoominputindex()][t.time][t.day] = c;
+				c.numberaweek = c.numberaweek - 2;
+				if(c.numberaweek == 2)
+					unassigned.addLast(c);
 			} else {
 				Class c2 = schedule[t.room.getRoominputindex()][t.time][t.day];
 				// System.out.println("Compare to class" + c2.id);
@@ -73,6 +79,11 @@ public class Scheduler {
 					//System.out.println("Swap");
 					unassigned.addLast(c2);
 					schedule[t.room.getRoominputindex()][t.time][t.day] = c;
+					c2.numberaweek = c2.numberaweek + 2;
+					if(c2.numberaweek == 4 )
+						c2.day = 10;
+					c.numberaweek = c.numberaweek -2;
+					c.day = t.day;
 				} else {
 					unassigned.addLast(c);
 			//		System.out.println("Denied");
@@ -84,6 +95,7 @@ public class Scheduler {
 		printSchedule();
 		System.out.println("Final evaluation: " + finalEvaluation());
 		System.out.println("Solved in " + (System.currentTimeMillis()-timestamp)/1000.0 + " Seconds");
+		
 	}
 
 	public Timeslot getRoom(Class c) {
@@ -123,14 +135,18 @@ public class Scheduler {
 
 	public int eval(Class c, Timeslot t) {
 		int score = 0;
-
+		
+		if(c.numberaweek == 2 && c.day == t.day)
+			score -= 1000;
 		if (t.room.capacity < c.students.size())
 			score -= 100;
-
+		if(Math.abs(c.students.size() - t.room.capacity) > 40)
 		score -= Math.abs(c.students.size() - t.room.capacity);
+		else
+			score += Math.abs(c.students.size() - t.room.capacity);
 
 		//Check teacher conflicts
-		for (int i = 0; i < S.rooms.size(); i++) {
+		/*for (int i = 0; i < S.rooms.size(); i++) {
 			if (t.room.roominputindex == i)
 				continue;
 			if (schedule[i][t.time][t.day] != null) {
@@ -140,7 +156,7 @@ public class Scheduler {
 						return -10000;
 				}
 			}
-		}
+		}*/
 		
 		//Check student conflicts
 		for (int i = 0; i < S.rooms.size(); i++) {
@@ -250,7 +266,7 @@ public class Scheduler {
 				}
 			}
 		}
-		
+		collisions = collisions/4;
 		return collisions;
 	}
 
