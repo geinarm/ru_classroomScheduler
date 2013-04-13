@@ -1,6 +1,9 @@
+import java.util.ArrayList;
+
 public class Teacher {
 	String name;
 	int teacherId;
+	ArrayList<Integer> preferedDays;
 
 	public String getName() {
 		return name;
@@ -21,6 +24,7 @@ public class Teacher {
 	public Teacher(String name, int teacherId) {
 		this.name = name;
 		this.teacherId = teacherId;
+		preferedDays = new ArrayList<Integer>();
 	}
 	
 	@Override public boolean equals(Object t) {

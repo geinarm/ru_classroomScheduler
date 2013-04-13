@@ -20293,394 +20293,394 @@ student(9852,"Sverrir Bjarni Sigursveinsson").
 student(9863,"Þorsteinn Siglaugsson").
 student(9864,"Þórunn Pálsdóttir").
 student(9914,"Anna Rósa Böðvarsdóttir").
-teacher(10015,"Kristinn Alexandersson").
-teacher(10062,"Hulda Dóra Styrmisdóttir").
-teacher(10073,"Ásdís Hlökk Theodórsdóttir").
-teacher(10075,"Brian Atkin").
-teacher(10083,"Þóra Hallgrímsdóttir").
-teacher(10092,"Ásgeir Matthíasson").
-teacher(10093,"Elín Björg Smáradóttir").
-teacher(10269,"Ólafur Hermannsson").
-teacher(10375,"Sigurður Þ Ingimundarson").
-teacher(10402,"Garðar Guðmundur Gíslason").
-teacher(10430,"Þráinn Hafsteinsson").
-teacher(10571,"Aldís Ingimarsdóttir").
-teacher(10640,"Gunnar Thorberg Sigurðsson").
-teacher(10661,"Magnús Már Halldórsson").
-teacher(10677,"Hrefna Sigríður Briem").
-teacher(10679,"Leifur Þór Leifsson").
-teacher(10709,"Valdimar Sigurðsson").
-teacher(10710,"Svanbjörn Einarsson").
-teacher(10766,"Margrét Einarsdóttir").
-teacher(10786,"Grímur Jónsson").
-teacher(10789,"Auður Hrefna Guðmundsdóttir").
-teacher(10790,"Baldur Thorlacius").
-teacher(10791,"Davíð Steinn Davíðsson").
-teacher(11007,"Hjalti Magnússon").
-teacher(11136,"Unnar Þór Bachmann").
-teacher(11174,"Áslaug Pálsdóttir").
-teacher(11413,"Særún Ósk Pálmadóttir").
-teacher(11711,"Willum Þór Þórsson").
-teacher(11728,"Vilhelm Sigfús Sigmundsson").
-teacher(11940,"Brynjar Pétursson Young").
-teacher(11966,"Páll Melsted Ríkharðsson").
-teacher(11968,"Gísli Freyr Þorsteinsson").
-teacher(12005,"Dóra Sif Tynes").
-teacher(12014,"Eva Sóley Guðbjörnsdóttir").
-teacher(12349,"Andrei Manolescu").
-teacher(12382,"William Scott Harvey").
-teacher(12397,"Lilja Guðríður Karlsdóttir").
-teacher(12418,"William Crittenden").
-teacher(12445,"Sesselja Erla Árnadóttir").
-teacher(12451,"Slawomir Marcin Koziel").
-teacher(12560,"Haukur Freyr Gylfason").
-teacher(12640,"Ingveldur Ýr Jónsdóttir").
-teacher(12747,"Ólafur Jóhannsson").
-teacher(12906,"Hafliði Kristján Lárusson").
-teacher(12989,"Sigurður Ingi Erlingsson").
-teacher(12990,"Paolo Gargiulo").
-teacher(13080,"Kristín Haraldsdóttir").
-teacher(13151,"Kristín Hildur Sætran").
-teacher(13154,"Henning Arnór Úlfarsson").
-teacher(13363,"Lára Herborg Ólafsdóttir").
-teacher(13441,"Ástvaldur Sigurðsson").
-teacher(13554,"Sóley Jónsdóttir").
-teacher(13616,"Rúnar Guðnason").
-teacher(13655,"Eyþór Stefánsson").
-teacher(13657,"Guðmundur Magnússon").
-teacher(13952,"Pétur Sigurðsson").
-teacher(13953,"Hrafn Eiríksson").
-teacher(13979,"Hafrún Kristjánsdóttir").
-teacher(14152,"Hlynur Arnórsson").
-teacher(14226,"Farid AitSahlia").
-teacher(14534,"Marjan Sirjani").
-teacher(14566,"Vlad Vaiman").
-teacher(14578,"Jack Ernest James").
-teacher(14581,"Anna Kristín Newton").
-teacher(14617,"Heiða Björg Pálmadóttir").
-teacher(14668,"Torfi Guðmundur Sigurðsson").
-teacher(14759,"Lilja Níelsdóttir").
-teacher(14793,"Gísli Gunnar Pétursson").
-teacher(14879,"Elín Carstensdóttir").
-teacher(14997,"Heiðdís B Valdimarsdóttir").
-teacher(15116,"Ceon Ramon").
-teacher(15133,"Stanislav Ogurtsov").
-teacher(15192,"Reynir Kristjánsson").
-teacher(15208,"Salvör Jónsdóttir").
-teacher(15209,"Sveinn Áki Sverrisson").
-teacher(15219,"Jóhannes Már Sigurðarson").
-teacher(15406,"Lahcen Bouhlali").
-teacher(15575,"Ásgeir Jónasson").
-teacher(15589,"Ingólfur Eðvarðsson").
-teacher(15601,"Kristján Oddsson").
-teacher(15805,"Guðni Oddur Jónsson").
-teacher(15989,"Bogi Brimir Árnason").
-teacher(16048,"Sindri Þór Hilmarsson").
-teacher(16073,"María Sigríður Guðjónsdóttir").
-teacher(16158,"Jón Guðnason").
-teacher(16159,"Björn Þorvaldsson").
-teacher(16168,"Rúnar Gísli Valdimarsson").
-teacher(16176,"Kristinn Torfason").
-teacher(16182,"Hulda María Stefánsdóttir").
-teacher(16328,"Ágúst Þór Gunnarsson").
-teacher(16358,"Ingibjörg Birna Kjartansdóttir").
-teacher(16391,"Guðni Ingi Pálsson").
-teacher(16394,"Aníta Björk Hlynsdóttir").
-teacher(16425,"Kamilla Rún Jóhannsdóttir").
-teacher(16452,"Stefán Freyr Guðmundsson").
-teacher(16485,"Gerhard Apfelthaler").
-teacher(16486,"Frank Hoy").
-teacher(16508,"Brynjar Vatnsdal Pálsson").
-teacher(16529,"Gunnar Þorgilsson").
-teacher(16680,"Þorgerður Jónsdóttir").
-teacher(16682,"Jón Brandsson").
-teacher(16690,"Tamara Lobato Beneyto").
-teacher(16777,"Ólafur Birgir Davíðsson").
-teacher(16846,"Einar Svansson").
-teacher(17149,"Kristín María Gunnarsdóttir").
-teacher(17181,"Axel Örn Sigurðsson").
-teacher(17210,"Guðrún Sif Hilmarsdóttir").
-teacher(17214,"Heiðar Þórðarson").
-teacher(17236,"Patrekur Patreksson").
-teacher(17240,"Reynir Örn Björnsson").
-teacher(17389,"Runólfur Þór Ástþórsson").
-teacher(17552,"Sveinn Fannar Kristjánsson").
-teacher(17554,"Magnús Örn Hreiðarsson").
-teacher(17641,"Einar Einarsson").
-teacher(17656,"Lóa Jóhannsdóttir").
-teacher(17769,"Vífill Harðarson").
-teacher(17778,"Kristinn Arnarson").
-teacher(17867,"Baldur Heiðar Sigurðsson").
-teacher(17876,"Bjarni Jón Pálsson").
-teacher(17929,"Ólafur Daníelsson").
-teacher(17944,"Stefan Christian Otte").
-teacher(17945,"Guðrún Björnsdóttir").
-teacher(17950,"Mark Mendenhall").
-teacher(17952,"Brynja Björk Magnúsdóttir").
-teacher(17953,"Ýmir Vigfússon").
-teacher(17957,"Gísli Steinar Ingólfsson").
-teacher(17958,"Joseph Timothy Foley").
-teacher(17959,"Þormóður Sveinsson").
-teacher(18083,"Jimmy Erik Ekstedt").
-teacher(18162,"Stephan Schiffel").
-teacher(18186,"Halldór Árnason").
-teacher(18201,"Guðmundur Thorlacius Ragnarsson").
-teacher(18225,"Hjálmar Gíslason").
-teacher(18226,"Þorlákur Lúðvíksson").
-teacher(18227,"Guðmunda Smáradóttir").
-teacher(18240,"Sigríður Heimisdóttir").
-teacher(18292,"Kristján Friðrik Alexandersson").
-teacher(18294,"Jónas Þór Snæbjörnsson").
-teacher(18297,"Páll Jensson").
-teacher(18304,"Erna Karen Óskarsdóttir").
-teacher(18665,"Arnar Páll Skúlason").
-teacher(18669,"Bjarni Benediktsson").
-teacher(18671,"Brynjar Þór Fannberg Eyþórsson").
-teacher(18677,"Gunnar Jörgen Viggósson").
-teacher(18683,"Ólafur Daði Jónsson").
-teacher(18729,"Helgi Kristvin Sigurbjarnarson").
-teacher(18774,"Víðir Orri Reynisson").
-teacher(18893,"Tómas Arnar Guðmundsson").
-teacher(18921,"Jóhann Gíslason").
-teacher(19337,"Þorgeir Auðunn Karlsson").
-teacher(19404,"Helgi Þór Ingason").
-teacher(19533,"Baldur Þorgilsson").
-teacher(19542,"Jamie Deon Garrett").
-teacher(19590,"Jacqueline Clare Mallett").
-teacher(19610,"Jóhanna Björk Briem").
-teacher(19612,"Hrafnhildur M Gunnarsdóttir").
-teacher(19614,"Charles H Fay").
-teacher(19663,"Sigríður J Hjaltested de Jesus").
-teacher(19722,"Kristinn Jóhannes Magnússon").
-teacher(19724,"Jóhann Arnarson").
-teacher(19725,"Albertína Friðbjörg Elíasdóttir").
-teacher(19726,"Anna Guðrún Edvardsdóttir").
-teacher(19728,"Sólrún Geirsdóttir").
-teacher(19729,"Þórarinn Viðar Hjaltason").
-teacher(19731,"Birgir Jónasson").
-teacher(19733,"Rúnar Steinn Ragnarsson").
-teacher(19849,"Ólafur Jóhannsson").
-teacher(19928,"Erla Sigríður Grétarsdóttir").
-teacher(19929,"Darren Dalcher").
-teacher(20022,"Heba Soffía Björnsdóttir").
-teacher(20066,"Ómar Henningsson").
-teacher(20067,"Gustav Helgi Haraldsson").
-teacher(20097,"Friðrik Árni Friðriksson Hirst").
-teacher(20138,"Viðar Ingason").
-teacher(20140,"Erna Tönsberg").
-teacher(20141,"Þuríður Sigurðardóttir").
-teacher(20142,"Auður Hafdís Björnsdóttir").
-teacher(20147,"Friðsemd Dröfn Guðjónsdóttir").
-teacher(20390,"Viggó Magnússon").
-teacher(20661,"Marijke Hilde Lore Bodlaender").
-teacher(21314,"Hjörtur Jóhannsson").
-teacher(21458,"Þórdís Jóhannsdóttir Wathne").
-teacher(21475,"Hafsteinn Gunnar Hauksson").
-teacher(21489,"Hjörtur Björnsson").
-teacher(21538,"Ásbjörg Kristinsdóttir").
-teacher(21683,"Helgi Már Hannesson").
-teacher(21702,"Brian Gran").
-teacher(21710,"Kristján Geir Gunnarsson").
-teacher(21711,"Magnús Blöndahl Sighvatsson").
-teacher(21717,"Jón Bjarki Gunnarsson").
-teacher(21719,"Vigdís Eva Líndal").
-teacher(21743,"Einar Jón Ásbjörnsson").
-teacher(21745,"Ferdinand Hansen").
-teacher(21746,"Torben Juul Andersen").
-teacher(21747,"Jan Vom Brocke").
-teacher(21748,"Elín Blöndal").
-teacher(21756,"Carsten Rohde").
-teacher(21772,"Unnur Vala Guðbjartsdóttir").
-teacher(21773,"Ásta Logadóttir").
-teacher(21774,"Freyr Halldórsson").
-teacher(21775,"Sigurgrímur Skúlason").
-teacher(21810,"Dagmar Kristín Hannesdóttir").
-teacher(21815,"Sveinn Arnar Stefánsson").
-teacher(21816,"Magnús Skúlason").
-teacher(21817,"Ragnar Kristjánsson").
-teacher(21819,"Sólrún Halla Einarsdóttir").
-teacher(21821,"Ingibjörg Guðmundsdóttir").
-teacher(21822,"Steve Byers").
-teacher(21937,"Milan Chang Guðjónsson").
-teacher(21950,"Óttar Hillers").
-teacher(21951,"Vaka Rögnvaldsdóttir").
-teacher(21952,"Hinrik Jósafat Atlason").
-teacher(21953,"Hjalti Franzson").
-teacher(21954,"Svanbjörg H Haraldsdóttir").
-teacher(21956,"Vigdís Harðardóttir").
-teacher(21957,"Sigríður Sif Gylfadóttir").
-teacher(21958,"Ýr Margrét Gunnarsdóttir").
-teacher(21970,"Stefán Eiríksson").
-teacher(21971,"Halla Helgadóttir").
-teacher(21987,"Gréta María Grétarsdóttir").
-teacher(21994,"Sigríður Þórðardóttir").
-teacher(21995,"Matthías Sveinbjörnsson").
-teacher(21996,"Grétar Már Ragnarsson Amazeen").
-teacher(22000,"Yonatan Afework Tesfahunegn").
-teacher(22003,"null").
-teacher(22018,"Hjördís Lára Hreinsdóttir").
-teacher(22019,"Marjan Ilkov").
-teacher(22036,"Björg Ágústsdóttir").
-teacher(229,"Jóhann Viðar Ívarsson").
-teacher(235,"Ragnhildur Björg Konráðsdóttir").
-teacher(237,"Halldór Halldórsson").
-teacher(239,"Ólafur Andri Ragnarsson").
-teacher(241,"Þórður S Gunnarsson").
-teacher(243,"Björn Þór Jónsson").
-teacher(248,"Hallgrímur Arnalds").
-teacher(249,"Þorlákur Karlsson").
-teacher(250,"Magnús Hrafn Magnússon").
-teacher(251,"Almar Guðmundsson").
-teacher(258,"Daníel Brandur Sigurgeirsson").
-teacher(266,"Torfi Helgi Leifsson").
-teacher(272,"Marta Kristín Lárusdóttir").
-teacher(296,"Birgir Kaldal Kristmannsson").
-teacher(298,"Gunnlaugur Þór Briem").
-teacher(309,"Loftur Ólafsson").
-teacher(319,"Finnur Oddsson").
-teacher(3205,"Breki Karlsson").
-teacher(331,"Hannes Pétursson").
-teacher(3330,"Elín Árnadóttir").
-teacher(3346,"Elísabet I Þorvaldsdóttir").
-teacher(347,"Hrafn Loftsson").
-teacher(3480,"Garðar K Vilhjálmsson").
-teacher(3490,"Geir Matti Jarvela").
-teacher(3526,"Grímur Tómas Tómasson").
-teacher(358,"Jón Ormur Halldórsson").
-teacher(3636,"Gunnar Egill Egilsson").
-teacher(364,"Ketill Berg Magnússon").
-teacher(365,"Þórður Víkingur Friðgeirsson").
-teacher(375,"Ásrún Matthíasdóttir").
-teacher(389,"Stefán Freyr Stefánsson").
-teacher(395,"Sigrún Eva Ármannsdóttir").
-teacher(410,"Sólmundur Jónsson").
-teacher(4256,"Kristján Vigfússon").
-teacher(443,"Sigurður Erlingsson").
-teacher(4478,"Páll Daði Ásgeirsson").
-teacher(464,"Luca Aceto").
-teacher(468,"Ólafur Finnbogi Haraldsson").
-teacher(483,"Jón Bjarnason").
-teacher(4831,"Telma Sæmundsdóttir").
-teacher(502,"Heimir Örn Herbertsson").
-teacher(503,"Sigurður Tómas Magnússon").
-teacher(505,"Jón Helgi B Snorrason").
-teacher(524,"Þröstur Olaf Sigurjónsson").
-teacher(525,"Andri Árnason").
-teacher(530,"Matthías Geir Pálsson").
-teacher(534,"Joe Pons").
-teacher(537,"Ólafur Ísleifsson").
-teacher(540,"Þóra Gylfadóttir").
-teacher(5439,"Hallgrímur Ásgeirsson").
-teacher(5447,"Helgi Magnús Gunnarsson").
-teacher(545,"Svala Ísfeld Ólafsdóttir").
-teacher(5460,"Bryndís Björk Ásgeirsdóttir").
-teacher(5463,"Jesper Rangvid").
-teacher(5492,"Stefán Svavarsson").
-teacher(5496,"Ingunn Sæmundsdóttir").
-teacher(5497,"Haraldur Auðunsson").
-teacher(5498,"Jens Arnljótsson").
-teacher(5504,"Björn Lárus Bergsson").
-teacher(5506,"Friðrik Rafn Larsen").
-teacher(5514,"Þórdís Lilja Gísladóttir").
-teacher(559,"Yngvi Björnsson").
-teacher(5600,"Eyþór Rafn Þórhallsson").
-teacher(5606,"Guðbrandur Steinþórsson").
-teacher(5616,"Halldór Guðfinnur Svavarsson").
-teacher(562,"Margrét V Kristjánsdóttir").
-teacher(5626,"Indriði Sævar Ríkharðsson").
-teacher(5630,"Ingólfur Örn Þorbjörnsson").
-teacher(5642,"Karl Hinrik Jósafatsson").
-teacher(5645,"Kristinn Sigurjónsson").
-teacher(5658,"Pétur Bergþór Arason").
-teacher(5664,"Sigurþór Heimisson").
-teacher(5665,"Stefán Arnar Kárason").
-teacher(567,"Erlendina Kristjansson").
-teacher(5678,"Snjólaug Steinarsdóttir").
-teacher(5686,"Sverrir Ragnars Arngrímsson").
-teacher(5687,"Þórhallur Örn Guðlaugsson").
-teacher(5692,"Vigdís Hjaltadóttir").
-teacher(5707,"Brynjar Karlsson").
-teacher(5712,"Eðvald Möller").
-teacher(583,"Kristinn Rúnar Þórisson").
-teacher(585,"Þorgeir Pálsson").
-teacher(586,"Árni Árnason").
-teacher(5863,"Björn Ómarsson").
-teacher(592,"David Griswold").
-teacher(599,"Claus Parum").
-teacher(601,"Guðmundur Jónsson").
-teacher(603,"Þórdís Ingadóttir").
-teacher(605,"Árni Tómasson").
-teacher(609,"Unnar Friðrik Pálsson").
-teacher(617,"Aðalsteinn Leifsson").
-teacher(624,"Sigurjón Valdimarsson").
-teacher(626,"Eric Weber").
-teacher(637,"Inga Dóra Sigfúsdóttir").
-teacher(6613,"Viðar Helgason").
-teacher(6650,"Karl Georg Ragnarsson").
-teacher(6692,"Páll Kristján Pálsson").
-teacher(6694,"Karl Guðmundur Friðriksson").
-teacher(6831,"Jón E Bernódusson").
-teacher(6838,"Sverrir Þórhallsson").
-teacher(6839,"Benedikt Steingrímsson").
-teacher(6850,"Þórður Helgason").
-teacher(6852,"Árni Ragnarsson").
-teacher(6871,"Jón Viðar Guðjónsson").
-teacher(6902,"Páll Jóhannesson").
-teacher(6917,"Anna Sigríður Bragadóttir").
-teacher(6921,"Björg Hilmarsdóttir").
-teacher(6966,"Jón Ólafur Erlendsson").
-teacher(6974,"Arnar Þór Jónsson").
-teacher(6976,"Ágúst Valfells").
-teacher(6982,"Daníel Viðarsson").
-teacher(6990,"Anna Ingólfsdóttir").
-teacher(6992,"Eyjólfur Ingi Ásgeirsson").
-teacher(7506,"Brian Daniel Marshall").
-teacher(7623,"Björgvin Smári Jónsson").
-teacher(7671,"Gissur Jónasson").
-teacher(7739,"Hilmar Kári Hallbjörnsson").
-teacher(7790,"Kamilla Reynisdóttir").
-teacher(7853,"Reynir Þorvaldsson").
-teacher(7915,"Þorlákur Helgi Hilmarsson").
-teacher(7979,"K. Ravindran").
-teacher(7982,"Ólafur Haralds Wallevik").
-teacher(7984,"Logi Jónsson").
-teacher(7985,"Jón Ólafur Skarphéðinsson").
-teacher(8011,"Jóhann Björgvinsson").
-teacher(8029,"Birgir Jóhannesson").
-teacher(8033,"Sigríður Kristinsdóttir").
-teacher(8049,"Arney Einarsdóttir").
-teacher(8053,"Kristján Halldórsson").
-teacher(8089,"Sæmundur E Þorsteinsson").
-teacher(8127,"Marc Sachon").
-teacher(8169,"Axel Hall").
-teacher(8171,"Magnús Matthíasson").
-teacher(8184,"Ármann Gylfason").
-teacher(8186,"Gunnlaugur B Hjartarson").
-teacher(8187,"Viðar Halldórsson").
-teacher(8301,"Karl Ægir Karlsson").
-teacher(8343,"Magnús Fjalar Guðmundsson").
-teacher(8393,"Stefán A. Svensson").
-teacher(8509,"Bjarni Vilhjálmur Halldórsson").
-teacher(8560,"Sigurður Freyr Hafstein").
-teacher(8563,"Kristján Karlsson").
-teacher(8573,"Hannes Högni Vilhjálmsson").
-teacher(8583,"Einar Helgason").
-teacher(8589,"Jón Þór Sturluson").
-teacher(8603,"Haraldur Sigþórsson").
-teacher(8799,"Agnar Snædahl Gylfason").
-teacher(8824,"Árni Hermann Reynisson").
-teacher(8868,"Eiríkur Heiðar Nilsson").
-teacher(8886,"Freysteinn Alfreðsson").
-teacher(8946,"Hlynur Sigurþórsson").
-teacher(9030,"Ottó Stefán Michelsen").
-teacher(9565,"Kristín Friðgeirsdóttir").
-teacher(9584,"Guðmundur Edgarsson").
-teacher(9623,"Ingunn Gunnarsdóttir").
-teacher(9664,"Ágústa Guðrún Bernharðsdóttir").
-teacher(9711,"Haukur Ingi Jónasson").
-teacher(9715,"Sverrir Ólafsson").
-teacher(9903,"David Schwarzkopf").
-teacher(9974,"Rúnar Helgi Andrason").
+teacher(10015,"Kristinn Alexandersson",).
+teacher(10062,"Hulda Dóra Styrmisdóttir",).
+teacher(10073,"Ásdís Hlökk Theodórsdóttir",).
+teacher(10075,"Brian Atkin",).
+teacher(10083,"Þóra Hallgrímsdóttir",).
+teacher(10092,"Ásgeir Matthíasson",).
+teacher(10093,"Elín Björg Smáradóttir",).
+teacher(10269,"Ólafur Hermannsson",).
+teacher(10375,"Sigurður Þ Ingimundarson",).
+teacher(10402,"Garðar Guðmundur Gíslason",).
+teacher(10430,"Þráinn Hafsteinsson",).
+teacher(10571,"Aldís Ingimarsdóttir",).
+teacher(10640,"Gunnar Thorberg Sigurðsson",).
+teacher(10661,"Magnús Már Halldórsson",).
+teacher(10677,"Hrefna Sigríður Briem",).
+teacher(10679,"Leifur Þór Leifsson",).
+teacher(10709,"Valdimar Sigurðsson",).
+teacher(10710,"Svanbjörn Einarsson",).
+teacher(10766,"Margrét Einarsdóttir",).
+teacher(10786,"Grímur Jónsson",).
+teacher(10789,"Auður Hrefna Guðmundsdóttir",).
+teacher(10790,"Baldur Thorlacius",).
+teacher(10791,"Davíð Steinn Davíðsson",).
+teacher(11007,"Hjalti Magnússon",).
+teacher(11136,"Unnar Þór Bachmann",).
+teacher(11174,"Áslaug Pálsdóttir",).
+teacher(11413,"Særún Ósk Pálmadóttir",).
+teacher(11711,"Willum Þór Þórsson",).
+teacher(11728,"Vilhelm Sigfús Sigmundsson",).
+teacher(11940,"Brynjar Pétursson Young",).
+teacher(11966,"Páll Melsted Ríkharðsson",).
+teacher(11968,"Gísli Freyr Þorsteinsson",).
+teacher(12005,"Dóra Sif Tynes",).
+teacher(12014,"Eva Sóley Guðbjörnsdóttir",).
+teacher(12349,"Andrei Manolescu",).
+teacher(12382,"William Scott Harvey",).
+teacher(12397,"Lilja Guðríður Karlsdóttir",).
+teacher(12418,"William Crittenden",).
+teacher(12445,"Sesselja Erla Árnadóttir",).
+teacher(12451,"Slawomir Marcin Koziel",).
+teacher(12560,"Haukur Freyr Gylfason",).
+teacher(12640,"Ingveldur Ýr Jónsdóttir",).
+teacher(12747,"Ólafur Jóhannsson",).
+teacher(12906,"Hafliði Kristján Lárusson",).
+teacher(12989,"Sigurður Ingi Erlingsson",).
+teacher(12990,"Paolo Gargiulo",).
+teacher(13080,"Kristín Haraldsdóttir",).
+teacher(13151,"Kristín Hildur Sætran",).
+teacher(13154,"Henning Arnór Úlfarsson",).
+teacher(13363,"Lára Herborg Ólafsdóttir",).
+teacher(13441,"Ástvaldur Sigurðsson",).
+teacher(13554,"Sóley Jónsdóttir",).
+teacher(13616,"Rúnar Guðnason",).
+teacher(13655,"Eyþór Stefánsson",).
+teacher(13657,"Guðmundur Magnússon",).
+teacher(13952,"Pétur Sigurðsson",).
+teacher(13953,"Hrafn Eiríksson",).
+teacher(13979,"Hafrún Kristjánsdóttir",).
+teacher(14152,"Hlynur Arnórsson",).
+teacher(14226,"Farid AitSahlia",).
+teacher(14534,"Marjan Sirjani",).
+teacher(14566,"Vlad Vaiman",).
+teacher(14578,"Jack Ernest James",).
+teacher(14581,"Anna Kristín Newton",).
+teacher(14617,"Heiða Björg Pálmadóttir",).
+teacher(14668,"Torfi Guðmundur Sigurðsson",).
+teacher(14759,"Lilja Níelsdóttir",).
+teacher(14793,"Gísli Gunnar Pétursson",).
+teacher(14879,"Elín Carstensdóttir",).
+teacher(14997,"Heiðdís B Valdimarsdóttir",).
+teacher(15116,"Ceon Ramon",).
+teacher(15133,"Stanislav Ogurtsov",).
+teacher(15192,"Reynir Kristjánsson",).
+teacher(15208,"Salvör Jónsdóttir",).
+teacher(15209,"Sveinn Áki Sverrisson",).
+teacher(15219,"Jóhannes Már Sigurðarson",).
+teacher(15406,"Lahcen Bouhlali",).
+teacher(15575,"Ásgeir Jónasson",).
+teacher(15589,"Ingólfur Eðvarðsson",).
+teacher(15601,"Kristján Oddsson",).
+teacher(15805,"Guðni Oddur Jónsson",).
+teacher(15989,"Bogi Brimir Árnason",).
+teacher(16048,"Sindri Þór Hilmarsson",).
+teacher(16073,"María Sigríður Guðjónsdóttir",).
+teacher(16158,"Jón Guðnason",).
+teacher(16159,"Björn Þorvaldsson",).
+teacher(16168,"Rúnar Gísli Valdimarsson",).
+teacher(16176,"Kristinn Torfason",).
+teacher(16182,"Hulda María Stefánsdóttir",).
+teacher(16328,"Ágúst Þór Gunnarsson",).
+teacher(16358,"Ingibjörg Birna Kjartansdóttir",).
+teacher(16391,"Guðni Ingi Pálsson",).
+teacher(16394,"Aníta Björk Hlynsdóttir",).
+teacher(16425,"Kamilla Rún Jóhannsdóttir",).
+teacher(16452,"Stefán Freyr Guðmundsson",).
+teacher(16485,"Gerhard Apfelthaler",).
+teacher(16486,"Frank Hoy",).
+teacher(16508,"Brynjar Vatnsdal Pálsson",).
+teacher(16529,"Gunnar Þorgilsson",).
+teacher(16680,"Þorgerður Jónsdóttir",).
+teacher(16682,"Jón Brandsson",).
+teacher(16690,"Tamara Lobato Beneyto",).
+teacher(16777,"Ólafur Birgir Davíðsson",).
+teacher(16846,"Einar Svansson",).
+teacher(17149,"Kristín María Gunnarsdóttir",).
+teacher(17181,"Axel Örn Sigurðsson",).
+teacher(17210,"Guðrún Sif Hilmarsdóttir",).
+teacher(17214,"Heiðar Þórðarson",).
+teacher(17236,"Patrekur Patreksson",).
+teacher(17240,"Reynir Örn Björnsson",).
+teacher(17389,"Runólfur Þór Ástþórsson",).
+teacher(17552,"Sveinn Fannar Kristjánsson",).
+teacher(17554,"Magnús Örn Hreiðarsson",).
+teacher(17641,"Einar Einarsson",).
+teacher(17656,"Lóa Jóhannsdóttir",).
+teacher(17769,"Vífill Harðarson",).
+teacher(17778,"Kristinn Arnarson",).
+teacher(17867,"Baldur Heiðar Sigurðsson",).
+teacher(17876,"Bjarni Jón Pálsson",).
+teacher(17929,"Ólafur Daníelsson",).
+teacher(17944,"Stefan Christian Otte",).
+teacher(17945,"Guðrún Björnsdóttir",).
+teacher(17950,"Mark Mendenhall",).
+teacher(17952,"Brynja Björk Magnúsdóttir",).
+teacher(17953,"Ýmir Vigfússon",0-1-4).
+teacher(17957,"Gísli Steinar Ingólfsson",).
+teacher(17958,"Joseph Timothy Foley",2-3-4).
+teacher(17959,"Þormóður Sveinsson",).
+teacher(18083,"Jimmy Erik Ekstedt",).
+teacher(18162,"Stephan Schiffel",0-1-2-3).
+teacher(18186,"Halldór Árnason",).
+teacher(18201,"Guðmundur Thorlacius Ragnarsson",).
+teacher(18225,"Hjálmar Gíslason",).
+teacher(18226,"Þorlákur Lúðvíksson",).
+teacher(18227,"Guðmunda Smáradóttir",).
+teacher(18240,"Sigríður Heimisdóttir",).
+teacher(18292,"Kristján Friðrik Alexandersson",).
+teacher(18294,"Jónas Þór Snæbjörnsson",).
+teacher(18297,"Páll Jensson",).
+teacher(18304,"Erna Karen Óskarsdóttir",).
+teacher(18665,"Arnar Páll Skúlason",).
+teacher(18669,"Bjarni Benediktsson",).
+teacher(18671,"Brynjar Þór Fannberg Eyþórsson",).
+teacher(18677,"Gunnar Jörgen Viggósson",).
+teacher(18683,"Ólafur Daði Jónsson",).
+teacher(18729,"Helgi Kristvin Sigurbjarnarson",).
+teacher(18774,"Víðir Orri Reynisson",).
+teacher(18893,"Tómas Arnar Guðmundsson",).
+teacher(18921,"Jóhann Gíslason",).
+teacher(19337,"Þorgeir Auðunn Karlsson",).
+teacher(19404,"Helgi Þór Ingason",).
+teacher(19533,"Baldur Þorgilsson",).
+teacher(19542,"Jamie Deon Garrett",).
+teacher(19590,"Jacqueline Clare Mallett",).
+teacher(19610,"Jóhanna Björk Briem",).
+teacher(19612,"Hrafnhildur M Gunnarsdóttir",).
+teacher(19614,"Charles H Fay",).
+teacher(19663,"Sigríður J Hjaltested de Jesus",).
+teacher(19722,"Kristinn Jóhannes Magnússon",).
+teacher(19724,"Jóhann Arnarson",).
+teacher(19725,"Albertína Friðbjörg Elíasdóttir",).
+teacher(19726,"Anna Guðrún Edvardsdóttir",).
+teacher(19728,"Sólrún Geirsdóttir",).
+teacher(19729,"Þórarinn Viðar Hjaltason",).
+teacher(19731,"Birgir Jónasson",).
+teacher(19733,"Rúnar Steinn Ragnarsson",).
+teacher(19849,"Ólafur Jóhannsson",).
+teacher(19928,"Erla Sigríður Grétarsdóttir",).
+teacher(19929,"Darren Dalcher",).
+teacher(20022,"Heba Soffía Björnsdóttir",).
+teacher(20066,"Ómar Henningsson",).
+teacher(20067,"Gustav Helgi Haraldsson",).
+teacher(20097,"Friðrik Árni Friðriksson Hirst",).
+teacher(20138,"Viðar Ingason",).
+teacher(20140,"Erna Tönsberg",).
+teacher(20141,"Þuríður Sigurðardóttir",).
+teacher(20142,"Auður Hafdís Björnsdóttir",).
+teacher(20147,"Friðsemd Dröfn Guðjónsdóttir",).
+teacher(20390,"Viggó Magnússon",).
+teacher(20661,"Marijke Hilde Lore Bodlaender",).
+teacher(21314,"Hjörtur Jóhannsson",).
+teacher(21458,"Þórdís Jóhannsdóttir Wathne",).
+teacher(21475,"Hafsteinn Gunnar Hauksson",).
+teacher(21489,"Hjörtur Björnsson",).
+teacher(21538,"Ásbjörg Kristinsdóttir",).
+teacher(21683,"Helgi Már Hannesson",).
+teacher(21702,"Brian Gran",).
+teacher(21710,"Kristján Geir Gunnarsson",).
+teacher(21711,"Magnús Blöndahl Sighvatsson",).
+teacher(21717,"Jón Bjarki Gunnarsson",).
+teacher(21719,"Vigdís Eva Líndal",).
+teacher(21743,"Einar Jón Ásbjörnsson",).
+teacher(21745,"Ferdinand Hansen",).
+teacher(21746,"Torben Juul Andersen",).
+teacher(21747,"Jan Vom Brocke",).
+teacher(21748,"Elín Blöndal",).
+teacher(21756,"Carsten Rohde",).
+teacher(21772,"Unnur Vala Guðbjartsdóttir",).
+teacher(21773,"Ásta Logadóttir",).
+teacher(21774,"Freyr Halldórsson",).
+teacher(21775,"Sigurgrímur Skúlason",).
+teacher(21810,"Dagmar Kristín Hannesdóttir",).
+teacher(21815,"Sveinn Arnar Stefánsson",).
+teacher(21816,"Magnús Skúlason",).
+teacher(21817,"Ragnar Kristjánsson",).
+teacher(21819,"Sólrún Halla Einarsdóttir",).
+teacher(21821,"Ingibjörg Guðmundsdóttir",).
+teacher(21822,"Steve Byers",).
+teacher(21937,"Milan Chang Guðjónsson",).
+teacher(21950,"Óttar Hillers",).
+teacher(21951,"Vaka Rögnvaldsdóttir",).
+teacher(21952,"Hinrik Jósafat Atlason",).
+teacher(21953,"Hjalti Franzson",).
+teacher(21954,"Svanbjörg H Haraldsdóttir",).
+teacher(21956,"Vigdís Harðardóttir",).
+teacher(21957,"Sigríður Sif Gylfadóttir",).
+teacher(21958,"Ýr Margrét Gunnarsdóttir",).
+teacher(21970,"Stefán Eiríksson",).
+teacher(21971,"Halla Helgadóttir",).
+teacher(21987,"Gréta María Grétarsdóttir",).
+teacher(21994,"Sigríður Þórðardóttir",).
+teacher(21995,"Matthías Sveinbjörnsson",).
+teacher(21996,"Grétar Már Ragnarsson Amazeen",).
+teacher(22000,"Yonatan Afework Tesfahunegn",).
+teacher(22003,"null",).
+teacher(22018,"Hjördís Lára Hreinsdóttir",).
+teacher(22019,"Marjan Ilkov",).
+teacher(22036,"Björg Ágústsdóttir",).
+teacher(229,"Jóhann Viðar Ívarsson",).
+teacher(235,"Ragnhildur Björg Konráðsdóttir",).
+teacher(237,"Halldór Halldórsson",).
+teacher(239,"Ólafur Andri Ragnarsson",).
+teacher(241,"Þórður S Gunnarsson",).
+teacher(243,"Björn Þór Jónsson",).
+teacher(248,"Hallgrímur Arnalds",).
+teacher(249,"Þorlákur Karlsson",).
+teacher(250,"Magnús Hrafn Magnússon",).
+teacher(251,"Almar Guðmundsson",).
+teacher(258,"Daníel Brandur Sigurgeirsson",).
+teacher(266,"Torfi Helgi Leifsson",).
+teacher(272,"Marta Kristín Lárusdóttir",).
+teacher(296,"Birgir Kaldal Kristmannsson",).
+teacher(298,"Gunnlaugur Þór Briem",).
+teacher(309,"Loftur Ólafsson",).
+teacher(319,"Finnur Oddsson",).
+teacher(3205,"Breki Karlsson",).
+teacher(331,"Hannes Pétursson",).
+teacher(3330,"Elín Árnadóttir",).
+teacher(3346,"Elísabet I Þorvaldsdóttir",).
+teacher(347,"Hrafn Loftsson",).
+teacher(3480,"Garðar K Vilhjálmsson",).
+teacher(3490,"Geir Matti Jarvela",).
+teacher(3526,"Grímur Tómas Tómasson",).
+teacher(358,"Jón Ormur Halldórsson",).
+teacher(3636,"Gunnar Egill Egilsson",).
+teacher(364,"Ketill Berg Magnússon",).
+teacher(365,"Þórður Víkingur Friðgeirsson",).
+teacher(375,"Ásrún Matthíasdóttir",).
+teacher(389,"Stefán Freyr Stefánsson",).
+teacher(395,"Sigrún Eva Ármannsdóttir",).
+teacher(410,"Sólmundur Jónsson",).
+teacher(4256,"Kristján Vigfússon",).
+teacher(443,"Sigurður Erlingsson",).
+teacher(4478,"Páll Daði Ásgeirsson",).
+teacher(464,"Luca Aceto",).
+teacher(468,"Ólafur Finnbogi Haraldsson",).
+teacher(483,"Jón Bjarnason",).
+teacher(4831,"Telma Sæmundsdóttir",).
+teacher(502,"Heimir Örn Herbertsson",).
+teacher(503,"Sigurður Tómas Magnússon",).
+teacher(505,"Jón Helgi B Snorrason",).
+teacher(524,"Þröstur Olaf Sigurjónsson",).
+teacher(525,"Andri Árnason",2-4).
+teacher(530,"Matthías Geir Pálsson",).
+teacher(534,"Joe Pons",).
+teacher(537,"Ólafur Ísleifsson",).
+teacher(540,"Þóra Gylfadóttir",).
+teacher(5439,"Hallgrímur Ásgeirsson",).
+teacher(5447,"Helgi Magnús Gunnarsson",).
+teacher(545,"Svala Ísfeld Ólafsdóttir",).
+teacher(5460,"Bryndís Björk Ásgeirsdóttir",).
+teacher(5463,"Jesper Rangvid",).
+teacher(5492,"Stefán Svavarsson",).
+teacher(5496,"Ingunn Sæmundsdóttir",).
+teacher(5497,"Haraldur Auðunsson",).
+teacher(5498,"Jens Arnljótsson",).
+teacher(5504,"Björn Lárus Bergsson",).
+teacher(5506,"Friðrik Rafn Larsen",).
+teacher(5514,"Þórdís Lilja Gísladóttir",).
+teacher(559,"Yngvi Björnsson",3-2).
+teacher(5600,"Eyþór Rafn Þórhallsson",).
+teacher(5606,"Guðbrandur Steinþórsson",).
+teacher(5616,"Halldór Guðfinnur Svavarsson",).
+teacher(562,"Margrét V Kristjánsdóttir",).
+teacher(5626,"Indriði Sævar Ríkharðsson",).
+teacher(5630,"Ingólfur Örn Þorbjörnsson",).
+teacher(5642,"Karl Hinrik Jósafatsson",).
+teacher(5645,"Kristinn Sigurjónsson",).
+teacher(5658,"Pétur Bergþór Arason",).
+teacher(5664,"Sigurþór Heimisson",).
+teacher(5665,"Stefán Arnar Kárason",).
+teacher(567,"Erlendina Kristjansson",).
+teacher(5678,"Snjólaug Steinarsdóttir",).
+teacher(5686,"Sverrir Ragnars Arngrímsson",).
+teacher(5687,"Þórhallur Örn Guðlaugsson",).
+teacher(5692,"Vigdís Hjaltadóttir",).
+teacher(5707,"Brynjar Karlsson",).
+teacher(5712,"Eðvald Möller",).
+teacher(583,"Kristinn Rúnar Þórisson",).
+teacher(585,"Þorgeir Pálsson",).
+teacher(586,"Árni Árnason",).
+teacher(5863,"Björn Ómarsson",).
+teacher(592,"David Griswold",).
+teacher(599,"Claus Parum",).
+teacher(601,"Guðmundur Jónsson",4-3).
+teacher(603,"Þórdís Ingadóttir",).
+teacher(605,"Árni Tómasson",).
+teacher(609,"Unnar Friðrik Pálsson",).
+teacher(617,"Aðalsteinn Leifsson",).
+teacher(624,"Sigurjón Valdimarsson",).
+teacher(626,"Eric Weber",).
+teacher(637,"Inga Dóra Sigfúsdóttir",).
+teacher(6613,"Viðar Helgason",).
+teacher(6650,"Karl Georg Ragnarsson",).
+teacher(6692,"Páll Kristján Pálsson",).
+teacher(6694,"Karl Guðmundur Friðriksson",).
+teacher(6831,"Jón E Bernódusson",).
+teacher(6838,"Sverrir Þórhallsson",).
+teacher(6839,"Benedikt Steingrímsson",).
+teacher(6850,"Þórður Helgason",).
+teacher(6852,"Árni Ragnarsson",).
+teacher(6871,"Jón Viðar Guðjónsson",).
+teacher(6902,"Páll Jóhannesson",).
+teacher(6917,"Anna Sigríður Bragadóttir",).
+teacher(6921,"Björg Hilmarsdóttir",).
+teacher(6966,"Jón Ólafur Erlendsson",).
+teacher(6974,"Arnar Þór Jónsson",).
+teacher(6976,"Ágúst Valfells",).
+teacher(6982,"Daníel Viðarsson",).
+teacher(6990,"Anna Ingólfsdóttir",).
+teacher(6992,"Eyjólfur Ingi Ásgeirsson",).
+teacher(7506,"Brian Daniel Marshall",).
+teacher(7623,"Björgvin Smári Jónsson",).
+teacher(7671,"Gissur Jónasson",).
+teacher(7739,"Hilmar Kári Hallbjörnsson",).
+teacher(7790,"Kamilla Reynisdóttir",).
+teacher(7853,"Reynir Þorvaldsson",).
+teacher(7915,"Þorlákur Helgi Hilmarsson",).
+teacher(7979,"K. Ravindran",).
+teacher(7982,"Ólafur Haralds Wallevik",).
+teacher(7984,"Logi Jónsson",4-2-1).
+teacher(7985,"Jón Ólafur Skarphéðinsson",).
+teacher(8011,"Jóhann Björgvinsson",).
+teacher(8029,"Birgir Jóhannesson",).
+teacher(8033,"Sigríður Kristinsdóttir",).
+teacher(8049,"Arney Einarsdóttir",).
+teacher(8053,"Kristján Halldórsson",).
+teacher(8089,"Sæmundur E Þorsteinsson",).
+teacher(8127,"Marc Sachon",).
+teacher(8169,"Axel Hall",).
+teacher(8171,"Magnús Matthíasson",).
+teacher(8184,"Ármann Gylfason",).
+teacher(8186,"Gunnlaugur B Hjartarson",).
+teacher(8187,"Viðar Halldórsson",).
+teacher(8301,"Karl Ægir Karlsson",).
+teacher(8343,"Magnús Fjalar Guðmundsson",).
+teacher(8393,"Stefán A. Svensson",).
+teacher(8509,"Bjarni Vilhjálmur Halldórsson",).
+teacher(8560,"Sigurður Freyr Hafstein",).
+teacher(8563,"Kristján Karlsson",).
+teacher(8573,"Hannes Högni Vilhjálmsson",).
+teacher(8583,"Einar Helgason",).
+teacher(8589,"Jón Þór Sturluson",).
+teacher(8603,"Haraldur Sigþórsson",).
+teacher(8799,"Agnar Snædahl Gylfason",).
+teacher(8824,"Árni Hermann Reynisson",).
+teacher(8868,"Eiríkur Heiðar Nilsson",).
+teacher(8886,"Freysteinn Alfreðsson",).
+teacher(8946,"Hlynur Sigurþórsson",).
+teacher(9030,"Ottó Stefán Michelsen",).
+teacher(9565,"Kristín Friðgeirsdóttir",).
+teacher(9584,"Guðmundur Edgarsson",).
+teacher(9623,"Ingunn Gunnarsdóttir",).
+teacher(9664,"Ágústa Guðrún Bernharðsdóttir",).
+teacher(9711,"Haukur Ingi Jónasson",2-3).
+teacher(9715,"Sverrir Ólafsson",).
+teacher(9903,"David Schwarzkopf",).
+teacher(9974,"Rúnar Helgi Andrason",).
 teaches(10015,24332).
 teaches(10062,24548).
 teaches(10073,22440).

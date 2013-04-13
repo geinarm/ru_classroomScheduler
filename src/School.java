@@ -108,11 +108,20 @@ public class School {
 			if (line.startsWith("teacher") == true) {
 				String[] d = line.split(",");
 				String h = d[0].replace("teacher(", "");
-				String j = d[1].replace(").", "");
+				String j = d[1];//.replace(").", "");
+				String daysString = d[2].replace(").", "");
+				String[] daysArr = daysString.split("-");
+					
 				j = j.replace("\"", "");
 				Teacher t = new Teacher(j, Integer.parseInt(h));
+				
+				for(String day : daysArr){
+					if(!day.isEmpty())
+						t.preferedDays.add(Integer.parseInt(day));
+				}
+				
 				if(!teachers.contains(t))
-				teachers.add(t);
+					teachers.add(t);
 			}
 			if (line.startsWith("teaches")) {
 				String[] d = line.split(",");
