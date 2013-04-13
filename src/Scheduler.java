@@ -1,4 +1,7 @@
 import java.io.IOException;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
@@ -153,31 +156,48 @@ public class Scheduler {
 	}
 
 	private void printSchedule() {
+		String content ="";
 		String times[] = { "08:30", "09:20", "10:20", "11:10", "12:20", "13:10",
 				"14:00", "14:55" };
 		String days[] = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
 		
 		for(int d=0; d < 5; d++){
-			System.out.println("\n" + days[d] + ":");
-			System.out.println("---------------------------------");
+			content = content + "\n" + days[d] + ":"+"\n";
+			content = content +"---------------------------------\n";
 			
 			for(int r=0; r < S.rooms.size(); r++){
 				Room room = S.rooms.get(r);
-				System.out.println(room.name + ":");
+				content = content + (room.name + ":");
 				
 				for(int t=0; t < numTime; t++){
 					Class c = schedule[r][t][d];
-					System.out.print(times[t] + " : ");
+					content = content + (times[t] + " : ");
 					if(c != null)
-						System.out.print(c.name + "\n");
+						content = content + (c.name + "\n");
 					else
-						System.out.print("N/A\n");
+						content = content +("N/A\n");
 					
 				}
 			}
 		}
-		
+		try{
+			File file = new File("output.txt");
+			 
+			// if file does not exists, then create it
+			if (!file.exists()) {
+				file.createNewFile();
+			}
+ 
+			FileWriter fw = new FileWriter(file.getAbsoluteFile());
+			BufferedWriter bw = new BufferedWriter(fw);
+			bw.write(content);
+			bw.close();
+ 
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
+		
 
 	// Data already imported//
 	/*
