@@ -109,6 +109,7 @@ public class School {
 				String j = d[1].replace(").", "");
 				j = j.replace("\"", "");
 				Teacher t = new Teacher(j, Integer.parseInt(h));
+				if(!teachers.contains(t))
 				teachers.add(t);
 			}
 			if (line.startsWith("teaches")) {

@@ -22,5 +22,14 @@ public class Teacher {
 		this.name = name;
 		this.teacherId = teacherId;
 	}
+	
+	@Override public boolean equals(Object t) {
+		if (this == t) return true;
+		if (!(t instanceof Teacher)) return false;
+		
+		Teacher teach = (Teacher) t;
+		boolean ret = (teach.teacherId == teacherId);
+		return ret;
+	}
 
 }
