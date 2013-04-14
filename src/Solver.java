@@ -108,7 +108,7 @@ public class Solver {
 				System.out.println("Found a leaf " + next.score);
 			}
 				
-			System.out.println("Next: " + next.c + "-" + next.t + "  Depth: " + next.depth);
+			System.out.println("Next: " + next.c + "-" + next.t + "  Score: " + next.score + "  Depth: " + next.depth);
 			
 			if(next.score > 0)
 				frontier.add(next);
