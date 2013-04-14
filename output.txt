@@ -1,87 +1,87 @@
 
 Monday:
 ---------------------------------
-"V101":08:30 : Rekstur og stjórnun verkfræðilegar aðferðir (T-106-REVE)
-09:20 : Stærðfræði (F STÆ 3005)
-10:20 : Rekstrarhagfræði II (V-625-REII)
-11:10 : Vefforritun II (T-427-WEPO)
-12:20 : Rekstrarhagfræði II (V-625-REII)
+"V101":08:30 : N/A
+09:20 : Félagaréttur (L-202-FELA)
+10:20 : Aðgerðagreining (T-403-ADGE)
+11:10 : N/A
+12:20 : N/A
 13:10 : N/A
-14:00 : Rekstur og stjórnun verkfræðilegar aðferðir (T-106-REVE)
-14:55 : Forritunarmál (T-501-FMAL)
-"V102":08:30 : Samningar í verkefnum: Samningar deilur og áföll (T-757-SDIV)
+14:00 : N/A
+14:55 : N/A
+"V102":08:30 : Stærðfræði (F STÆ 4105)
+09:20 : Afköst gagnasafnskerfa (T-508-GAG2)
+10:20 : N/A
+11:10 : Tölvutækni (F TÖT 1005)
+12:20 : Ofbeldis- og fíkniefnabrot (L-865-VCDO)
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V107":08:30 : Auðgunar- og efnahagsbrot (L-840-WHCC)
+09:20 : Stærðfræði (F STÆ 1005)
+10:20 : Hreyfingafræði (E-303-KINE)
+11:10 : Varmafræði (T-507-VARM)
+12:20 : Neytendahegðun og markaðssamskipti (V-523-MACO)
+13:10 : Samskipti manns og tölvu (T-636-SMAT)
+14:00 : Efnisfræði (T-407-EFNI)
+14:55 : N/A
+"V108":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V103":08:30 : Umhverfismat áætlana og framkvæmda (T-858-UMHV)
+09:20 : Evrópuréttur. State Aid and Competition (L-832-EVSC)
+10:20 : Eðlisfræði (F E�?L 2015)
+11:10 : Læknisfræðileg myndgerð (T-609-LAEK)
+12:20 : Hugmyndafræði og skipulag þjálfunar (E-716-PTTR)
+13:10 : Hagnýtt verkefni  I (VT HVV1003)
+14:00 : Vinnustofa í vöruþróun (T-420-PROX)
+14:55 : Lokaverkefni (BI LOK1006)
+"V104":08:30 : Danska (F DAN 1005)
+09:20 : Aðferðafræði rannsókna II (T-802-RESM)
+10:20 : Háþróuð verkefnastjórnun (T-876-HAVE)
+11:10 : Aðferðafræði skýrslugerð og kynningar (BF A�?F1001)
+12:20 : Rafeindatækni (RI REI1003)
+13:10 : Algebra og fléttufræði (T-218-ALCO)
+14:00 : BSc rannsóknarverkefni II (E-604-BSC2)
+14:55 : �?slenska fyrir útlendinga (I-103-ICEL)
+"V105":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V106":08:30 : Stjórnun í íþróttum (E-519-STIT)
+09:20 : Tölvustudd hönnun (VI TEI2013)
+10:20 : PMD - �?rangur á Markaði (C-NBR-ARMA)
+11:10 : Strategic Management and Organizational Theory (V-707-SMOT)
+12:20 : International Negotiation (V-820-INNE)
+13:10 : �?byrgð og árangur (V-642-RESR)
+14:00 : Rauntímalíkön (T-219-REMO)
+14:55 : Reikningshald (F REI 1003)
+"V110":08:30 : Sérhæft efni í verkfræði (R-E3)
+09:20 : Fjármálastjórn (AI FJS1003)
+10:20 : Fjármálatölfræði (V-752-QFOU)
+11:10 : Skattaskipulagning (V-660-SKAT)
+12:20 : Viðskiptaáætlanakeppni - �?slandsbanki og FKA í samstarfi við Opna háskólann í HR (S_VISB)
+13:10 : Samhæfð markaðssamskipti (C-NBR-SAMH)
+14:00 : Hagnýt viðskiptakerfi (ERP) (I-406-HERP)
+14:55 : �?ætlanagerð í verkefnum (C-STK-AÆTL)
+"V109":08:30 : Iðntölvur og vélmenni (RT IDN1003)
 09:20 : Málstofa í auðlindarétti - Frá hugmynd til framkvæmdar (L-829-RSAL)
-10:20 : �?slenska fyrir útlendinga (I-103-ICEL)
-11:10 : Réttindi barna: Velferðarstefna og lög (L-703-RBVL)
-12:20 : Aðferðafræði skýrslugerð og kynningar (BF A�?F1001)
-13:10 : Vélhlutafræði I (VT VHF1003)
-14:00 : Upplýsingar og upplýsingatækni í verkefnum (T-754-UPVE)
-14:55 : Réttindi barna: Velferðarstefna og lög (L-703-RBVL)
-"V107":08:30 : Framkvæmdafræði (BT FRK1013)
-09:20 : Raforkukerfi II (RT RAK2003)
-10:20 : International Management (V-819-INMA)
-11:10 : Hönnun ferli og framkvæmd (BT HVB1003)
-12:20 : Burðarþolsfræði - FEM (BT BUÞ4102)
-13:10 : Hagnýtt verkefni í aðgerðarrannsóknum (T-806-HAGN)
-14:00 : Nýmiðlun (C-NBR-NYMI)
-14:55 : The Global Economy (V-826-GLEC)
-"V108":08:30 : Framleiðslustjórnun í framkvæmdum (T-816-FRAM)
-09:20 : Sveiflufræði (VT SVF1003)
-10:20 : Rannsóknarvinna grunnnáms (T-622-UROP)
-11:10 : Skattskil II (V-869-TAX2)
-12:20 : Afleiður – fjármál og reikningshald (V-871-AFLE)
-13:10 : Hagnýt tölfræði (E-707-APST)
-14:00 : Interdisciplinary Project Course (R-M6)
-14:55 : Hugmyndafræði og skipulag þjálfunar (E-716-PTTR)
-"V103":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
+10:20 : Málstofa í evrópskum samningarétti (L-734-MSES)
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V104":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V105":08:30 : Enska (F ENS 3005)
-09:20 : Próf - Helstu tegundir verðbréfa (C-FAG-PRHE)
-10:20 : Viðgerðir og viðhald húsa (BF VI�?1001)
-11:10 : Geothermal Subsurface Exploration (R-E2)
-12:20 : Fjármálatölfræði (V-752-QFOU)
-13:10 : Varma- og rennslisfræði (VI VAR1003)
-14:00 : Verkefnastjórnun áætlanagerð og fjármál í verkefnum (BF VER3003)
-14:55 : Jarðtækni og grundun (BT JTÆ2013)
-"V106":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V110":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V109":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V118 Vélsmiðja":08:30 : N/A
+"V118 Vélsmiðja":08:30 : Stálvirki III (T-837-STAL)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -105,18 +105,18 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V112":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V111":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
+"V112":08:30 : Hagnýtt verkefni í aðgerðarrannsóknum (T-806-HAGN)
+09:20 : Hönnun rafkerfa og lýsingartækni (RT HON1013)
+10:20 : Próf - Helstu tegundir verðbréfa (C-FAG-PRHE)
+11:10 : Afleiður – fjármál og reikningshald (V-871-AFLE)
+12:20 : Samningatækni - grunnur (C-FAG-SAM1)
+13:10 : Lokaverkefni (BT LOK1012)
+14:00 : Strategic OB/HRM (V-768-STOH)
+14:55 : �?slenskur hlutabréfamarkaður: Undirbúningur fyrir skráningu í Kauphöllina (S-STJ-IHM)
+"V111":08:30 : Framkoma og tjáning (C-FAG_FRTJ)
+09:20 : Lífsviðhorf - Lífsstíll - Lífsgæði (C-STK-LLL)
+10:20 : Kynningarfundur: Þróun viðskiptaferla - stöðugar framfarir (C-FAG-KF3)
+11:10 : Excel í starfi bókarans (C-FAG-EXBO)
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
@@ -129,7 +129,7 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V207a Rafeinda- og stýritæknistofa":08:30 : N/A
+"V207a Rafeinda- og stýritæknistofa":08:30 : Rafmagnsfræði (RT RAF1003)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -137,8 +137,8 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V116 Civil Engineering":08:30 : N/A
-09:20 : N/A
+"V116 Civil Engineering":08:30 : Viðgerðir og viðhald húsa (BF VI�?1001)
+09:20 : Landmælingar og landupplýsingakerfi (BT LAM1013)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
@@ -161,16 +161,16 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M101":08:30 : Fjármunaréttur II - Kröfuréttur II (L-205-FJA2)
-09:20 : Verkefnastjórnun (T-305-PRMA)
-10:20 : N/A
-11:10 : N/A
-12:20 : Stýrikerfi (T-215-STY1)
-13:10 : Stýrikerfi (T-215-STY1)
-14:00 : N/A
-14:55 : Rekstrarstjórnun (V-311-OPMA)
-"M102":08:30 : N/A
+"M101":08:30 : Stöðu og burðarþolsfræði (T-106-BURD)
 09:20 : N/A
+10:20 : Strjál stærðfræði II (T-419-STR2)
+11:10 : Rekstrarhagfræði I (V-201-RHAG)
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : Gagnaskipan (T-201-GSKI)
+"M102":08:30 : Enska (F ENS 2005)
+09:20 : Lean og 6 Sigma (T-811-LEAN)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
@@ -185,15 +185,15 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M107":08:30 : N/A
-09:20 : N/A
+"M107":08:30 : Sprotar (C-SPROTAR)
+09:20 : Tölvustudd hönnun (BI HON1001)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M108":08:30 : N/A
+"M108":08:30 : Personal Development (V-810-PEDE)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -209,30 +209,30 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M105":08:30 : Varmafræði (T-507-VARM)
-09:20 : Tölvutækni (F TÖT 1005)
-10:20 : Eðlisfræði (F E�?L 3015)
-11:10 : Verknám I: Grunnskólar (E-406-PRII)
-12:20 : �?slenska (F �?SL 1005)
-13:10 : Efnisfræði (T-407-EFNI)
-14:00 : Líkams- og heilsurækt (E-204-PACT)
-14:55 : �?þróttir: Sund I (E-304-SSWI)
-"M104":08:30 : International Negotiation (V-820-INNE)
-09:20 : International Negotiation (V-820-INNE)
-10:20 : Eðlisfræði (F E�?L 2015)
-11:10 : Starfsnám (V-667-STNA)
-12:20 : Tungumálagrunnur II (SG TUN2000)
-13:10 : Hönnun (VT HUN1013)
-14:00 : Eðlisfræði (F E�?L 2015)
+"M105":08:30 : Verðbréfamiðlun III (C-VBM III )
+09:20 : Stefnumótun (V-404-STEF)
+10:20 : �?slenska (F �?SL 2005)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
 14:55 : N/A
-"M103":08:30 : Evrópskur félagaréttur (L-756-EUCL)
-09:20 : Vélhlutafræði I (VT VHF1003)
+"M104":08:30 : Stærðfræði (F STÆ 2105)
+09:20 : Enska (F ENS 4005)
+10:20 : Sérkennsla raddbeiting og framkoma (E-401-SERF)
+11:10 : Sakamálaréttarfar (L-605-SARE)
+12:20 : App Development - HTML (T-432-HTML)
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M103":08:30 : N/A
+09:20 : N/A
 10:20 : N/A
-11:10 : Raungreinagrunnur I (SG E�?L1000)
-12:20 : Stærðfræði (F STÆ 3105)
-13:10 : Evrópskur félagaréttur (L-756-EUCL)
-14:00 : Efnafræði (F EFN 2005)
-14:55 : Verkefnastjórnun (V-627-VERK)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M112":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -249,22 +249,22 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M116":08:30 : Rannsóknartengt verkefni í framkvæmdastjórnun (T-819-RANN)
-09:20 : HR-Starfsnám (T-426-RUIS)
-10:20 : Thesis Progress Report (T-930-PROG)
-11:10 : Advanced Business Informatics (V-715-ABIN)
-12:20 : Hvatning og endurgjöf 14. febrúar kl. 13-17 (S-STJ-HOE2)
-13:10 : Meistararitgerð í Fjármálum (V-899-TH30)
-14:00 : Kynningarfundur: Þróun viðskiptaferla - stöðugar framfarir (C-FAG-KF3)
-14:55 : Þýska (F Þ�?S 2005)
-"M118":08:30 : Hlutbundin forritun í C++ (T-528-HLUT)
-09:20 : Enska (F ENS 3005)
-10:20 : Framvinduskýrsla (V-902-PRRE)
-11:10 : Starfsnám (V-872-STAR)
-12:20 : Advanced Software Engineering (T-730-ASEN)
-13:10 : Rannsóknartengt verkefni í heilbrigðisverkfræði (T-860-RANN)
-14:00 : Talent Management (S-STJ_TAM)
-14:55 : Skattskil einstaklinga á eigin kennitölu (C-FAG-SKKT)
+"M116":08:30 : Upplýsingar og upplýsingatækni í verkefnum (T-754-UPVE)
+09:20 : Heilsusálfræði (E-503-HEIL)
+10:20 : Verkefnastjórnun (V-627-VERK)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M118":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M123":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -273,22 +273,22 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M124":08:30 : Sölustjórnun (V-633-SOST)
-09:20 : Tölvufræði (F TÖL 1005)
-10:20 : Straum- og varmaflutningsfræði (VT STV1003)
-11:10 : Aðferðafræði rannsókna II (T-802-RESM)
-12:20 : Háþróuð verkefnastjórnun (T-876-HAVE)
-13:10 : Personal Development (V-810-PEDE)
-14:00 : Byggingarfræði - byggingartækni (BI BFR1013)
-14:55 : Meistaraverkefni (T-899-MEIS)
-"M110":08:30 : Rannsóknaraðferðir og tölfræði III (E-411-RATO)
-09:20 : Tölvustudd teikning (AI TEI1001)
-10:20 : Útivist (E-203-OUTD)
-11:10 : �?slenska (F �?SL 4005)
-12:20 : Eðlisfræði (F E�?L 3015)
-13:10 : Hagnýt vinnusálfræði (V-607-VSFR)
-14:00 : Varmafræði (T-507-VARM)
-14:55 : Varmafræði (T-507-VARM)
+"M124":08:30 : N/A
+09:20 : �?slenska (F �?SL 3005)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M110":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M117":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -321,34 +321,34 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M119":08:30 : Sprotar (C-SPROTAR)
-09:20 : Stálvirki III (T-837-STAL)
-10:20 : Sjálfstætt verkefni (T-629-INDE)
-11:10 : Rafmagnsfræði (RT RAF1003)
-12:20 : Jarðskjálftahönnun (T-822-JARH)
-13:10 : Samþætt verkefni (T-870-INTE)
-14:00 : Samspil: arkitektúr og verkfræði (T-821-FORM)
-14:55 : Samspil: arkitektúr og verkfræði (T-821-FORM)
-"M120":08:30 : Hagnýt stærðfræði II (V-624-STII)
-09:20 : �?rangursrík forritun og lausn verkefna (T-414-AFLV)
-10:20 : Umferðarlíkön (T-858-UMLI)
-11:10 : Business strategies for Sustainable Development (V-653-STSU)
-12:20 : Business strategies for Sustainable Development (V-653-STSU)
-13:10 : Enska (F ENS 3005)
-14:00 : N/A
-14:55 : Hugmyndasaga (F HUG 1002)
-"M121":08:30 : Hagnýt viðskiptakerfi (ERP) (I-406-HERP)
+"M119":08:30 : N/A
 09:20 : N/A
-10:20 : Rafmagnsfræði (RT RAF1003)
+10:20 : N/A
 11:10 : N/A
-12:20 : Viðskiptaspænska I (V-106-SPAN)
-13:10 : Eignastýring (V-601-EIGN)
+12:20 : N/A
+13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M122":08:30 : Hönnun X (T-420-HONX)
-09:20 : Viðskiptagreind (I-707-VGBI)
-10:20 : Tölvustudd hönnun (VI HON1001)
-11:10 : Nýsköpun og stofnun fyrirtækja (AI STF1003)
+"M120":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M121":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M122":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
@@ -361,7 +361,7 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M208":08:30 : Þjóðhagfræði (V-103-THAG)
+"M208":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -369,16 +369,16 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M209":08:30 : �?slenska (F �?SL 4005)
-09:20 : Verkefnalausnir (T-110-VERK)
-10:20 : Sálfræði einstaklingsmunar (E-116-SAEI)
-11:10 : Eðlisfræði (F E�?L 1015)
+"M209":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
 12:20 : N/A
 13:10 : N/A
-14:00 : BSc-ritgerð (V-699-RITG)
+14:00 : N/A
 14:55 : N/A
-"M325":08:30 : N/A
-09:20 : N/A
+"M325":08:30 : PhD studies (T-999-PHDS)
+09:20 : Meistaraprófsritgerð (V-899-THES)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
@@ -393,7 +393,7 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M327":08:30 : N/A
+"M327":08:30 : Meistaraverkefni (T-900-MEIS)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -402,7 +402,7 @@ Monday:
 14:00 : N/A
 14:55 : N/A
 "O-401 - Viðskiptasmiðjan":08:30 : N/A
-09:20 : N/A
+09:20 : �?þróttir: Valdar greinar II (E-305-SSEL)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
@@ -441,11 +441,11 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M201":08:30 : Stjórnun rekstur og öryggi (AI STJ1003)
+"M201":08:30 : Fjármálamarkaðir (V-304-FMAR)
 09:20 : N/A
-10:20 : N/A
+10:20 : Rekstrarhagfræði II (V-625-REII)
 11:10 : N/A
-12:20 : Eðlisfræði II (T-202-EDL2)
+12:20 : Stærðfræði (F STÆ 3005)
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
@@ -481,21 +481,21 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"u102 Kennslustofa - bókasafn":08:30 : N/A
+"u102 Kennslustofa - bókasafn":08:30 : Samþætt verkefni (T-870-INTE)
+09:20 : Verkfræðilegar bestunaraðferðir (T-423-ENOP)
+10:20 : Concrete Technology for the Industry (T-846-INDU)
+11:10 : Þýska (F Þ�?S 2005)
+12:20 : Kælikerfi og varmadælur (VT KÆL1013)
+13:10 : Corporate Performance Management (V-717-CPMA)
+14:00 : Félaga- og fjármunaréttur (V-802-BULA)
+14:55 : Semantics: Theory and Applications (T-724-SETA)
+"LH�?":08:30 : �?þróttir: Sund I (E-304-SSWI)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
-14:55 : N/A
-"LH�?":08:30 : Verklegt námskeið (T-205-VERK)
-09:20 : Fjármálamarkaðir (V-304-FMAR)
-10:20 : Gagnaskipan (T-201-GSKI)
-11:10 : Rekstrargreining (V-202-REGR)
-12:20 : Rekstrarhagfræði I (V-201-RHAG)
-13:10 : Stjórnun (V-203-STJ1)
-14:00 : Hagnýt tölfræði I (V-303-TOL1)
 14:55 : N/A
 "V201":08:30 : N/A
 09:20 : N/A
@@ -521,17 +521,17 @@ Monday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"Verður birt seinna":08:30 : Excel og tölfræði (F EXC 1005)
-09:20 : �?þróttasálfræði (E-511-SEPS)
-10:20 : Úrlausn ágreiningsmála (m.a. fyrir dómstólum og stjórnvöldum) (L-713-URAG)
-11:10 : Verðbréfamiðlun III (C-VBM III )
-12:20 : Hagnýtur samningaréttur (L-828-PCLA)
-13:10 : Hugmyndasaga (F HUG 1005)
-14:00 : Afköst gagnasafnskerfa (T-508-GAG2)
-14:55 : �?slenska (F �?SL 2005)
+"Verður birt seinna":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "220 Stjórnendabaun Opni háskólinn":08:30 : N/A
 09:20 : N/A
-10:20 : Hugbúnaðarfræði II (T-631-SOE2)
+10:20 : N/A
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
@@ -540,81 +540,81 @@ Monday:
 
 Tuesday:
 ---------------------------------
-"V101":08:30 : Merkjafræði (T-306-MERK)
-09:20 : Viðskiptalögfræði (V-401-LOG)
-10:20 : Stærðfræði (F STÆ 3005)
+"V101":08:30 : Töluleg greining (T-406-TOLU)
+09:20 : Vefforritun II (T-427-WEPO)
+10:20 : Rekstrarstjórnun (V-311-OPMA)
 11:10 : N/A
 12:20 : N/A
-13:10 : Eðlisfræði I (T-102-EDL1)
-14:00 : Þriggja vikna námskeið (T-100-XXX)
-14:55 : Viðskiptalögfræði (V-401-LOG)
-"V102":08:30 : Efnisfræði og vinnsla I (VT EFV1003)
-09:20 : Vélhlutafræði (T-401-VELH)
-10:20 : Vöruþróun og frumkvöðlafræði (T-814-PROD)
-11:10 : Lokaverkefni (T-877-FINA)
-12:20 : �?slenska fyrir útlendinga (I-103-ICEL)
-13:10 : Raunhæft verkefni: Undirbúningur framkvæmd og lúkning (T-755-RAUN)
-14:00 : Alþjóðafjármál (V-757-INTF)
-14:55 : Framkvæmdafræði og verkstjórn (AI FRK1003)
-"V107":08:30 : Hönnun ferli og framkvæmd (BT HVB1003)
-09:20 : �?slenska II fyrir útlendinga (I-203-ICEL)
-10:20 : Modeling and Verification (T-707-MOVE)
-11:10 : Mechatronics II (T-535-MECH)
-12:20 : Steinsteypuvirki I (BT SST1013)
-13:10 : Straumlínustjórnun: Þróun viðskiptaferla - stöðugar framfarir (C-FAG-LEAN)
-14:00 : Viðskiptaspænska II (V-207-SPII)
-14:55 : Heilsuþjálfun almennings (E-618-HRHE)
-"V108":08:30 : Endurskoðun III - endurskoðunarfræði (V-801-ENDU)
-09:20 : Viðskiptaáætlanakeppni - �?slandsbanki og FKA í samstarfi við Opna háskólann í HR (S_VISB)
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V102":08:30 : Fjármunaréttur V - Raunhæft málflutningsverkefni (L-407-FJA5)
+09:20 : Þroskasálfræði (E-214-DEPS)
+10:20 : App Development - Android (T-431-ANDR)
+11:10 : Samningatækni (V-628-SAMN)
+12:20 : Hagnýt vinnusálfræði (V-607-VSFR)
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V107":08:30 : Verkefnastjórnun og stefnumarkandi áætlunargerð (T-803-VERK)
+09:20 : Stærðfræði (F STÆ 1105)
+10:20 : Danska (F DAN 2005)
+11:10 : Lífeðlisfræði I (T-206-LIFE)
+12:20 : Lokaverkefni (T-404-LOKA)
+13:10 : Tilraunir í sálfræði (E-313-SATI)
+14:00 : N/A
+14:55 : N/A
+"V108":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V103":08:30 : Tryggingaskóli hluti III (C-TRY-3HLU)
+09:20 : Starfsnám (L-800-INTE)
+10:20 : Eðlisfræði (F E�?L 2015)
+11:10 : Mælitækni og lífsmörk (T-510-MALI)
+12:20 : Loftræsitækni (BT LOF1003)
+13:10 : Hagnýt varmafræði (VT VAR2013)
+14:00 : Rafmagnsvélar (RT RVE1003)
+14:55 : Lokaverkefni (RI LOK1006)
+"V104":08:30 : Raunhæft verkefni: Undirbúningur framkvæmd og lúkning (T-755-RAUN)
+09:20 : Evrópskur félagaréttur (L-756-EUCL)
+10:20 : Tölvufræði (F TÖL 1005)
+11:10 : Straum- og varmaflutningsfræði (VT STV1003)
+12:20 : Raforkukerfisfræði og rafvélar (RI RFR1003)
+13:10 : Rekstrarbókhald fyrirtækja I (V-766-ACC1)
+14:00 : Sölustjórnun (V-633-SOST)
+14:55 : Strategic Decision Making (V-844-SDM3)
+"V105":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V106":08:30 : Hönnun (VT HUN1013)
+09:20 : Sjálfbær orkukerfi (R-M5)
+10:20 : PMD - Samningar og Verkefnastjórnun (C-NBR-SAVE)
+11:10 : BA ritgerð (L-611-BACR)
+12:20 : Global Supply Chain/OM (V-821-GSCN)
+13:10 : Starfsnám (V-667-STNA)
+14:00 : The Global Economy (V-826-GLEC)
+14:55 : Hugmyndasaga (F HUG 1002)
+"V110":08:30 : Interdisciplinary Project Course (R-M6)
+09:20 : Hagnýtt verkefni  III (RT HVR3003)
 10:20 : Afleiður (V-756-DERI)
-11:10 : Fjármálastjórn (AI FJS1003)
-12:20 : Hagnýtt verkefni I (RT HVR1003)
-13:10 : Burðarþolsfræði - Tölvustudd hönnun (VT BUÞ3003)
-14:00 : Rennslisfræði (BT REN1003)
-14:55 : Aðferðafræði rannsókna (E-702-REME)
-"V103":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V104":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V105":08:30 : Jarðhiti (VT JAH1003)
-09:20 : Próf - Markaðsviðskipti (C-FAG-PRMA)
-10:20 : Öflun og framsetning gagna (T-416-VIFG)
-11:10 : Mælitækni (RT MAL1003)
-12:20 : �?hættustýring (T-602-RISK)
-13:10 : Starfsnám (L-800-INTE)
-14:00 : Rafsegulfræði (RT EXH1003)
-14:55 : Hagnýtt verkefni  III (VT HVV3003)
-"V106":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V110":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V109":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
+11:10 : Modeling and Verification (T-707-MOVE)
+12:20 : Investments (T-814-INVE)
+13:10 : Nýmiðlun (C-NBR-NYMI)
+14:00 : HR-Starfsnám (T-426-RUIS)
+14:55 : Thesis Proposal Defense (T-910-PROP)
+"V109":08:30 : HRM and Leadership in International Context (V-825-HRML)
+09:20 : Burðarþolsfræði II (BT BUÞ2013)
+10:20 : Verkefnastjórnun í opinberri stjórnsýslu (T-810-VOST)
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
@@ -636,7 +636,7 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V113 Efnafræðistofa":08:30 : N/A
+"V113 Efnafræðistofa":08:30 : Efnisfræði og vinnsla I (VT EFV1003)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -644,17 +644,17 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V112":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V111":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
+"V112":08:30 : Burðarþolsfræði - öryggi og álag (BT BUÞ4002)
+09:20 : Hönnun fjölbýlishúss - samþætt verkefni (BF FBH1009)
+10:20 : Próf - Fjárfestingarferli (C-FAG-PRFJ)
+11:10 : Skattskil II (V-869-TAX2)
+12:20 : Rannsóknarvinna grunnnáms (T-622-UROP)
+13:10 : Lokaverkefni - 2. hluti (IT LOK2003)
+14:00 : Skattskil einstaklinga á eigin kennitölu (C-FAG-SKKT)
+14:55 : Talent Management (S-STJ_TAM)
+"V111":08:30 : 5 valkostir til velgengni (C-FAG-5CHO)
+09:20 : Valið efni í heilbriðisverkfræði (T-861-SPEC)
+10:20 : Sjálfstætt verkefni (V-873-INDE)
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
@@ -668,7 +668,7 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V207a Rafeinda- og stýritæknistofa":08:30 : N/A
+"V207a Rafeinda- og stýritæknistofa":08:30 : Mechatronics II (T-535-MECH)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -676,8 +676,8 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V116 Civil Engineering":08:30 : N/A
-09:20 : N/A
+"V116 Civil Engineering":08:30 : Jarðtækni og grundun (BT JTÆ2013)
+09:20 : Steinsteypuvirki II (BT SST2013)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
@@ -700,23 +700,23 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M101":08:30 : Félagaréttur (L-202-FELA)
-09:20 : N/A
+"M101":08:30 : Rekstrargreining (V-202-REGR)
+09:20 : Hagnýt tölfræði I (V-303-TOL1)
 10:20 : N/A
-11:10 : Rekstrarstjórnun (V-311-OPMA)
+11:10 : Stýrikerfi (T-215-STY1)
 12:20 : N/A
-13:10 : N/A
+13:10 : Verklegt námskeið (T-205-VERK)
 14:00 : N/A
-14:55 : N/A
+14:55 : Nýsköpun og stofnun fyrirtækja (X-204-STOF)
 "M102":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
-11:10 : N/A
+11:10 : Stærðfræði (F STÆ 3105)
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M106":08:30 : N/A
+"M106":08:30 : Tölvustudd hönnun (VI HON1001)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -724,7 +724,7 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M107":08:30 : N/A
+"M107":08:30 : Iðntölvustýringar og mælitækni (RI PLC2003)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -732,8 +732,8 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M108":08:30 : N/A
-09:20 : N/A
+"M108":08:30 : Fjölbreytni í stjórnun (S-STJ-FIS)
+09:20 : Strategy / Final Project (V-823-STFP)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
@@ -748,30 +748,30 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M105":08:30 : BSc-ritgerð (V-699-RITG)
-09:20 : Málstofa um hugverkaréttindi í alþjóðlegum viðskiptum og samninga þeim tengdum (L-717-STEC)
-10:20 : Tölvutækni (F TÖT 1005)
-11:10 : Körfubolti / Blak (E-416-BAVO)
-12:20 : Auðgunar- og efnahagsbrot (L-840-WHCC)
-13:10 : Verkefnastjórnun og stefnumarkandi áætlunargerð (T-803-VERK)
-14:00 : Sérkennsla raddbeiting og framkoma (E-401-SERF)
-14:55 : Aðferðafræði og tölfræði (AT A�?F1013)
-"M104":08:30 : Umhverfismat áætlana og framkvæmda (T-858-UMHV)
-09:20 : Mælitækni og lífsmörk (T-510-MALI)
-10:20 : Verkefnastjórnun í opinberri stjórnsýslu (T-810-VOST)
-11:10 : Viðskiptagreind (I-707-VGBI)
-12:20 : Gerð reikningsskila og staðlar um reikningsskil II (V-765-FIR2)
-13:10 : BA ritgerð (L-611-BACR)
-14:00 : Stjórnun í íþróttum (E-519-STIT)
-14:55 : Eðlisfræði (F E�?L 2015)
-"M103":08:30 : Efnis- og byggingaeðlisfræði (BI EBE1003)
-09:20 : Stærðfræði (F STÆ 3105)
-10:20 : Algebra og fléttufræði (T-218-ALCO)
-11:10 : Stærðfræði (F STÆ 3105)
-12:20 : Iðntölvur og vélmenni (RT IDN1003)
-13:10 : Starfsnám (T-600-STAR)
+"M105":08:30 : �?þróttasálfræði (E-511-SEPS)
+09:20 : Danska (F DAN 3005)
+10:20 : Refsiréttur (L-402-REFS)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
 14:00 : N/A
-14:55 : Efnafræði (F EFN 2005)
+14:55 : N/A
+"M104":08:30 : Bókhald (F BÓK 1005)
+09:20 : Enska (F ENS 4005)
+10:20 : Lokaverkefni (E-699-THES)
+11:10 : Hugræn sálfræði og skynjunarsálfræði (E-215-HSKY)
+12:20 : Verkefnalausnir (T-110-VERK)
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M103":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M112":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -788,22 +788,22 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M116":08:30 : The Philip C. Jessup Int. Law Moot Court Competition II (L-845-PJMC)
-09:20 : Greining burðarvirkja með FEM (T-824-FEMM)
-10:20 : Strategic OB/HRM (V-768-STOH)
-11:10 : Hagnýtt verkefni  I (VT HVV1003)
-12:20 : Thesis Defense (T-950-DEFE)
-13:10 : HR-Starfsnám (T-426-RUIS)
-14:00 : Hagnýt heilsuþjálfun og heilsuefling (E-830-EFHP)
-14:55 : Tölvustudd hönnun (RI HON1001)
-"M118":08:30 : Sjálfstætt verkefni (E-718-IDEP)
-09:20 : Hlutbundin forritun í C++ (T-528-HLUT)
-10:20 : Kælikerfi og varmadælur (VT KÆL1013)
-11:10 : Meistaraverkefnavörn (T-991-TPDE)
-12:20 : Meistaravörn (T-891-MSTD)
-13:10 : Evrópuréttur. State Aid and Competition (L-832-EVSC)
-14:00 : �?slenskur hlutabréfamarkaður: Undirbúningur fyrir skráningu í Kauphöllina (S-STJ-IHM)
-14:55 : Skattskil rekstraraðila (C-FJA-SSRE)
+"M116":08:30 : Efnafræði (F EFN 2005)
+09:20 : �?ætlanagerð í verkefnum (C-NBR-AÆTL)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M118":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M123":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -812,22 +812,22 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M124":08:30 : Heilsusálfræði (E-503-HEIL)
-09:20 : Rekstrarbókhald fyrirtækja I (V-766-ACC1)
-10:20 : Enska (F ENS 2005)
-11:10 : Straum- og varmaflutningsfræði (VT STV1003)
-12:20 : Marketing Management (V-711-MAR3)
-13:10 : �?þróttir: Valdar greinar II (E-305-SSEL)
-14:00 : Corporate Finance (V-733-COFI)
-14:55 : Vélhlutafræði (T-401-VELH)
-"M110":08:30 : Aðferðafræði II: Lagakenningar (L-609-ALRE)
-09:20 : Danska (F DAN 2005)
-10:20 : Aðferðafræði og tölfræði (AT A�?F1013)
-11:10 : Vátryggingaréttur (L-831-INLA)
-12:20 : Eðlisfræði (F E�?L 1015)
-13:10 : Bókhald (F BÓK 1005)
-14:00 : Eðlisfræði (F E�?L 3015)
-14:55 : Tölfræði II (T-402-TOLF)
+"M124":08:30 : Hagnýtur samningaréttur (L-828-PCLA)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M110":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M117":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -860,36 +860,36 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M119":08:30 : Nýmiðlun (C-EIN-NYML)
-09:20 : Almennir bókarar (C-ALM-BOK )
-10:20 : Lokaverkefni (RT LOK1012)
-11:10 : Tölvuöryggi (T-417-TOOR)
-12:20 : Steinsteypuvirki II (BT SST2013)
-13:10 : Verkfræðilegar bestunaraðferðir (T-423-ENOP)
-14:00 : Rannsóknatengt verkefni í mannvirkjahönnun (T-829-RANN)
-14:55 : Rannsóknartengt verkefni í samgöngum og skipulagi (T-859-RANN)
-"M120":08:30 : Töluleg greining fyrir hugbúnaðarverkfræðinema (T-415-STAN)
-09:20 : Lokaverkefni (VI LOK1006)
-10:20 : Hagnýt stærðfræði II (V-624-STII)
-11:10 : Umferðarlíkön (T-858-UMLI)
-12:20 : Málstofa í heilbrigðisvísindum (T-860-MALS)
-13:10 : Þýska (F Þ�?S 2005)
-14:00 : N/A
-14:55 : Eignastýring (V-601-EIGN)
-"M121":08:30 : Hagnýt viðskiptakerfi (ERP) (I-406-HERP)
-09:20 : Hagnýt viðskiptakerfi (ERP) (I-406-HERP)
-10:20 : Endurskipulagning fyrirtækja (V-668-CORE)
+"M119":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
 11:10 : N/A
 12:20 : N/A
-13:10 : Reikningshald (F REI 1003)
+13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M122":08:30 : Aðferðafræði (F A�?F 1005)
-09:20 : Lokaverkefni (T-404-LOKA)
+"M120":08:30 : N/A
+09:20 : N/A
 10:20 : N/A
-11:10 : Alþjóðafjármál (V-603-ALFM)
-12:20 : Burðarþolsfræði II (BT BUÞ2013)
-13:10 : Viðskiptagreind (I-707-VGBI)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M121":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M122":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
 14:00 : N/A
 14:55 : N/A
 "M210":08:30 : N/A
@@ -908,15 +908,15 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M209":08:30 : Tölfræði II (T-402-TOLF)
-09:20 : BSc-ritgerð (V-699-RITG)
-10:20 : Tölfræði II (T-402-TOLF)
-11:10 : Tölvutækni (F TÖT 1005)
-12:20 : Högun leikjavéla (T-637-GEDE)
-13:10 : Verkefnalausnir (T-110-VERK)
+"M209":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
 14:00 : N/A
-14:55 : App Development - HTML (T-432-HTML)
-"M325":08:30 : N/A
+14:55 : N/A
+"M325":08:30 : PhD studies (T-999-PHDS)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -932,7 +932,7 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M327":08:30 : N/A
+"M327":08:30 : Meistaravörn (T-891-MSTD)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -980,11 +980,11 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M201":08:30 : Stefnumótun (V-404-STEF)
+"M201":08:30 : Fjármunaréttur II - Kröfuréttur II (L-205-FJA2)
 09:20 : Stjórnun rekstur og öryggi (AI STJ1003)
-10:20 : Ný tækni (T-611-NYTI)
+10:20 : Eðlisfræði I (T-102-EDL1)
 11:10 : N/A
-12:20 : N/A
+12:20 : Stærðfræði (F STÆ 4005)
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
@@ -1020,7 +1020,15 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"u102 Kennslustofa - bókasafn":08:30 : N/A
+"u102 Kennslustofa - bókasafn":08:30 : The Philip C. Jessup Int. Law Moot Court Competition II (L-845-PJMC)
+09:20 : Umferðarlíkön (T-858-UMLI)
+10:20 : Öryggi og álagsforsendur (T-826-SAFE)
+11:10 : Þýska (F Þ�?S 2005)
+12:20 : Starfsnám (BF STA1008)
+13:10 : Advanced Software Engineering (T-730-ASEN)
+14:00 : Samskipta- og kynningarhæfni (C-SAM-KYNN)
+14:55 : Fractional Reserve Banking Systems (I-708-FRBS)
+"LH�?":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -1028,14 +1036,6 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"LH�?":08:30 : Strjál stærðfræði II (T-419-STR2)
-09:20 : Stærðfræði II (T-201-STA2)
-10:20 : Rekstrargreining (V-202-REGR)
-11:10 : Greining og hönnun hugbúnaðar (T-216-GHOH)
-12:20 : Stjórnun (V-203-STJ1)
-13:10 : Rekstrarhagfræði I (V-201-RHAG)
-14:00 : Stöðu og burðarþolsfræði (T-106-BURD)
-14:55 : Vefforritun (T-213-VEFF)
 "V201":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -1060,58 +1060,50 @@ Tuesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"Verður birt seinna":08:30 : Excel og tölfræði (F EXC 1005)
-09:20 : Lífeðlilsfræðileg sálfræði (E-314-LISA)
-10:20 : Alþjóðlegur skattaréttur I (L-716-SKAT)
-11:10 : Gervigreind (T-622-ARTI)
-12:20 : Viðskiptasiðfræði (V-514-VISI)
-13:10 : Viðskiptasiðfræði (V-514-VISI)
-14:00 : �?slenska (F �?SL 2005)
-14:55 : Samkeppnisréttur (L-303-SAKE)
+"Verður birt seinna":08:30 : Útivist (E-203-OUTD)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "220 Stjórnendabaun Opni háskólinn":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
-11:10 : Danska (F DAN 3005)
-12:20 : Stærðfræði (F STÆ 5005)
+11:10 : N/A
+12:20 : N/A
 13:10 : N/A
-14:00 : Viðskiptasiðfræði (V-514-VISI)
+14:00 : N/A
 14:55 : N/A
 
 Wednesday:
 ---------------------------------
-"V101":08:30 : N/A
-09:20 : Merkjafræði (T-306-MERK)
+"V101":08:30 : Stjórnsýsluréttur (L-401-STJR)
+09:20 : Rekstur og stjórnun verkfræðilegar aðferðir (T-106-REVE)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
-14:55 : Forritunarmál (T-501-FMAL)
-"V102":08:30 : Iðntölvur og vélmenni (RT IDN1003)
-09:20 : Efnisfræði og vinnsla I (VT EFV1003)
-10:20 : Vöruþróun og frumkvöðlafræði (T-814-PROD)
-11:10 : Verkefnaleiðtoginn II: Siðfræði verkefnastjórnunar (T-756-VEFS)
-12:20 : Afreksþjálfun (E-607-ELAT)
-13:10 : Jarðtækni (BI JTÆ1003)
-14:00 : Iðntölvur og vélmenni (RT IDN1003)
-14:55 : Research Methodology (V-769-REME)
-"V107":08:30 : Tilraunastofa í varma- og straumfræði (T-606-LABB)
-09:20 : Sérhæft efni í verkfræði (R-E3)
-10:20 : Tölvustudd hönnun (BI HON1001)
-11:10 : Hagnýtt verkefni  III (RT HVR3003)
-12:20 : Hagnýt eðlisfræði í byggingum (BT HEB1003)
-13:10 : Landmælingar og landupplýsingakerfi (BT LAM1013)
-14:00 : Business and Markets in Europe and Asia (V-822-BMEA)
-14:55 : PhD studies (T-999-PHDS)
-"V108":08:30 : Strategic Decision Making (S-STJ-SDM)
-09:20 : Rekstrar- og fjármálanám (C-REK-FJA1)
-10:20 : Sjálfstætt verkefni 1 (T-749-INDS)
-11:10 : Efnisfræði - timbur og málmar (BT EFN1013)
-12:20 : PhD studies (T-999-PHDS)
-13:10 : Doktorsritgerð í tölvunarfræði (T-999-PHDT)
-14:00 : Læknisfræðileg myndgerð (T-609-LAEK)
-14:55 : Próf - Fjárfestingarferli (C-FAG-PRFJ)
-"V103":08:30 : N/A
+14:55 : N/A
+"V102":08:30 : Stærðfræði (F STÆ 5005)
+09:20 : Högun leikjavéla (T-637-GEDE)
+10:20 : Eðlisfræði (F E�?L 3015)
+11:10 : Hugmyndasaga (F HUG 1005)
+12:20 : ML- ritgerð (L-899-ML15)
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V107":08:30 : Málstofa um hugverkaréttindi í alþjóðlegum viðskiptum og samninga þeim tengdum (L-717-STEC)
+09:20 : Danska (F DAN 2005)
+10:20 : Þýska (F Þ�?S 1005)
+11:10 : Hermun (T-502-HERM)
+12:20 : Raungreinagrunnur I (SG E�?L1000)
+13:10 : Rannsóknaraðferðir og tölfræði III (E-411-RATO)
+14:00 : N/A
+14:55 : N/A
+"V108":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -1119,7 +1111,23 @@ Wednesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V104":08:30 : N/A
+"V103":08:30 : Framleiðslustjórnun í framkvæmdum (T-816-FRAM)
+09:20 : Varmaflutningsfræði (T-863-HEAT)
+10:20 : Aðferðafræði (F A�?F 1005)
+11:10 : Rennslisfræði (BT REN1003)
+12:20 : Hönnun ferli og framkvæmd (BT HVB1003)
+13:10 : Burðarþolsfræði - Tölvustudd hönnun (VT BUÞ3003)
+14:00 : Breytingar og endurbætur - samþætt verkefni (BF BEH1009)
+14:55 : Raflagnahönnun (RI RLH1003)
+"V104":08:30 : Enska (F ENS 1005)
+09:20 : Málstofa I í stjórnsýslurétti (L-728-READ)
+10:20 : Vélhlutafræði (T-401-VELH)
+11:10 : Efnis- og byggingaeðlisfræði (BI EBE1003)
+12:20 : Svefn (T-424-SLEE)
+13:10 : Alþjóðafjármál (V-757-INTF)
+14:00 : Vörustjórnun (V-414-VORU)
+14:55 : Business Statistics (V-732-BUST)
+"V105":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -1127,572 +1135,25 @@ Wednesday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V105":08:30 : Hönnun fjölbýlishúss - samþætt verkefni (BF FBH1009)
-09:20 : MS ritgerð (T-899-MSTH)
-10:20 : Jarðhiti (VT JAH1003)
-11:10 : Próf - Greining ársreikninga (C-FAG-GRPR)
-12:20 : Fasteignastjórnun (BF FAS1001)
-13:10 : Breytingar og endurbætur - samþætt verkefni (BF BEH1009)
-14:00 : Aðferðafræði (L-700-ADFE)
-14:55 : Framleiðslustjórnun í framkvæmdum (T-816-FRAM)
-"V106":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V110":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V109":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V118 Vélsmiðja":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V117 Orkutæknistofa":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V113 Efnafræðistofa":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V112":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V111":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V209 Eðlisfræðistofa":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V207a Rafeinda- og stýritæknistofa":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V116 Civil Engineering":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V216":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V220":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M101":08:30 : Félagaréttur (L-202-FELA)
-09:20 : N/A
-10:20 : Stýrikerfi (T-215-STY1)
-11:10 : Nýsköpun og stofnun fyrirtækja (X-204-STOF)
-12:20 : N/A
-13:10 : Stýrikerfi (T-215-STY1)
-14:00 : N/A
-14:55 : N/A
-"M102":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M106":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : Endurskipulagning fyrirtækja (V-668-CORE)
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M107":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M108":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M109":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M105":08:30 : Tölvutækni (F TÖT 1005)
-09:20 : Fjármál einstaklinga (C-VFMR-FEI)
-10:20 : Lokaverkefni (E-699-THES)
-11:10 : Hreyfingafræði (E-303-KINE)
-12:20 : Stærðfræði (F STÆ 1105)
-13:10 : Danska (F DAN 2005)
-14:00 : Hagnýt vinnusálfræði (V-607-VSFR)
-14:55 : Lífeðlisfræði I (T-206-LIFE)
-"M104":08:30 : Eðlisfræði (F E�?L 2015)
-09:20 : Umhverfismat áætlana og framkvæmda (T-858-UMHV)
-10:20 : Fjármál fyrirtækja II (V-763-COR2)
-11:10 : Agile aðferðir í verkefnastjórnun – með áherslu á Scrum (T-849-AGVE)
-12:20 : Eðlisfræði (F E�?L 2015)
-13:10 : Stjórnun í íþróttum (E-519-STIT)
-14:00 : Verðlagning verðbréfa (V-402-VEVE)
-14:55 : Starfsnám (V-667-STNA)
-"M103":08:30 : Efnis- og byggingaeðlisfræði (BI EBE1003)
-09:20 : Sölustjórnun (V-633-SOST)
-10:20 : Sölustjórnun (V-633-SOST)
-11:10 : Lokaverkefni (T-404-LOKA)
-12:20 : Algebra og fléttufræði (T-218-ALCO)
-13:10 : Stærðfræði (F STÆ 3105)
-14:00 : N/A
-14:55 : N/A
-"M112":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M113":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M116":08:30 : Rannsóknartengt verkefni í framkvæmdastjórnun (T-819-RANN)
-09:20 : Tryggingaskóli hluti III (C-TRY-3HLU)
-10:20 : Þýska (F Þ�?S 2005)
-11:10 : Excel í starfi bókarans (C-FAG-EXBO)
-12:20 : Cross-cultural negotiations (C-FAG-CNEG)
-13:10 : Rannsóknarverkefni (L-751-PROJ)
-14:00 : Vísindaferð kvennanefndar verkfræðingafélagsins (C-FAG-V�?SK)
-14:55 : Reikningshald (F REI 1003)
-"M118":08:30 : Fractional Reserve Banking Systems (I-708-FRBS)
-09:20 : SQL gagnagrunnar (C-FAG-SQLG)
-10:20 : Kynningarfundur Flutningafræði (C-FAG-KFLU)
-11:10 : Ritgerð um sérhæft efni (BF RIT1005)
-12:20 : Reiknitækni í rekstri fyrirtækja (C-FAG-RTFT)
-13:10 : Samningatækni - grunnur (C-FAG-SAM1)
-14:00 : Evrópuréttur. State Aid and Competition (L-832-EVSC)
-14:55 : Félagaform og skattskil (C-FAG-FESK)
-"M123":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M124":08:30 : Lean og 6 Sigma (T-811-LEAN)
-09:20 : �?hrifaþættir þroska (E-412-CDYA)
-10:20 : Svefn (T-424-SLEE)
-11:10 : Skipulagsfærni (C-NBR-SLF)
-12:20 : English Vocabulary Building and Effective Writing Skills (V-604-ENGL)
-13:10 : BSc rannsóknarverkefni II (E-604-BSC2)
-14:00 : �?ætlanagerð í verkefnum (C-NBR-AÆTL)
-14:55 : Strategic Decision Making (V-844-SDM3)
-"M110":08:30 : Ofbeldis- og fíkniefnabrot (L-865-VCDO)
-09:20 : Stærðfræði (F STÆ 2105)
-10:20 : Stærðfræði (F STÆ 1005)
-11:10 : Enska (F ENS 4005)
-12:20 : Samskipti manns og tölvu (T-636-SMAT)
-13:10 : Sakamálaréttarfar (L-605-SARE)
-14:00 : Tölvustudd teikning (AI TEI1001)
-14:55 : Stærðfræði II (AT STÆ2003)
-"M117":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M111":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M114":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M115":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M119":08:30 : Samskipta- og kynningarhæfni (C-SAM-KYNN)
-09:20 : �?ætlanagerð í verkefnum (C-STK-AÆTL)
-10:20 : Meðferðartækni (T-865-THER)
-11:10 : Rekstrarbókhald V (V-784-REK5)
-12:20 : Valið efni í heilbriðisverkfræði (T-861-SPEC)
-13:10 : Rannsóknatengt verkefni í mannvirkjahönnun (T-829-RANN)
-14:00 : Hagnýt stærðfræði II (V-624-STII)
-14:55 : Umferðartækni II (T-854-UMFE)
-"M120":08:30 : Concrete Technology for the Industry (T-846-INDU)
-09:20 : Hagnýt stærðfræði II (V-624-STII)
-10:20 : Umferðarlíkön (T-858-UMLI)
-11:10 : Samþætt verkefni (T-870-INTE)
-12:20 : Reikningshald (F REI 1003)
-13:10 : N/A
-14:00 : Enska (F ENS 3005)
-14:55 : Endurskipulagning fyrirtækja (V-668-CORE)
-"M121":08:30 : N/A
-09:20 : Öflun og framsetning gagna (T-416-VIFG)
-10:20 : Reikningshald (F REI 1003)
-11:10 : Viðskiptaspænska I (V-106-SPAN)
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M122":08:30 : Starfsnám (V-667-STNA)
-09:20 : Skuldabréfagreining (V-758-FINC)
-10:20 : Tölvustudd hönnun (VI HON1001)
+"V106":08:30 : Nýsköpun og stofnun fyrirtækja (AI STF1003)
+09:20 : Próf - Þjóðhagfræði (C-FAG-PROF)
+10:20 : Gerð reikningsskila og staðlar um reikningsskil II (V-765-FIR2)
 11:10 : Hönnun og greining reiknirita (T-604-HGRE)
-12:20 : N/A
-13:10 : N/A
-14:00 : Sjálfbær orkukerfi (R-M5)
-14:55 : Hönnun X (T-420-HONX)
-"M210":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M208":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M209":08:30 : Útivist (E-203-OUTD)
-09:20 : N/A
-10:20 : Tölfræði II (T-402-TOLF)
-11:10 : N/A
-12:20 : Verkefnalausnir (T-110-VERK)
-13:10 : Tölvutækni (F TÖT 1005)
-14:00 : Tölvutækni (F TÖT 1005)
-14:55 : Eðlisfræði (F E�?L 1015)
-"M325":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M326":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M327":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"O-401 - Viðskiptasmiðjan":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V302":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V207b Rafeinda- og stýritæknistofa":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V207c Rafeinda- og stýritæknistofa":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V301":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M201":08:30 : Ný tækni (T-611-NYTI)
-09:20 : Stærðfræði (F STÆ 4005)
-10:20 : N/A
-11:10 : N/A
-12:20 : Eðlisfræði II (T-202-EDL2)
-13:10 : Eðlisfræði II (T-202-EDL2)
-14:00 : N/A
-14:55 : N/A
-"U201":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M215":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M216":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"M217":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"u102 Kennslustofa - bókasafn":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"LH�?":08:30 : Hagnýt tölfræði I (V-303-TOL1)
-09:20 : Hagnýt tölfræði I (V-303-TOL1)
-10:20 : Rekstrargreining (V-202-REGR)
-11:10 : Töluleg greining (T-406-TOLU)
-12:20 : Fjármálamarkaðir (V-304-FMAR)
-13:10 : Rekstrarhagfræði I (V-201-RHAG)
-14:00 : Stærðfræði II (T-201-STA2)
-14:55 : Stjórnun (V-203-STJ1)
-"V201":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V307":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"Upptökuherbergi":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"Verður birt seinna":08:30 : Stærðfræði I (T-101-STA1)
-09:20 : Fjármunaréttur V - Raunhæft málflutningsverkefni (L-407-FJA5)
-10:20 : Hagnýtur samningaréttur (L-828-PCLA)
-11:10 : Refsiréttur (L-402-REFS)
-12:20 : Samkeppnisréttur (L-303-SAKE)
-13:10 : Samningatækni (V-628-SAMN)
-14:00 : Efnafræði (F EFN 1005)
-14:55 : Stærðfræði (F STÆ 4105)
-"220 Stjórnendabaun Opni háskólinn":08:30 : N/A
-09:20 : Hugbúnaðarfræði II (T-631-SOE2)
-10:20 : N/A
-11:10 : �?slenska (F �?SL 3005)
-12:20 : N/A
-13:10 : N/A
-14:00 : Gervigreind (T-622-ARTI)
-14:55 : N/A
-
-Thursday:
----------------------------------
-"V101":08:30 : Rekstrarhagfræði II (V-625-REII)
-09:20 : N/A
-10:20 : N/A
-11:10 : Eðlisfræði I (T-102-EDL1)
-12:20 : Rekstrarhagfræði II (V-625-REII)
-13:10 : N/A
-14:00 : Þriggja vikna námskeið (T-100-XXX)
-14:55 : N/A
-"V102":08:30 : Málstofa í auðlindarétti - Frá hugmynd til framkvæmdar (L-829-RSAL)
-09:20 : HRM and Leadership in International Context (V-825-HRML)
-10:20 : Raforkukerfisfræði og rafvélar (RI RFR1003)
-11:10 : Afreksþjálfun (E-607-ELAT)
-12:20 : Aðferðafræði skýrslugerð og kynningar (BF A�?F1001)
-13:10 : Upplýsingar og upplýsingatækni í verkefnum (T-754-UPVE)
-14:00 : Réttindi barna: Velferðarstefna og lög (L-703-RBVL)
-14:55 : Portfolio Management (V-811-PORT)
-"V107":08:30 : Hagnýtt verkefni II (RT HVR2003)
-09:20 : Enska (F ENS 3005)
-10:20 : Afleiður (T-503-AFLE)
-11:10 : Noktun líkana við stjórnun (T-808-NOLI)
-12:20 : Hönnun rafkerfa og lýsingartækni (RT HON1013)
-13:10 : Viðburðastjórnun (C-FAG-VSTJ)
-14:00 : Valið efni í vélrænu gagnanámi (T-780-ATML)
-14:55 : Samhæfð markaðssamskipti (C-NBR-SAMH)
-"V108":08:30 : Greining burðarvirkja með FEM (T-824-FEMM)
-09:20 : Meistaraprófsritgerð (V-899-THES)
-10:20 : Enska (F ENS 3005)
-11:10 : PMD - �?rangur á Markaði (C-NBR-ARMA)
-12:20 : Rekstrargreining (AI RGR1003)
-13:10 : Vélhlutafræði (VI VHF1003)
-14:00 : Global Supply Chain/OM (V-821-GSCN)
-14:55 : Lokaverkefni (BF LOK1010)
-"V103":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V104":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V105":08:30 : PMD - �?rangur í Rekstri (C-NBR-ARRE)
-09:20 : Rafmagnsvélar (RT RVE1003)
-10:20 : Strategic Management and Organizational Theory (V-707-SMOT)
-11:10 : Próf - Grunnatriði í fjármálum (C-PROF-VBM)
+12:20 : Eignastýring (V-601-EIGN)
+13:10 : Endurskipulagning fyrirtækja (V-668-CORE)
+14:00 : Hagnýt málnotkun (F MAL 1005)
+14:55 : Hlutbundin forritun í C++ (T-528-HLUT)
+"V110":08:30 : Heilsuþjálfun almennings (E-618-HRHE)
+09:20 : Vélhlutafræði (VI VHF1003)
+10:20 : Rekstrar- og fjármálanám (C-REK-FJA1)
+11:10 : Viðburðastjórnun (C-FAG-VSTJ)
 12:20 : Research Proposal (V-897-RERP)
-13:10 : Hagnýtt verkefni í mannvirkjahönnun (BT HVB3003)
-14:00 : Loftræsitækni (BT LOF1003)
-14:55 : Hagnýt netkerfi (T-431-HANE)
-"V106":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V110":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V109":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
+13:10 : Aðferðafræði (L-700-ADFE)
+14:00 : Strategic Decision Making (S-STJ-SDM)
+14:55 : Thesis Progress Report (T-930-PROG)
+"V109":08:30 : Research Methodology (V-769-REME)
+09:20 : Viðskiptagreind (I-707-VGBI)
+10:20 : Leshópar í lögfræði (L-106-LESH)
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
@@ -1714,7 +1175,7 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V113 Efnafræðistofa":08:30 : N/A
+"V113 Efnafræðistofa":08:30 : Efnisfræði - timbur og málmar (BT EFN1013)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -1722,17 +1183,17 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V112":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V111":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
+"V112":08:30 : Hagnýtt verkefni í mannvirkjahönnun (BT HVB3003)
+09:20 : Lokaverkefni (BF LOK1010)
+10:20 : Sjálfstætt verkefni 1 (T-749-INDS)
+11:10 : Advanced Business Informatics (V-715-ABIN)
+12:20 : Framvinduskýrsla (V-902-PRRE)
+13:10 : Lokaverkefni (RT LOK1012)
+14:00 : Tímastjórnun í lífi og starfi (C-FAG-T�?LS)
+14:55 : �?rangursrík verkefna- og valddreifing (S-STJ-�?VV)
+"V111":08:30 : Rannsóknarverkefni (L-751-PROJ)
+09:20 : Sjálfstætt verkefni (T-629-INDE)
+10:20 : Hvatning og endurgjöf 14. febrúar kl. 13-17 (S-STJ-HOE2)
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
@@ -1746,7 +1207,7 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V207a Rafeinda- og stýritæknistofa":08:30 : N/A
+"V207a Rafeinda- og stýritæknistofa":08:30 : Raforkukerfi II (RT RAK2003)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -1754,8 +1215,8 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V116 Civil Engineering":08:30 : N/A
-09:20 : N/A
+"V116 Civil Engineering":08:30 : Steinsteypuvirki I (BT SST1013)
+09:20 : Mælitækni (RT MAL1003)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
@@ -1779,15 +1240,15 @@ Thursday:
 14:00 : N/A
 14:55 : N/A
 "M101":08:30 : N/A
-09:20 : Verkefnastjórnun (T-305-PRMA)
-10:20 : Rekstrarstjórnun (V-311-OPMA)
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
+09:20 : N/A
+10:20 : Eðlisfræði II (T-202-EDL2)
+11:10 : Stærðfræði II (T-201-STA2)
+12:20 : Forritunarmál (T-501-FMAL)
+13:10 : Línuleg algebra (T-211-LINA)
 14:00 : N/A
 14:55 : N/A
-"M102":08:30 : N/A
-09:20 : N/A
+"M102":08:30 : Enska (F ENS 2005)
+09:20 : Stærðfræði (F STÆ 3105)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
@@ -1801,8 +1262,8 @@ Thursday:
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
-14:55 : Eignastýring (V-601-EIGN)
-"M107":08:30 : N/A
+14:55 : N/A
+"M107":08:30 : Tölvuöryggi (T-417-TOOR)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -1826,30 +1287,30 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M105":08:30 : App Development - Iphone (T-430-IPON)
-09:20 : Hermun (T-502-HERM)
-10:20 : Þjálffræði (E-302-THET)
-11:10 : Hugræn sálfræði og skynjunarsálfræði (E-215-HSKY)
-12:20 : Sókn og vörn í sakamálum (L-708-HLOM)
-13:10 : Neytendahegðun og markaðssamskipti (V-523-MACO)
-14:00 : Tilraunir í sálfræði (E-313-SATI)
-14:55 : Aðferðafræði og tölfræði (AT A�?F1013)
-"M104":08:30 : Fjárfestingar (V-777-INVE)
-09:20 : Verðlagning verðbréfa (V-402-VEVE)
-10:20 : Lokaverkefni (T-404-LOKA)
-11:10 : Mælitækni og lífsmörk (T-510-MALI)
-12:20 : Tölvustudd hönnun (VI TEI2013)
-13:10 : Stjórnun í íþróttum (E-519-STIT)
+"M105":08:30 : Stærðfræði I (T-101-STA1)
+09:20 : Viðskiptasiðfræði (V-514-VISI)
+10:20 : Lífeðlilsfræðileg sálfræði (E-314-LISA)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
 14:00 : N/A
-14:55 : Varmaflutningsfræði (T-863-HEAT)
-"M103":08:30 : Raungreinagrunnur I (SG E�?L1000)
+14:55 : N/A
+"M104":08:30 : Eðlisfræði (F E�?L 1015)
+09:20 : �?slenska (F �?SL 4005)
+10:20 : BSc-ritgerð (V-699-RITG)
+11:10 : Einstaklingurinn og samfélagið (E-316-EISA)
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M103":08:30 : N/A
 09:20 : N/A
-10:20 : Evrópskur félagaréttur (L-756-EUCL)
-11:10 : Stærðfræði (F STÆ 3105)
-12:20 : Stærðfræði (F STÆ 3105)
-13:10 : Þjóðhagfræði (V-103-THAG)
-14:00 : Starfsnám (T-600-STAR)
-14:55 : Þjóðhagfræði (V-103-THAG)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M112":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -1866,22 +1327,22 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M116":08:30 : Thesis Proposal Defense (T-910-PROP)
-09:20 : Greining burðarvirkja með FEM (T-824-FEMM)
-10:20 : Tilraunastofa í varma- og straumfræði (T-606-LABB)
-11:10 : Afleiður (T-503-AFLE)
-12:20 : Greining burðarvirkja með FEM (T-824-FEMM)
-13:10 : Hagnýtt verkefni  I (VT HVV1003)
-14:00 : Hugbúnaðarþróun fyrir Android snjallsíma og spjaldtölvur (C-FAG-HUGB)
-14:55 : Hagnýt málnotkun (F MAL 1005)
-"M118":08:30 : Lífsviðhorf - Lífsstíll - Lífsgæði (C-STK-LLL)
-09:20 : Corporate Performance Management (V-717-CPMA)
-10:20 : 5 valkostir til velgengni (C-FAG-5CHO)
-11:10 : Gerð markaðsáætlunar (V-649-STMP)
-12:20 : Jafningjastjórnun (S-STJ-JST)
-13:10 : �?rangursrík samskipti (S-STJ-ARS)
-14:00 : Starfsnám (BF STA1008)
-14:55 : Lokaverkefni (BT LOK1012)
+"M116":08:30 : Verkefnaleiðtoginn II: Siðfræði verkefnastjórnunar (T-756-VEFS)
+09:20 : Þjóðhagfræði (V-103-THAG)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M118":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M123":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -1890,22 +1351,22 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M124":08:30 : Vörustjórnun (V-414-VORU)
-09:20 : Efnafræði (F EFN 2005)
-10:20 : Aðferðafræði rannsókna II (T-802-RESM)
-11:10 : Strategy / Final Project (V-823-STFP)
-12:20 : Enska (F ENS 1005)
-13:10 : Danska (F DAN 1005)
-14:00 : Enska (F ENS 2005)
-14:55 : Burðarþol byggingarvirkja (BI BUÞ2013)
-"M110":08:30 : Þroskasálfræði (E-214-DEPS)
-09:20 : Próffræði og mælingar í sálfræði (E-411-PRMA)
-10:20 : Eðlisfræði (F E�?L 1015)
-11:10 : Danska (F DAN 2005)
-12:20 : Einstaklingurinn og samfélagið (E-316-EISA)
-13:10 : Sakamálaréttarfar (L-605-SARE)
-14:00 : Lífeðlisfræði I (T-206-LIFE)
-14:55 : Tölvustudd teikning (AI TEI1001)
+"M124":08:30 : Rafeindatækni (T-509-RAFT)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M110":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M117":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -1938,22 +1399,22 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M119":08:30 : Doktorsvörn (T-993-PHDD)
-09:20 : Tré- og stálvirki II (BT BYG2013)
-10:20 : Lesnámskeið (T-884-TUT4)
-11:10 : Business Process Management (V-716-BPMA)
-12:20 : Semantics: Theory and Applications (T-724-SETA)
-13:10 : Rannsóknatengt verkefni í mannvirkjahönnun (T-829-RANN)
-14:00 : Samspil: arkitektúr og verkfræði (T-821-FORM)
-14:55 : Advanced Concrete Technology I (T-841-CONC)
-"M120":08:30 : Hlutbundin forritun í C++ (T-528-HLUT)
-09:20 : Business strategies for Sustainable Development (V-653-STSU)
-10:20 : Business strategies for Sustainable Development (V-653-STSU)
+"M119":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
 11:10 : N/A
 12:20 : N/A
-13:10 : Endurskipulagning fyrirtækja (V-668-CORE)
-14:00 : Rafmagnsfræði (RT RAF1003)
-14:55 : Þýska (F Þ�?S 2005)
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M120":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M121":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -1961,13 +1422,13 @@ Thursday:
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
-14:55 : Afleiður (T-503-AFLE)
+14:55 : N/A
 "M122":08:30 : N/A
-09:20 : Rauntímalíkön (T-219-REMO)
+09:20 : N/A
 10:20 : N/A
-11:10 : Sjálfbær orkukerfi (R-M5)
-12:20 : Viðskiptagreind (I-707-VGBI)
-13:10 : Hönnun og greining reiknirita (T-604-HGRE)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
 14:00 : N/A
 14:55 : N/A
 "M210":08:30 : N/A
@@ -1979,22 +1440,22 @@ Thursday:
 14:00 : N/A
 14:55 : N/A
 "M208":08:30 : N/A
-09:20 : Burðarþolsfræði II (BT BUÞ2013)
+09:20 : N/A
 10:20 : N/A
-11:10 : Vélhlutafræði (T-401-VELH)
+11:10 : N/A
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M209":08:30 : Stærðfræði (F STÆ 2105)
-09:20 : Þýska (F Þ�?S 1005)
+"M209":08:30 : N/A
+09:20 : N/A
 10:20 : N/A
-11:10 : App Development - Iphone (T-430-IPON)
-12:20 : App Development - Iphone (T-430-IPON)
-13:10 : App Development - Iphone (T-430-IPON)
-14:00 : Tölvutækni (F TÖT 1005)
-14:55 : Þýska (F Þ�?S 1005)
-"M325":08:30 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M325":08:30 : Meistaraverkefni (E-899-THES)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2010,7 +1471,7 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M327":08:30 : N/A
+"M327":08:30 : Doktorsprófsritgerð (L-999-THES)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2058,9 +1519,9 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M201":08:30 : Stærðfræði (F STÆ 4005)
+"M201":08:30 : Fjármálamarkaðir (V-304-FMAR)
 09:20 : N/A
-10:20 : Stærðfræði (F STÆ 4005)
+10:20 : N/A
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
@@ -2098,7 +1559,15 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"u102 Kennslustofa - bókasafn":08:30 : N/A
+"u102 Kennslustofa - bókasafn":08:30 : Rannsóknartengt verkefni í samgöngum og skipulagi (T-859-RANN)
+09:20 : Jarðskjálftahönnun (T-822-JARH)
+10:20 : Rannsóknartengt verkefni í heilbrigðisverkfræði (T-860-RANN)
+11:10 : Reiknitækni í rekstri fyrirtækja (C-FAG-RTFT)
+12:20 : Ritgerð um sérhæft efni (BF RIT1005)
+13:10 : Nýmiðlun (C-EIN-NYML)
+14:00 : Starfsnám (V-872-STAR)
+14:55 : Félagaform og skattskil (C-FAG-FESK)
+"LH�?":08:30 : Fimleikar/leikfimi og dans (E-403-FLDA)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2106,14 +1575,6 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"LH�?":08:30 : Aðgerðagreining (T-403-ADGE)
-09:20 : Hagnýt tölfræði I (V-303-TOL1)
-10:20 : Nýsköpun og stofnun fyrirtækja (X-204-STOF)
-11:10 : Rekstrarhagfræði I (V-201-RHAG)
-12:20 : Töluleg greining (T-406-TOLU)
-13:10 : Töluleg greining (T-406-TOLU)
-14:00 : Fjármálamarkaðir (V-304-FMAR)
-14:55 : Greining og hönnun hugbúnaðar (T-216-GHOH)
 "V201":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -2138,58 +1599,50 @@ Thursday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"Verður birt seinna":08:30 : Rafeindatækni (T-509-RAFT)
-09:20 : ML- ritgerð (L-899-ML15)
-10:20 : Verðbréfamiðlun III (C-VBM III )
-11:10 : Fjármunaréttur IV - Eignaréttur (L-406-FJA4)
-12:20 : Hugmyndasaga (F HUG 1005)
-13:10 : Hugmyndasaga (F HUG 1005)
-14:00 : Danska (F DAN 3005)
-14:55 : Gervigreind (T-622-ARTI)
-"220 Stjórnendabaun Opni háskólinn":08:30 : Stærðfræði I (T-101-STA1)
-09:20 : Hugbúnaðarfræði II (T-631-SOE2)
+"Verður birt seinna":08:30 : N/A
+09:20 : N/A
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
-13:10 : Excel og tölfræði (F EXC 1005)
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"220 Stjórnendabaun Opni háskólinn":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
 14:00 : N/A
 14:55 : N/A
 
-Friday:
+Thursday:
 ---------------------------------
-"V101":08:30 : Vefforritun II (T-427-WEPO)
-09:20 : Eðlisfræði I (T-102-EDL1)
-10:20 : Rekstrarhagfræði II (V-625-REII)
+"V101":08:30 : Verkefnastjórnun (T-305-PRMA)
+09:20 : N/A
+10:20 : Viðskiptalögfræði (V-401-LOG)
 11:10 : N/A
-12:20 : Viðskiptalögfræði (V-401-LOG)
-13:10 : Merkjafræði (T-306-MERK)
+12:20 : N/A
+13:10 : N/A
 14:00 : N/A
-14:55 : Rekstrarhagfræði II (V-625-REII)
-"V102":08:30 : Operation Management (V-731-OPMA)
-09:20 : HRM and Leadership in International Context (V-825-HRML)
-10:20 : Aðferðafræði skýrslugerð og kynningar (BF A�?F1001)
-11:10 : Rafeindatækni (RI REI1003)
-12:20 : Málstofa í evrópskum samningarétti (L-734-MSES)
-13:10 : Leshópar í lögfræði (L-106-LESH)
-14:00 : Alþjóðafjármál (V-757-INTF)
-14:55 : Stærðfræði (F STÆ 3105)
-"V107":08:30 : Vinnustofa í vöruþróun (T-420-PROX)
-09:20 : Fjarskiptakerfi (RT FSK1003)
-10:20 : Hagnýt varmafræði (VT VAR2013)
-11:10 : Lokaverkefni (BI LOK1006)
-12:20 : �?byrgð og árangur (V-642-RESR)
-13:10 : Vettvangsnám (E-316-VETT)
-14:00 : Iðntölvustýringar og mælitækni (RI PLC2003)
-14:55 : Kynningarfundur (C-FAG-KYNN)
-"V108":08:30 : Mechatronics II (T-535-MECH)
-09:20 : Raflagnahönnun (RI RLH1003)
-10:20 : Investments (T-814-INVE)
-11:10 : Vinnustofa í vöruþróun (T-420-PROX)
-12:20 : Burðarþolsfræði - öryggi og álag (BT BUÞ4002)
-13:10 : Skattaskipulagning (V-660-SKAT)
-14:00 : PMD - Samningar og Verkefnastjórnun (C-NBR-SAVE)
-14:55 : Próf - Lög og reglur um fjármagnsmarkað (C-FAG-PRLÖ)
-"V103":08:30 : N/A
+14:55 : N/A
+"V102":08:30 : Sálfræði einstaklingsmunar (E-116-SAEI)
+09:20 : Alþjóðlegur skattaréttur I (L-716-SKAT)
+10:20 : Tölvutækni (F TÖT 1005)
+11:10 : Excel og tölfræði (F EXC 1005)
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V107":08:30 : �?slenska (F �?SL 1005)
+09:20 : Þýska (F Þ�?S 1005)
+10:20 : Verknám I: Grunnskólar (E-406-PRII)
+11:10 : Aðferðafræði og tölfræði (AT A�?F1013)
+12:20 : Aðferðafræði II: Lagakenningar (L-609-ALRE)
+13:10 : Tölvustudd teikning (AI TEI1001)
+14:00 : N/A
+14:55 : N/A
+"V108":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2197,7 +1650,23 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V104":08:30 : N/A
+"V103":08:30 : Noktun líkana við stjórnun (T-808-NOLI)
+09:20 : Greining burðarvirkja með FEM (T-824-FEMM)
+10:20 : Afleiður (T-503-AFLE)
+11:10 : Tilraunastofa í varma- og straumfræði (T-606-LABB)
+12:20 : Fjarskiptakerfi (RT FSK1003)
+13:10 : Hagnýtt verkefni  III (VT HVV3003)
+14:00 : Fasteignastjórnun (BF FAS1001)
+14:55 : Tungumálagrunnur II (SG TUN2000)
+"V104":08:30 : Stærðfræði (F STÆ 3105)
+09:20 : Réttindi barna: Velferðarstefna og lög (L-703-RBVL)
+10:20 : Afreksþjálfun (E-607-ELAT)
+11:10 : Jarðtækni (BI JTÆ1003)
+12:20 : Burðarþol byggingarvirkja (BI BUÞ2013)
+13:10 : Skiptinám (X-699-EXCH)
+14:00 : English Vocabulary Building and Effective Writing Skills (V-604-ENGL)
+14:55 : Corporate Finance (V-733-COFI)
+"V105":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2205,32 +1674,24 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V105":08:30 : Enska (F ENS 3005)
-09:20 : �?hættustýring (T-602-RISK)
-10:20 : Vinnustofa í vöruþróun (T-420-PROX)
-11:10 : Enska (F ENS 3005)
-12:20 : Jarðhiti (VT JAH1003)
-13:10 : Motivation Performance Management and Reward Systems (V-710-MPMR)
-14:00 : Organizational HR Metrics and Applied Research Methods (V-704-OMAR)
-14:55 : Lokaverkefni (RI LOK1006)
-"V106":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V110":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V109":08:30 : N/A
-09:20 : N/A
+"V106":08:30 : Hönnun X (T-420-HONX)
+09:20 : Próf - Greining ársreikninga (C-FAG-GRPR)
+10:20 : Samstæðureikningsskil fyrirtækja (V-767-SARE)
+11:10 : Skuldabréfagreining (V-758-FINC)
+12:20 : Vettvangsnám (E-316-VETT)
+13:10 : Viðskiptaspænska I (V-106-SPAN)
+14:00 : Business and Markets in Europe and Asia (V-822-BMEA)
+14:55 : Öflun og framsetning gagna (T-416-VIFG)
+"V110":08:30 : Burðarþolsfræði - FEM (BT BUÞ4102)
+09:20 : Verkefnastjórnun áætlanagerð og fjármál í verkefnum (BF VER3003)
+10:20 : Motivation Performance Management and Reward Systems (V-710-MPMR)
+11:10 : �?slenska II fyrir útlendinga (I-203-ICEL)
+12:20 : HR-Starfsnám (T-426-RUIS)
+13:10 : Enska (F ENS 3005)
+14:00 : Rannsóknartengt verkefni í framkvæmdastjórnun (T-819-RANN)
+14:55 : Thesis Defense (T-950-DEFE)
+"V109":08:30 : Alþjóðafjármál (V-603-ALFM)
+09:20 : Performance Management (V-854-PEMA)
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
@@ -2261,17 +1722,17 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V112":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
-11:10 : N/A
-12:20 : N/A
-13:10 : N/A
-14:00 : N/A
-14:55 : N/A
-"V111":08:30 : N/A
-09:20 : N/A
-10:20 : N/A
+"V112":08:30 : Framkvæmdafræði (BT FRK1013)
+09:20 : Próf - Lög og reglur um fjármagnsmarkað (C-FAG-PRLÖ)
+10:20 : Doktorsritgerð í tölvunarfræði (T-999-PHDT)
+11:10 : Valið efni í vélrænu gagnanámi (T-780-ATML)
+12:20 : Hagnýt heilsuþjálfun og heilsuefling (E-830-EFHP)
+13:10 : Meistaraverkefnavörn (T-991-TPDE)
+14:00 : Töluleg greining fyrir hugbúnaðarverkfræðinema (T-415-STAN)
+14:55 : Jafningjastjórnun (S-STJ-JST)
+"V111":08:30 : Kynningarfundur Flutningafræði (C-FAG-KFLU)
+09:20 : Hugbúnaðarþróun fyrir Android snjallsíma og spjaldtölvur (C-FAG-HUGB)
+10:20 : Lesnámskeið (T-884-TUT4)
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
@@ -2285,7 +1746,7 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V207a Rafeinda- og stýritæknistofa":08:30 : N/A
+"V207a Rafeinda- og stýritæknistofa":08:30 : Rafsegulfræði (RT EXH1003)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2293,7 +1754,7 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"V116 Civil Engineering":08:30 : N/A
+"V116 Civil Engineering":08:30 : Jarðhiti (VT JAH1003)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2317,15 +1778,15 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M101":08:30 : Rekstrarstjórnun (V-311-OPMA)
-09:20 : N/A
-10:20 : N/A
-11:10 : Rekstrarstjórnun (V-311-OPMA)
-12:20 : N/A
+"M101":08:30 : Hagnýt tölfræði I (V-303-TOL1)
+09:20 : Stjórnun (V-203-STJ1)
+10:20 : Greining og hönnun hugbúnaðar (T-216-GHOH)
+11:10 : N/A
+12:20 : Vefforritun (T-213-VEFF)
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M102":08:30 : N/A
+"M102":08:30 : Personal Development (V-610-PEDE)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2341,7 +1802,7 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M107":08:30 : N/A
+"M107":08:30 : Tölvustudd hönnun (RI HON1001)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2365,30 +1826,30 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M105":08:30 : Efnisfræði (T-407-EFNI)
-09:20 : Tölvutækni (F TÖT 1005)
-10:20 : Þýska (F Þ�?S 1005)
-11:10 : Efnisfræði (T-407-EFNI)
-12:20 : Verkefnastjórnun og stefnumarkandi áætlunargerð (T-803-VERK)
-13:10 : Fimleikar/leikfimi og dans (E-403-FLDA)
-14:00 : Lífeðlisfræði (E-201-PHYS)
-14:55 : Danska (F DAN 2005)
-"M104":08:30 : Entrepreneurship and New Venture Creation (V-822-ENVC)
-09:20 : Eðlisfræði (F E�?L 2015)
-10:20 : Próf - Þjóðhagfræði (C-FAG-PROF)
-11:10 : Performance Management (V-854-PEMA)
-12:20 : Samstæðureikningsskil fyrirtækja (V-767-SARE)
-13:10 : Varmaflutningsfræði (T-863-HEAT)
-14:00 : Nýsköpun og stofnun fyrirtækja (AI STF1003)
-14:55 : Skuldabréfagreining (V-758-FINC)
+"M105":08:30 : Hugbúnaðarfræði II (T-631-SOE2)
+09:20 : Fjármunaréttur IV - Eignaréttur (L-406-FJA4)
+10:20 : Gervigreind (T-622-ARTI)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M104":08:30 : Vátryggingaréttur (L-831-INLA)
+09:20 : �?slenska (F �?SL 4005)
+10:20 : Stærðfræði (F STÆ 2105)
+11:10 : Verkefnalausnir (T-110-VERK)
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M103":08:30 : N/A
-09:20 : Arðsemismat og fjármögnun (R-B2)
-10:20 : English Vocabulary Building and Effective Writing Skills (V-604-ENGL)
-11:10 : Verkefnastjórnun (V-627-VERK)
-12:20 : Stærðfræði (F STÆ 3105)
-13:10 : Vélhlutafræði I (VT VHF1003)
-14:00 : Vélhlutafræði (T-401-VELH)
-14:55 : English Vocabulary Building and Effective Writing Skills (V-604-ENGL)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M112":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -2405,22 +1866,22 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M116":08:30 : Tryggingaskóli hluti III (C-TRY-3HLU)
-09:20 : Vega - og gatnagerð II (BT VEG2003)
-10:20 : Hagnýt netkerfi (T-431-HANE)
-11:10 : The Philip C. Jessup Int. Law Moot Court Competition II (L-845-PJMC)
-12:20 : Sjálfstætt verkefni (V-873-INDE)
-13:10 : Félaga- og fjármunaréttur (V-802-BULA)
-14:00 : Þýska (F Þ�?S 2005)
-14:55 : Doktorsprófsritgerð (L-999-THES)
-"M118":08:30 : Rekstrarbókhald IV (V-783-REK4)
-09:20 : Meistaraverkefni (T-900-MEIS)
-10:20 : Þýska (F Þ�?S 2005)
-11:10 : Framkoma og tjáning (C-FAG_FRTJ)
-12:20 : �?rangursrík samskipti (S-STJ-ARS)
-13:10 : �?rangursrík verkefna- og valddreifing (S-STJ-�?VV)
-14:00 : Tímastjórnun í lífi og starfi (C-FAG-T�?LS)
-14:55 : Grunnatriði verkefnastjórnunar (C-FAG-VERK)
+"M116":08:30 : Samningar í verkefnum: Samningar deilur og áföll (T-757-SDIV)
+09:20 : Skipulagsfærni (C-NBR-SLF)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M118":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M123":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -2429,22 +1890,22 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M124":08:30 : Aðferðafræði rannsókna II (T-802-RESM)
-09:20 : Fjölbreytni í stjórnun (S-STJ-FIS)
-10:20 : Samskiptafærni (C-NBR-SSF)
-11:10 : Personal Development (V-610-PEDE)
-12:20 : Skiptinám (X-699-EXCH)
-13:10 : Málstofa I í stjórnsýslurétti (L-728-READ)
-14:00 : Danska (F DAN 1005)
-14:55 : Business Statistics (V-732-BUST)
-"M110":08:30 : Auðgunar- og efnahagsbrot (L-840-WHCC)
-09:20 : Þroskasálfræði (E-214-DEPS)
-10:20 : Samskipti manns og tölvu (T-636-SMAT)
-11:10 : Stærðfræði II (AT STÆ2003)
-12:20 : Högun leikjavéla (T-637-GEDE)
-13:10 : Stærðfræði (F STÆ 2105)
-14:00 : Verkefnalausnir (T-110-VERK)
-14:55 : Sálfræði einstaklingsmunar (E-116-SAEI)
+"M124":08:30 : N/A
+09:20 : Efnafræði (F EFN 1005)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M110":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M117":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -2477,37 +1938,37 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M119":08:30 : Meistaraverkefni (E-899-THES)
-09:20 : Lokaverkefni - 2. hluti (IT LOK2003)
-10:20 : Rafmagnsfræði (RT RAF1003)
-11:10 : Vatns- og fráveitur (BT LAG3003)
-12:20 : Töluleg greining fyrir hugbúnaðarverkfræðinema (T-415-STAN)
-13:10 : Rannsóknartengt verkefni í samgöngum og skipulagi (T-859-RANN)
-14:00 : �?rangursrík forritun og lausn verkefna (T-414-AFLV)
-14:55 : Öryggi og álagsforsendur (T-826-SAFE)
-"M120":08:30 : Töluleg greining fyrir hugbúnaðarverkfræðinema (T-415-STAN)
-09:20 : Samþætt verkefni (T-870-INTE)
-10:20 : Samþætt verkefni (T-870-INTE)
-11:10 : Málstofa í heilbrigðisvísindum (T-860-MALS)
-12:20 : Eignastýring (V-601-EIGN)
-13:10 : N/A
-14:00 : HR-Starfsnám (T-426-RUIS)
-14:55 : N/A
-"M121":08:30 : Viðskiptaspænska I (V-106-SPAN)
-09:20 : Öflun og framsetning gagna (T-416-VIFG)
+"M119":08:30 : N/A
+09:20 : N/A
 10:20 : N/A
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M122":08:30 : Nýsköpun og stofnun fyrirtækja (AI STF1003)
-09:20 : Alþjóðafjármál (V-603-ALFM)
-10:20 : Burðarþolsfræði II (BT BUÞ2013)
+"M120":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
 11:10 : N/A
-12:20 : Burðarþolsfræði II (BT BUÞ2013)
+12:20 : N/A
 13:10 : N/A
-14:00 : Sjálfbær orkukerfi (R-M5)
+14:00 : N/A
+14:55 : N/A
+"M121":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M122":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
 14:55 : N/A
 "M210":08:30 : N/A
 09:20 : N/A
@@ -2525,14 +1986,553 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M209":08:30 : �?slenska (F �?SL 4005)
-09:20 : App Development - Android (T-431-ANDR)
+"M209":08:30 : N/A
+09:20 : N/A
 10:20 : N/A
-11:10 : �?slenska (F �?SL 4005)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M325":08:30 : MS ritgerð (T-899-MSTH)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M326":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M327":08:30 : Meistararitgerð í Fjármálum (V-899-TH30)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"O-401 - Viðskiptasmiðjan":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V302":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V207b Rafeinda- og stýritæknistofa":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V207c Rafeinda- og stýritæknistofa":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V301":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M201":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"U201":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M215":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M216":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M217":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"u102 Kennslustofa - bókasafn":08:30 : Samspil: arkitektúr og verkfræði (T-821-FORM)
+09:20 : Umferðartækni II (T-854-UMFE)
+10:20 : Málstofa í heilbrigðisvísindum (T-860-MALS)
+11:10 : Tré- og stálvirki II (BT BYG2013)
+12:20 : Lokaverkefni (VI LOK1006)
+13:10 : Rekstrarbókhald IV (V-783-REK4)
+14:00 : Hagnýt stærðfræði II (V-624-STII)
+14:55 : Skattskil rekstraraðila (C-FJA-SSRE)
+"LH�?":08:30 : Líkams- og heilsurækt (E-204-PACT)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V201":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V307":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"Upptökuherbergi":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"Verður birt seinna":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"220 Stjórnendabaun Opni háskólinn":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+
+Friday:
+---------------------------------
+"V101":08:30 : Merkjafræði (T-306-MERK)
+09:20 : Rekstrarstjórnun (V-311-OPMA)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V102":08:30 : Excel og tölfræði (F EXC 1005)
+09:20 : Úrlausn ágreiningsmála (m.a. fyrir dómstólum og stjórnvöldum) (L-713-URAG)
+10:20 : Hugmyndasaga (F HUG 1005)
+11:10 : Excel og tölfræði (F EXC 1005)
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V107":08:30 : Meistaraverkefni (T-899-MEIS)
+09:20 : Tölfræði II (T-402-TOLF)
+10:20 : Þjálffræði (E-302-THET)
+11:10 : Stærðfræði II (AT STÆ2003)
 12:20 : Uppl.- og samskiptatækni í skólakerfinu (T-418-UPSS)
-13:10 : App Development - HTML (T-432-HTML)
-14:00 : Enska (F ENS 4005)
-14:55 : App Development - Iphone (T-430-IPON)
+13:10 : Fjármál einstaklinga (C-VFMR-FEI)
+14:00 : N/A
+14:55 : N/A
+"V108":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V103":08:30 : Geothermal Subsurface Exploration (R-E2)
+09:20 : Enska (F ENS 3005)
+10:20 : �?hættustýring (T-602-RISK)
+11:10 : Aðferðafræði rannsókna (E-702-REME)
+12:20 : Hagnýtt verkefni II (RT HVR2003)
+13:10 : Sveiflufræði (VT SVF1003)
+14:00 : Rekstrargreining (AI RGR1003)
+14:55 : Varma- og rennslisfræði (VI VAR1003)
+"V104":08:30 : Lokaverkefni (T-877-FINA)
+09:20 : Arðsemismat og fjármögnun (R-B2)
+10:20 : Vélhlutafræði I (VT VHF1003)
+11:10 : Starfsnám (T-600-STAR)
+12:20 : Byggingarfræði - byggingartækni (BI BFR1013)
+13:10 : �?hrifaþættir þroska (E-412-CDYA)
+14:00 : Operation Management (V-731-OPMA)
+14:55 : Marketing Management (V-711-MAR3)
+"V105":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V106":08:30 : Próf - Grunnatriði í fjármálum (C-PROF-VBM)
+09:20 : PMD - �?rangur í Rekstri (C-NBR-ARRE)
+10:20 : Fjármál fyrirtækja II (V-763-COR2)
+11:10 : Fjárfestingar (V-777-INVE)
+12:20 : Verðlagning verðbréfa (V-402-VEVE)
+13:10 : Gerð markaðsáætlunar (V-649-STMP)
+14:00 : Entrepreneurship and New Venture Creation (V-822-ENVC)
+14:55 : Hagnýt netkerfi (T-431-HANE)
+"V110":08:30 : Hagnýt tölfræði (E-707-APST)
+09:20 : Endurskoðun III - endurskoðunarfræði (V-801-ENDU)
+10:20 : Organizational HR Metrics and Applied Research Methods (V-704-OMAR)
+11:10 : Straumlínustjórnun: Þróun viðskiptaferla - stöðugar framfarir (C-FAG-LEAN)
+12:20 : Kynningarfundur (C-FAG-KYNN)
+13:10 : Enska (F ENS 3005)
+14:00 : Meðferðartækni (T-865-THER)
+14:55 : Sjálfstætt verkefni (E-718-IDEP)
+"V109":08:30 : Vöruþróun og frumkvöðlafræði (T-814-PROD)
+09:20 : Agile aðferðir í verkefnastjórnun – með áherslu á Scrum (T-849-AGVE)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V118 Vélsmiðja":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V117 Orkutæknistofa":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V113 Efnafræðistofa":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V112":08:30 : Hagnýtt verkefni I (RT HVR1003)
+09:20 : Próf - Markaðsviðskipti (C-FAG-PRMA)
+10:20 : Viðskiptaspænska II (V-207-SPII)
+11:10 : International Management (V-819-INMA)
+12:20 : Vatns- og fráveitur (BT LAG3003)
+13:10 : Doktorsvörn (T-993-PHDD)
+14:00 : �?rangursrík forritun og lausn verkefna (T-414-AFLV)
+14:55 : �?rangursrík samskipti (S-STJ-ARS)
+"V111":08:30 : SQL gagnagrunnar (C-FAG-SQLG)
+09:20 : Vísindaferð kvennanefndar verkfræðingafélagsins (C-FAG-V�?SK)
+10:20 : Cross-cultural negotiations (C-FAG-CNEG)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V209 Eðlisfræðistofa":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V207a Rafeinda- og stýritæknistofa":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V116 Civil Engineering":08:30 : Hagnýt eðlisfræði í byggingum (BT HEB1003)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V216":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"V220":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M101":08:30 : Stjórnun (V-203-STJ1)
+09:20 : N/A
+10:20 : Þriggja vikna námskeið (T-100-XXX)
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M102":08:30 : Portfolio Management (V-811-PORT)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M106":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M107":08:30 : �?rangursrík samskipti (S-STJ-ARS)
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M108":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M109":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M105":08:30 : Samkeppnisréttur (L-303-SAKE)
+09:20 : Ný tækni (T-611-NYTI)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M104":08:30 : Sókn og vörn í sakamálum (L-708-HLOM)
+09:20 : Lífeðlisfræði (E-201-PHYS)
+10:20 : Eðlisfræði (F E�?L 1015)
+11:10 : App Development - Iphone (T-430-IPON)
+12:20 : Próffræði og mælingar í sálfræði (E-411-PRMA)
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M103":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M112":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M113":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M116":08:30 : Framkvæmdafræði og verkstjórn (AI FRK1003)
+09:20 : Samskiptafærni (C-NBR-SSF)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M118":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M123":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M124":08:30 : N/A
+09:20 : Stærðfræði (F STÆ 2005)
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M110":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M117":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M111":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M114":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M115":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M119":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M120":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M121":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M122":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M210":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M208":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
+"M209":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
+14:55 : N/A
 "M325":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -2597,9 +2597,9 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"M201":08:30 : Stjórnun rekstur og öryggi (AI STJ1003)
-09:20 : Stefnumótun (V-404-STEF)
-10:20 : Stærðfræði (F STÆ 4005)
+"M201":08:30 : N/A
+09:20 : Stærðfræði (F STÆ 4005)
+10:20 : Rekstrarhagfræði II (V-625-REII)
 11:10 : N/A
 12:20 : N/A
 13:10 : N/A
@@ -2637,7 +2637,15 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"u102 Kennslustofa - bókasafn":08:30 : N/A
+"u102 Kennslustofa - bókasafn":08:30 : Advanced Concrete Technology I (T-841-CONC)
+09:20 : Rannsóknatengt verkefni í mannvirkjahönnun (T-829-RANN)
+10:20 : Almennir bókarar (C-ALM-BOK )
+11:10 : Vega - og gatnagerð II (BT VEG2003)
+12:20 : Business Process Management (V-716-BPMA)
+13:10 : Rekstrarbókhald V (V-784-REK5)
+14:00 : Business strategies for Sustainable Development (V-653-STSU)
+14:55 : Grunnatriði verkefnastjórnunar (C-FAG-VERK)
+"LH�?":08:30 : Körfubolti / Blak (E-416-BAVO)
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
@@ -2645,14 +2653,6 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"LH�?":08:30 : Stjórnsýsluréttur (L-401-STJR)
-09:20 : N/A
-10:20 : Aðgerðagreining (T-403-ADGE)
-11:10 : Vefforritun (T-213-VEFF)
-12:20 : N/A
-13:10 : Vefforritun (T-213-VEFF)
-14:00 : Rekstrarhagfræði I (V-201-RHAG)
-14:55 : Línuleg algebra (T-211-LINA)
 "V201":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
@@ -2677,19 +2677,19 @@ Friday:
 13:10 : N/A
 14:00 : N/A
 14:55 : N/A
-"Verður birt seinna":08:30 : Excel og tölfræði (F EXC 1005)
-09:20 : Stærðfræði (F STÆ 2005)
-10:20 : Hagnýtur samningaréttur (L-828-PCLA)
-11:10 : Excel og tölfræði (F EXC 1005)
-12:20 : �?slenska (F �?SL 2005)
-13:10 : Samningatækni (V-628-SAMN)
-14:00 : Stærðfræði I (T-101-STA1)
+"Verður birt seinna":08:30 : N/A
+09:20 : N/A
+10:20 : N/A
+11:10 : N/A
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
 14:55 : N/A
 "220 Stjórnendabaun Opni háskólinn":08:30 : N/A
 09:20 : N/A
 10:20 : N/A
 11:10 : N/A
-12:20 : Rafeindatækni (T-509-RAFT)
-13:10 : Stærðfræði (F STÆ 4105)
-14:00 : Viðskiptasiðfræði (V-514-VISI)
+12:20 : N/A
+13:10 : N/A
+14:00 : N/A
 14:55 : N/A
