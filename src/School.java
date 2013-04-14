@@ -2,6 +2,9 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Random;
 
 public class School {
 	ArrayList<Student> students;
@@ -30,8 +33,8 @@ public class School {
 				Student s = new Student(j, Integer.parseInt(h));
 				if (!student.contains(s))
 					student.add(s);
-		//		else
-		//			System.out.println("Skipped student");
+				// else
+				// System.out.println("Skipped student");
 			}
 			if (line.startsWith("attends") == true) {
 				String[] d = line.split(",");
@@ -57,7 +60,8 @@ public class School {
 					} else {
 						b = b + x;
 						Class c = new Class(b, Integer.parseInt(a),
-								Integer.parseInt(e), Integer.parseInt(f),g.charAt(0));
+								Integer.parseInt(e), Integer.parseInt(f),
+								g.charAt(0));
 						c.setInputId(inputclassnumber);
 						inputclassnumber++;
 						classes.add(c);
@@ -72,7 +76,8 @@ public class School {
 					if (Integer.parseInt(k) == 0) {
 					} else {
 						Class c = new Class(j, Integer.parseInt(h),
-								Integer.parseInt(i), Integer.parseInt(k), p.charAt(0));
+								Integer.parseInt(i), Integer.parseInt(k),
+								p.charAt(0));
 						c.setInputId(inputclassnumber);
 						inputclassnumber++;
 						classes.add(c);
@@ -87,40 +92,38 @@ public class School {
 				String i = d[2];
 				String x = d[3].replace("\"", "");
 				i = i.replace(").", "");
-				
-				//Create a new room
-				Room r = new Room(Integer.parseInt(h), 0, Integer.parseInt(j), i, 0,x.charAt(0));
+
+				// Create a new room
+				Room r = new Room(Integer.parseInt(h), 0, Integer.parseInt(j),
+						i, 0, x.charAt(0));
 				r.setRoominputindex(roominputid);
 				roominputid++;
 				room.add(r);
-				
-				/*One room is enough
-				 * for (int time = 0; time < 8; time++) {
-					for (int day = 0; day < 5; day++) {
-						Room r = new Room(Integer.parseInt(h), time,
-								Integer.parseInt(j), i, day);
-						r.setRoominputindex(roominputid);
-						roominputid++;
-						room.add(r);
-					}
-				}*/
+
+				/*
+				 * One room is enough for (int time = 0; time < 8; time++) { for
+				 * (int day = 0; day < 5; day++) { Room r = new
+				 * Room(Integer.parseInt(h), time, Integer.parseInt(j), i, day);
+				 * r.setRoominputindex(roominputid); roominputid++; room.add(r);
+				 * } }
+				 */
 			}
 			if (line.startsWith("teacher") == true) {
 				String[] d = line.split(",");
 				String h = d[0].replace("teacher(", "");
-				String j = d[1];//.replace(").", "");
+				String j = d[1];// .replace(").", "");
 				String daysString = d[2].replace(").", "");
 				String[] daysArr = daysString.split("-");
-					
+
 				j = j.replace("\"", "");
 				Teacher t = new Teacher(j, Integer.parseInt(h));
-				
-				for(String day : daysArr){
-					if(!day.isEmpty())
+
+				for (String day : daysArr) {
+					if (!day.isEmpty())
 						t.preferedDays.add(Integer.parseInt(day));
 				}
-				
-				if(!teachers.contains(t))
+
+				if (!teachers.contains(t))
 					teachers.add(t);
 			}
 			if (line.startsWith("teaches")) {
@@ -137,16 +140,16 @@ public class School {
 		School S = new School(student, classes, room, teachers);
 		for (int i = 0; i < teaches.size(); i++) {
 			for (int j = 0; j < S.classes.size(); j++) {
-				if (teaches.get(i).getCourseId() == S.classes.get(j).getId()){
+				if (teaches.get(i).getCourseId() == S.classes.get(j).getId()) {
 					Teacher teacher = null;
 					int id = teaches.get(i).getTeacherId();
-					for(Teacher t : teachers){
-						if(t.getTeacherId() == id){
+					for (Teacher t : teachers) {
+						if (t.getTeacherId() == id) {
 							teacher = t;
 							break;
 						}
 					}
-					if(teacher != null)
+					if (teacher != null)
 						S.classes.get(j).teachers.add(teacher);
 				}
 			}
@@ -165,7 +168,7 @@ public class School {
 	}
 
 	public School(ArrayList<Student> students, ArrayList<Class> classes,
-	ArrayList<Room> rooms, ArrayList<Teacher> teachers) {
+			ArrayList<Room> rooms, ArrayList<Teacher> teachers) {
 		this.students = students;
 		this.classes = classes;
 		this.rooms = rooms;
@@ -183,4 +186,38 @@ public class School {
 	School() {
 	}
 	
+	// For Sorting input by capacity uncomment S.sort in Scheduler to shuffle it.
+	public class CustomComparator implements Comparator<Room> {
+	    @Override
+	    public int compare(Room o1, Room o2) {
+	        if(o1.getCapacity() > o2.getCapacity())
+	        	return -1;
+	        else
+	        	return 1;
+	    }
+	}
+	
+	public class CustomComparator1 implements Comparator<Class>{
+		@Override
+		public int compare(Class c1, Class c2){
+			if(c1.getStudentCount() > c2.getStudentCount())
+				return -1;
+			else
+				return 1;
+		}
+	}
+	
+	//Sorting function used to sort the data.
+	public void sort() {
+		Collections.sort(this.rooms, new CustomComparator());
+		Collections.sort(this.classes, new CustomComparator1());
+	}
+	
+	
+	//Shuffle function used for the shuffle data.
+	public void shuffle(){
+		long seed = System.nanoTime();
+		Collections.shuffle(this.rooms, new Random(seed));
+		Collections.shuffle(this.classes, new Random(seed));
+	}
 }
