@@ -80,6 +80,7 @@ public class Solver {
 			SearchNode next = expandNode(node);
 			if(next == null){
 				System.out.println("Cutoff");
+				frontier.remove(node);
 				continue; // Cutoff
 			}
 			
@@ -120,7 +121,7 @@ public class Solver {
 	
 	public SearchNode expandNode(SearchNode node)
 	{
-		//node.score -= 10;
+		node.score -= 1;
 		
 		int bestScore = -10000;
 		int bestC= -1;
@@ -150,7 +151,7 @@ public class Solver {
 		if(bestC == -1)
 			return null;
 		
-		SearchNode newNode = new SearchNode(node, bestScore);
+		SearchNode newNode = new SearchNode(node, bestScore +1);
 		newNode.c = bestC;
 		newNode.t = bestT;
 		newNode.assignments[bestC] = bestT+1;
