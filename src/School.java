@@ -137,9 +137,18 @@ public class School {
 		School S = new School(student, classes, room, teachers);
 		for (int i = 0; i < teaches.size(); i++) {
 			for (int j = 0; j < S.classes.size(); j++) {
-				if (teaches.get(i).getCourseId() == S.classes.get(j).getId())
-					S.classes.get(j).teachers
-							.add(teaches.get(i).getTeacherId());
+				if (teaches.get(i).getCourseId() == S.classes.get(j).getId()){
+					Teacher teacher = null;
+					int id = teaches.get(i).getTeacherId();
+					for(Teacher t : teachers){
+						if(t.getTeacherId() == id){
+							teacher = t;
+							break;
+						}
+					}
+					if(teacher != null)
+						S.classes.get(j).teachers.add(teacher);
+				}
 			}
 		}
 		for (int i = 0; i < attendent.size(); i++) {
@@ -156,7 +165,7 @@ public class School {
 	}
 
 	public School(ArrayList<Student> students, ArrayList<Class> classes,
-			ArrayList<Room> rooms, ArrayList<Teacher> teachers) {
+	ArrayList<Room> rooms, ArrayList<Teacher> teachers) {
 		this.students = students;
 		this.classes = classes;
 		this.rooms = rooms;

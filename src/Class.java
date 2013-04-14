@@ -7,7 +7,7 @@ public class Class {
 	int numberaweek; // Dummy value always 4;
 	int studentCount;
 	ArrayList<Integer> students = new ArrayList<Integer>();
-	ArrayList<Integer> teachers = new ArrayList<Integer>();
+	ArrayList<Teacher> teachers = new ArrayList<Teacher>();
 	int inputId;
 	int day;
 	char wantroomtype;

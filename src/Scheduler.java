@@ -138,19 +138,32 @@ public class Scheduler {
 		
 		if(c.numberaweek == 2 && c.day == t.day)
 			score -= 1000;
-		if (t.room.capacity < c.students.size())
-			score -= 100;
 		
+		//Check room preference
 		if(c.wantroomtype == t.room.type)
-			score += 100;
+			score += 5;
 		else
 			score -= 100;
 		
-		if(Math.abs(c.students.size() - t.room.capacity) > 40)
-		score -= Math.abs(c.students.size() - t.room.capacity);
+		//Check room capacity
+		if (t.room.capacity < c.students.size())
+			score -= 100;
+		if(Math.abs(c.students.size() - t.room.capacity) > 50)
+			score -= Math.abs(c.students.size() - t.room.capacity);
 		else
 			score += Math.abs(c.students.size() - t.room.capacity);
 
+		//Check teacher preference
+		for(Teacher teacher : c.teachers){
+			if(teacher.preferedDays.isEmpty())
+				continue;
+			
+			int dayIndex = teacher.preferedDays.indexOf(t.day);
+			if(dayIndex == -1)
+				score -= 10000;
+			else
+				score += (5-dayIndex);
+		}
 		
 		//Check conflicts
 		for (int i = 0; i < S.rooms.size(); i++) {
